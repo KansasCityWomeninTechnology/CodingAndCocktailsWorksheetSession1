@@ -12,7 +12,7 @@ During the session we’ll cover HTML &amp; CSS basics and best practices. We’
 
 
 
-**NOTE: See what the rendered pages look like here:** [**http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html)
+
 
 **Let’s Get Coding!** { #coding }
 
