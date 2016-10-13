@@ -1,5 +1,5 @@
 # Summary
 
 * [HTML](README.md)
-* Troubleshooting
+* [Troubleshooting](troubleshooting.md)
 
