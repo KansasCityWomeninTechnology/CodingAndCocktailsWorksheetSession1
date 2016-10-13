@@ -20,3 +20,5 @@ Let’s have some practice troubleshooting so you can feel more confident coding
 5.  Open up the troubleshooting folder and take a look at exercise 1 (HTML focus) and work through the exercise
 6.  If you finish exercise 1 try exercise 2 (CSS focus)
 7.  If you finish both exercises try the bonus exercise.
+
+**NOTE: See what the rendered pages look like here:** [**http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html)
