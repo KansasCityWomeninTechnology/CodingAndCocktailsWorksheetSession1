@@ -1,6 +1,6 @@
 # HTML {#html}
 
-**Coding &amp; Cocktails Session 5 Worksheet**![codingcocktailsbadge-200.png](export/assets/codingcocktailsbadge-200.png)
+**Coding &amp; Cocktails Session 5 Worksheet** 
 
 **Overview**
 
