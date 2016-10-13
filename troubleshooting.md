@@ -1,6 +1,6 @@
 # Troubleshooting
 
-**In Class: Troubleshooting Exercises** { #troubleshooting } 
+**In Class: Troubleshooting Exercises**
 
 Let’s have some practice troubleshooting so you can feel more confident coding on your own!
 
