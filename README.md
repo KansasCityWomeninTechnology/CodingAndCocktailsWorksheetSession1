@@ -1,48 +1,39 @@
 # HTML {#html}
+**Coding &amp; Cocktails Session 5 Worksheet**                      ![](logo.png)
+                                                                                  
 
-**Coding &amp; Cocktails Session 5 Worksheet** 
-
-**Overview**
+**Overview** { #overview }
 
 During the session we’ll cover HTML &amp; CSS basics and best practices. We’ll put those to use here creating our own web page!
 
-**Prep Work (pairs nicely with a glass of wine)**
+**Prep Work (pairs nicely with a glass of wine)** { #prep }
 
-1.  Install [Google Chrome](http://www.google.com/chrome/) - this is our preferred browser to work in.
-2.  Download a text editor - we recommend Sublime Text 2 (Windows 64 bit version for Windows users) ([http://www.sublimetext.com/2](http://www.sublimetext.com/2))
-3.  If you don’t have one yet, create an account on [Github](https://github.com/)
-4.  Install Git ([https://git-scm.com/downloads](https://git-scm.com/downloads))
-5.  Command Line Tools:
-    1.  Mac: [iTerm2](https://www.iterm2.com/) + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh#basic-installation)
-    2.  Windows: Gitbash (gets installed with git in step 4)
-6.  Sign up for our slack chat group (make sure to join the #codingandcocktails channel to keep in touch with all of your KCWiT girlfriends - if you didn’t receive an invitation let us know!
+1.  Follow our tools document to install the tools you'll need to work with
 
-**In Class: Troubleshooting Exercises**
+**In Class: Troubleshooting Exercises** { #troubleshooting } 
 
 Let’s have some practice troubleshooting so you can feel more confident coding on your own!
 
-1.  Log in to your personal github account
+1.  Log in to your personal GitHub account
 2.  Navigate to [https://github.com/KansasCityWomeninTechnology/examples](https://github.com/KansasCityWomeninTechnology/examples)
-3.  Click the “Fork” button in the upper right (if necessary choose your personal github account)
-4.  Navigate to your version of the examples repository (should be [https://github.com/](https://github.com/)&lt;your username&gt;/examples)
-5.  Click the small clipboard icon next to the url just above the file names to copy the url to your clipboard:
-
-![Screen Shot 2015-12-22 at 8.52.47 PM.png](export/assets/screen_shot_2015-12-22_at_85247_p.png)
-
-1.  In git bash (Windows) or iterm (Mac) navigate to your documents folder and create a directory/folder called “gitrepos” (command: “mkdir gitrepos”). You will store anything we work on from Github here.
-    1.  Check your current directory location with the command “pwd”
-    2.  move to a new directory with the command “cd”
-    3.  create a new directory with the command “mkdir &lt;folder/directory name&gt;”
-2.  navigate into the gitrepos directory (command: “cd gitrepos”)
-3.  type “git clone &lt;paste your examples repository url here&gt;” This will create a directory called examples for you with the contents from github inside the directory.
-4.  Open that examples directory in sublime text.
+3.  Click the “Fork” button in the upper right
+  a.  If necessary choose your personal GitHub account
+4.  Navigate to your version of the examples repository 
+  a.  This should loook like [https://github.com/](https://github.com/)&lt;your username&gt;/examples)
+5.  Click the small clipboard icon next to the url just above the file names to copy the url to your clipboard:     ![](assets/screen_shot_2015-12-22_at_85247_p.png)
+6.  In Git Bash (Windows) or iTerm2 (Macs) navigate to your CodingAndCocktails folder. You will store anything we work on from GitHub here.
+    a.  Check your current directory location with the command “pwd”
+    b.  Move to a new directory with the command “cd”
+    c.  Create a new directory with the command “mkdir CodingAndCocktails”
+3.  Ttype `git clone &lt;paste your examples repository url here&gt;` This will create a directory called examples for you with the contents from GitHub inside the directory.
+4.  Open that examples directory in SublimeText.
 5.  Open up the troubleshooting folder and take a look at exercise 1 (HTML focus) and work through the exercise
 6.  If you finish exercise 1 try exercise 2 (CSS focus)
 7.  If you finish both exercises try the bonus exercise.
 
 **NOTE: See what the rendered pages look like here:** [**http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html)
 
-**Let’s Get Coding!**
+**Let’s Get Coding!** { #coding }
 
 Now that we’ve got an HTML &amp; CSS primer, let’s start writing some code!
 
