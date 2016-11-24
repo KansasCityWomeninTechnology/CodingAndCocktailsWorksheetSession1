@@ -1,4 +1,5 @@
-# Introduction to HTML {#html}
+# Coding & Cocktails Session 1:
+## Introduction to HTML {#html}
 **Coding &amp; Cocktails Session 1 Worksheet**                      ![](logo.png)
                                                                                   
 
