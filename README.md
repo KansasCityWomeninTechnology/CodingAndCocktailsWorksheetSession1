@@ -1,6 +1,13 @@
 # Coding & Cocktails Session 1:
 ## Introduction to HTML {#html}
-**Coding &amp; Cocktails Session 1 Worksheet**                      ![](logo.png)
+
+
+
+---
+
+
+
+![](assets/codingcocktailsbadge-200.png)
                                                                                   
 
 **Overview**
