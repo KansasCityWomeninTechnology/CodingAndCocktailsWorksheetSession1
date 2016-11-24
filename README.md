@@ -15,6 +15,15 @@ Toight we covered HTML basics and best practices. We’ll put those to use here 
   <a href="http://bit.ly/CnCgloss">bit.ly/CnCgloss</a>
 </div>
 
+<div class="lavender">
+  <h6>First time at C&amp;C?</h6>
+  <h6>Install recommended tools</h6>
+  <a href="http://bit.ly/CnCTools">bit.ly/CnCTools</a>
+</div>
+
+
+
+ 
 
 
  
