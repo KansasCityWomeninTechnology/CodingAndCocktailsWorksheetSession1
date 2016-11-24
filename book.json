@@ -1,25 +1,26 @@
 {
-    "plugins": ["autocover"],
-    "pluginsConfig": {
+  "plugins": ["autocover", "custom-favicon"],
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Introduction to HTML",
+      "author": "Coding & Cocktails Kansas City",
+      "pluginsConfig": {
         "autocover": {
-          "title": "Introduction to HTML",
-          "author": "Coding & Cocktails Kansas City",
-          "pluginsConfig": {
-              "autocover": {
-                  "font": {
-                      "size": null,
-                      "family": "Lato",
-                      "color": "#FFF"
-                  },
-                  "size": {
-                      "w": 1800,
-                      "h": 2360
-                  },
-                  "background": {
-                      "color": "#666b8f"
-                  }
-              }
+          "font": {
+            "size": null,
+            "family": "Lato",
+            "color": "#FFF"
+          },
+          "size": {
+            "w": 1800,
+            "h": 2360
+          },
+          "background": {
+            "color": "#666b8f"
           }
+        }
       }
-    }
+    },
+    "favicon": "assets/favicon.ico"
+  }
 }
