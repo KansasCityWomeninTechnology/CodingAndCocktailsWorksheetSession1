@@ -6,4 +6,4 @@
 
 **Overview**
 
-Toight we covered HTML basics and best practices. We’ll put those to use here creating our own web page, understanding HTML structure and become more comfortable using HTML.
+Toight we covered HTML basics and best practices. We’ll put those to use here creating our own web page and begin understanding HTML structure as well as becoming more comfortable using HTML.
