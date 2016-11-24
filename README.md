@@ -1,5 +1,5 @@
 # Coding & Cocktails Session 1:
-## Introduction to HTML {#html}
+### Introduction to HTML {#html}
 
 <hr class="inline">  ![Coding & Cocktails Logo](assets/codingcocktailsbadge-200.png)
                                                                                   
