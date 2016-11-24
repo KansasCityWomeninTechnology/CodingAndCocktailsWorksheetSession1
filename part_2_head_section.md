@@ -3,5 +3,6 @@ The head section contains data telling your browser more information about your 
 
 1. Set the title for your page inside the title tags.  This sets what will show on the tab.
 2. Save the file
-3. Navigate to your CodingAndCocktails folder and open the _index.html_ file in your Google Chrome browser
-4. You won't see anything exciting on the page itself yet but you should see your title in the page tab.
+3. In your file system, navigate to your CodingAndCocktails folder 
+4. Open the _index.html_ file in your Google Chrome browser
+5. You won't see anything exciting on the page itself yet but you should see your title displayed in the page tab.
