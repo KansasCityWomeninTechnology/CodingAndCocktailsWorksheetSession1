@@ -8,7 +8,7 @@ HTML provides your website with the underlying structure.  We'll start with a ba
 ```html
 <!DOCTYPE html>
 <html>
-  <head>
+    <head>
         <meta charset="utf-8">
         <title></title>
     </head>
