@@ -2,9 +2,9 @@
 
 * [HTML](README.md)
 * [Project Part 1](project.md)
+* Part 2: Head Section
 * [Troubleshooting](troubleshooting.md)
 * [Let's Get Coding!](coding.md)
 * [Personal Page](personal_page.md)
 * [Homework](homework.md)
-* Part 2: Head Section
 
