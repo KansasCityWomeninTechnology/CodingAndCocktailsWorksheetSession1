@@ -21,3 +21,4 @@ We'll explore using the Emmet plugin in the Atom text editor that we use as our 
     </body>
 </html>
 ```
+6. Cheers! You just set up the structural foundation of a web page!
