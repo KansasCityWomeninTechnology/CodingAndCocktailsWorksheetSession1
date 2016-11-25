@@ -8,4 +8,5 @@
 * [Let's Get Coding!](coding.md)
 * [Personal Page](personal_page.md)
 * [Homework](homework.md)
+* Part 4: Body Section - Paragraphs
 
