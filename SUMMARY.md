@@ -8,9 +8,9 @@
 * Part 5: Body Section - Images
 * Part 6: Body Section - Tables
 * Part 7: Body Section - Forms
+* Part 8: Body Section - Navigation & Footer
 * [Troubleshooting](troubleshooting.md)
 * [Let's Get Coding!](coding.md)
 * [Personal Page](personal_page.md)
 * [Homework](homework.md)
-* Part 8: Body Section - Navigation & Footer
 
