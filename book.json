@@ -1,5 +1,5 @@
 {
-  "plugins": ["autocover", "custom-favicon"],
+  "plugins": ["autocover", "custom-favicon", "bootstrapjs"],
   "pluginsConfig": {
     "autocover": {
       "title": "Introduction to HTML",
