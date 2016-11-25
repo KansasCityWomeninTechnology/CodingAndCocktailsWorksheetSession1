@@ -12,4 +12,5 @@
 * [Troubleshooting](troubleshooting.md)
 * [Personal Page](personal_page.md)
 * [Homework](homework.md)
+* Part 8: Body Section - Anchors (aka Links)
 
