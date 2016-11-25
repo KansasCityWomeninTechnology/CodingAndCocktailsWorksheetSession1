@@ -11,6 +11,5 @@
 * Part 8: Body Section - Navigation & Footer
 * Part 8: Body Section - Anchors (aka Links)
 * [Homework: Troubleshooting](troubleshooting.md)
-* [Personal Page](personal_page.md)
 * [Homework](homework.md)
 
