@@ -10,7 +10,7 @@
 * Part 7: Body Section - Forms
 * Part 8: Body Section - Navigation & Footer
 * Part 8: Body Section - Anchors (aka Links)
-* [Troubleshooting](troubleshooting.md)
+* [Homework: Troubleshooting](troubleshooting.md)
 * [Personal Page](personal_page.md)
 * [Homework](homework.md)
 
