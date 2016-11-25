@@ -7,9 +7,9 @@
 * [Part 4: Body Section - Paragraphs](part_4_body_section_-_paragraphs.md)
 * Part 5: Body Section - Images
 * Part 6: Body Section - Tables
+* Part 7: Body Section - Forms
 * [Troubleshooting](troubleshooting.md)
 * [Let's Get Coding!](coding.md)
 * [Personal Page](personal_page.md)
 * [Homework](homework.md)
-* Part 7: Body Section - Forms
 
