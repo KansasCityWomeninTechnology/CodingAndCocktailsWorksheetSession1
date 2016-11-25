@@ -15,7 +15,7 @@ Let’s have some practice troubleshooting so you can feel more confident coding
     a.  Check your current directory location with the command “pwd”
     b.  Move to a new directory with the command “cd”
     c.  Create a new directory with the command “mkdir CodingAndCocktails”
-3.  Ttype `git clone &lt;paste your examples repository url here&gt;` This will create a directory called examples for you with the contents from GitHub inside the directory.
+3.  Type `git clone &lt;paste your examples repository url here&gt;` This will create a directory called examples for you with the contents from GitHub inside the directory.
 4.  Open that examples directory in SublimeText.
 5.  Open up the troubleshooting folder and take a look at exercise 1 (HTML focus) and work through the exercise
 6.  If you finish exercise 1 try exercise 2 (CSS focus)
