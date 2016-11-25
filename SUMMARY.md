@@ -10,7 +10,6 @@
 * Part 7: Body Section - Forms
 * Part 8: Body Section - Navigation & Footer
 * [Troubleshooting](troubleshooting.md)
-* [Let's Get Coding!](coding.md)
 * [Personal Page](personal_page.md)
 * [Homework](homework.md)
 
