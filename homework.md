@@ -2,7 +2,7 @@
 
 **Homework**
 
-Work through the Make a Website course on codecademy.
+Work through the HTML & CSS course on codecademy.
 
-1.  [https://www.codecademy.com/en/skills/make-a-website](https://www.codecademy.com/en/skills/make-a-website)
+1.  [https://www.codecademy.com/learn/web](https://www.codecademy.com/learn/web) 
 
