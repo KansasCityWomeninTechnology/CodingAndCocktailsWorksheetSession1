@@ -9,7 +9,7 @@
 * [Part 6: Body Section - Tables](part_6_body_section_-_tables.md)
 * [Part 7: Body Section - Forms](part_7_body_section_-_forms.md)
 * [Part 8: Body Section - Navigation & Footer](part_8_body_section_-_navigation_&_footer.md)
-* Part 8: Body Section - Anchors (aka Links)
+* [Part 8: Body Section - Anchors (aka Links)](part_8_body_section_-_anchors_aka_links.md)
 * [Homework: Troubleshooting](troubleshooting.md)
 * [Homework: Codecademy](homework.md)
 
