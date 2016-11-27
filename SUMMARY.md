@@ -5,7 +5,7 @@
 * [Part 2: Head Section](part_2_head_section.md)
 * [Part 3: Body Section - Headers](part_3_body_section_headers.md)
 * [Part 4: Body Section - Paragraphs](part_4_body_section_-_paragraphs.md)
-* Part 5: Body Section - Images
+* [Part 5: Body Section - Images](part_5_body_section_-_images.md)
 * Part 6: Body Section - Tables
 * Part 7: Body Section - Forms
 * Part 8: Body Section - Navigation & Footer
