@@ -8,7 +8,7 @@
 * [Part 5: Body Section - Images](part_5_body_section_-_images.md)
 * [Part 6: Body Section - Tables](part_6_body_section_-_tables.md)
 * [Part 7: Body Section - Forms](part_7_body_section_-_forms.md)
-* Part 8: Body Section - Navigation & Footer
+* [Part 8: Body Section - Navigation & Footer](part_8_body_section_-_navigation_&_footer.md)
 * Part 8: Body Section - Anchors (aka Links)
 * [Homework: Troubleshooting](troubleshooting.md)
 * [Homework: Codecademy](homework.md)
