@@ -7,11 +7,13 @@ You'll often find yourself needing to look at how your page is being rendered in
     This will open up your Chrome Developer Tools to the `elements` tab
     
 2. Notice you can see all of your tags that you've added to the page and how they are nested inside the `body` tag.  It should look something like this:
+![](/_book/assets/devTools.png)
      
 3. Notice as you mouse over elements in the Dev Tools that they are highlighted in the rendered view above.  
 
 4. You can also preview changes here before making them in your code
     * In the `elements` section of the Dev Tools, double click on the text inside your `h2` tag.  This should make it editable.  Change it to "Hello World" and then press `enter` 
+    
     
     * Your `h2` text should now display "Hello World" on your rendered page. 
     
