@@ -1,5 +1,5 @@
 {
-  "plugins": ["custom-favicon"],
+  "plugins": ["custom-favicon","autocover"],
   "pluginsConfig": {
     "favicon": "assets/favicon.ico"
   }
