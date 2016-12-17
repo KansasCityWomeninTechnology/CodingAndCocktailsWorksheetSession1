@@ -15,5 +15,5 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 If you want to read up on header elements check out the documentation from MDN:
 [Mozilla Developer Network Documentation on heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
-TODO: Add inspecting and modification
+TODO: Add inspecting and modification & add classes
 
