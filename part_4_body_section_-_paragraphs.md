@@ -5,8 +5,9 @@ Most websites have some text on the page. Let's add some to ours!
 
 2. We'll use emmet to add some text for us for now.  Lorem ipsum text is often used as dummy text in the printing industry to show what the page layout will look like.
 
-    * Type `lorem` inside the `p` tags and push tab.  This will insert some placeholder lorem ipsum text for you. It should look like this: 
+    * Type `lorem` inside the `p` tags and push `tab`.  This will insert some placeholder lorem ipsum text for you. It should look like this: 
     
-    ![](/lorem.png)
+    ![](assets/lorem.png)
 
 3. Save your html file and refresh in your Google Chrome browser. You should now see something like this: 
+![](/assets/firstCheckpoint.png)
