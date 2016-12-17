@@ -5,3 +5,5 @@ Under the "Contact" header we'll add a form to allow people to contact us. Norma
 1. 
 
 
+2. Save your file and reload it in Google Chrome.
+
