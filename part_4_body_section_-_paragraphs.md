@@ -14,6 +14,7 @@ Most websites have some text on the page. Let's add some to ours!
     >Hint: If you know exactly how many words you want you can specify that with a number after the `lorem` word in your code.  For example if I wanted 50 words I would type `lorem50` and then push `tab`.  
 
 3. Save your html file and refresh in your Google Chrome browser. You should now see something like this: 
+![](/assets/firstCheckpoint.png)
 
 
 [Mozilla Develper Network paragraph element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)

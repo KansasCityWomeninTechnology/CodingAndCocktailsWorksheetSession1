@@ -8,14 +8,17 @@ Add an image to your about section to bring some interest to your page.
 
 3. Change the license filter from "Any License" to "Commercial use allowed"
 
-4. Choose your favorite image, click on it and click on the download icon in the lower right corner.  You get to choose what size you'd like on your page. 
+4. Choose your favorite image, click on it and click on the download icon in the lower right corner.  You get to choose what size you'd like on your page. You'll want to save it into your CodingAndCocktails/html folder
 
     ![](/assets/download.png)
     
-5. Add an image tag just below the "About" header on your page.  (Don't forget to use emmet to complete your tag for you and fill out the `alt` attribute!  The alt attribute content gets displayed if your image is not able to be rendered and is used by screenreaders for better accessibility.
+5. Add an image tag just below the "About" header on your page.  
+>Don't forget to use emmet to complete your tag for you - it will automatically add your `src` and `alt` attributes for you but you still have to fill out their content!  The `src` attribute tells your code where to look for your image and the `alt` attribute content gets displayed if your image is not able to be rendered and is used by screenreaders for better accessibility.
 
 6. Save your file and reload it in Google Chrome.
 
+
+[Mozilla Develper Network image element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 
 
 
