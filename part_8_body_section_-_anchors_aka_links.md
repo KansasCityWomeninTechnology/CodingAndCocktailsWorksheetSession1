@@ -3,7 +3,8 @@
 We want our navigation items to actually take us to the page sections they are meant for and in order to do that we have to add anchor elements to create a hyper link to those sections of our page.
 
 1. Select the "About" text in your first list item and use the keyboard shortcut to wrap a tag around other content. 
-|Windows Key Combination|Mac Key Combination|
+
+    |Windows Key Combination|Mac Key Combination|
 |---|---|
 |`ctrl` + `alt` + `w`|`ctrl` + `w`|
 
@@ -13,9 +14,10 @@ We want our navigation items to actually take us to the page sections they are m
 
 4. Repeat this process for the Menu and Contact sections as well.  
 
+5. Save your file and reload it in Google Chrome.
 
-
-
+We now have a working navigation section!
+>Since we don't have a lot of content on our page it may not appear to work at first.  If you shrink the size of your browser window down so it is about half as tall, try clicking on the menu navigation item again and the menu section should show at the top!
 
 [Mozilla Develper Network anchor element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 

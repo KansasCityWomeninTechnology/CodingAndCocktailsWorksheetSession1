@@ -6,6 +6,8 @@ Lists often come in handy on a webpage - both ordered (numbered) lists and unord
  
  2. Inside each list item type the section names About, Menu and Contact.
  
+ 3. Save your file and reload it in Google Chrome.
+ 
 Now we can see our navigation item list on our page but they don't actually navigate anywhere so let's add that in Part 11.
 
 [Mozilla Develper Network unordered list element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
