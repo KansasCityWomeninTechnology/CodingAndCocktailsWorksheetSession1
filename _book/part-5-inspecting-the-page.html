@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>HTML · GitBook</title>
+        <title>Part 5: Inspecting the Page · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -59,8 +59,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="project.html" />
+    <link rel="next" href="part_5_body_section_-_images.html" />
     
+    
+    <link rel="prev" href="part_4_body_section_-_paragraphs.html" />
     
 
     </head>
@@ -89,7 +91,7 @@
         
         
     
-        <li class="chapter active" data-level="1.1" data-path="./">
+        <li class="chapter " data-level="1.1" data-path="./">
             
                 <a href="./">
             
@@ -154,7 +156,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.6" data-path="part-5-inspecting-the-page.html">
+        <li class="chapter active" data-level="1.6" data-path="part-5-inspecting-the-page.html">
             
                 <a href="part-5-inspecting-the-page.html">
             
@@ -301,7 +303,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >HTML</a>
+        <a href="." >Part 5: Inspecting the Page</a>
     </h1>
 </div>
 
@@ -316,13 +318,40 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <p><img src="logo.png" alt=""></p>
-<h1 id="coding--cocktails-session-1">Coding &amp; Cocktails Session 1:</h1>
-<h2 id="introduction-to-html">Introduction to HTML</h2>
-<hr>
-<h3 id="overview">Overview</h3>
-<p>Tonight we covered HTML basics and best practices. We&#x2019;ll put those to use here creating our own web page and begin understanding HTML structure as well as becoming more comfortable using HTML.</p>
-<p><a href="http://bit.ly/CnCgloss" target="_blank"><img src="images/glossary.png" alt=""></a> <a href="http://bit.ly/CnCTools" target="_blank"><img src="images/tools.png" alt=""></a></p>
+                                <h1 id="part-5-inspecting-the-page">Part 5: Inspecting the Page</h1>
+<p>You&apos;ll often find yourself needing to look at how your page is being rendered in the browser to troubleshoot issues so let&apos;s give that a try.</p>
+<ol>
+<li><p>In Google Chrome, right-click on your <code>h2</code> text and choose <code>Inspect</code></p>
+<p> This will open up your Chrome Developer Tools to the <code>elements</code> tab</p>
+</li>
+<li><p>Notice you can see all of your tags that you&apos;ve added to the page and how they are nested inside the <code>body</code> tag. It should look something like this:
+<img src="assets/devTools.png" alt=""></p>
+</li>
+<li><p>Notice as you mouse over elements in the Dev Tools that they are highlighted in the rendered view above.</p>
+</li>
+<li><p>You can also preview changes here before making them in your code</p>
+<ul>
+<li><p>In the <code>elements</code> section of the Dev Tools, double click on the text inside your <code>h2</code> tag. This should make it editable. Change it to &quot;Hello World&quot; and then press <code>enter</code> 
+<img src="assets/devToolEdit.png" alt=""></p>
+</li>
+<li><p>Your <code>h2</code> text should now display &quot;Hello World&quot; on your rendered page.</p>
+</li>
+<li><p>But <strong>watch out</strong>! This only lasts until you refresh the page! If you want to make a lasting change you need to make the change to your code.</p>
+</li>
+<li><p>Refresh your page to see your text return to what you have in your code.</p>
+</li>
+</ul>
+</li>
+<li><p>You can either keep your Dev Tools open or close them with the small x in the upper right corner of the Dev Tools</p>
+<ul>
+<li>Another quick way to open the tools at any time is through a keyboard short cut:
+|Windows Key Combination|Mac Key Combination|
+|---|---|
+|<code>ctrl</code> + <code>shift</code> + <code>i</code>|<code>cmd</code> + <code>option</code> + <code>i</code>|</li>
+</ul>
+</li>
+</ol>
+<p>Element inspection comes in very handy when you&apos;re trying to style your page too so we&apos;ll use this a lot next month when we learn about CSS!</p>
 
                                 
                                 </section>
@@ -350,8 +379,12 @@
 
             
                 
+                <a href="part_4_body_section_-_paragraphs.html" class="navigation navigation-prev " aria-label="Previous page: Part 4: Paragraphs">
+                    <i class="fa fa-angle-left"></i>
+                </a>
                 
-                <a href="project.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Part 1: HTML Page Structure">
+                
+                <a href="part_5_body_section_-_images.html" class="navigation navigation-next " aria-label="Next page: Part 6: Images">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -362,7 +395,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"HTML","level":"1.1","depth":1,"next":{"title":"Part 1: HTML Page Structure","level":"1.2","depth":1,"path":"project.md","ref":"project.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon"],"pluginsConfig":{"favicon":"assets/favicon.ico","custom-favicon":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2016-12-17T06:44:08.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-17T18:46:01.526Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Part 5: Inspecting the Page","level":"1.6","depth":1,"next":{"title":"Part 6: Images","level":"1.7","depth":1,"path":"part_5_body_section_-_images.md","ref":"part_5_body_section_-_images.md","articles":[]},"previous":{"title":"Part 4: Paragraphs","level":"1.5","depth":1,"path":"part_4_body_section_-_paragraphs.md","ref":"part_4_body_section_-_paragraphs.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon"],"pluginsConfig":{"favicon":"assets/favicon.ico","custom-favicon":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"part-5-inspecting-the-page.md","mtime":"2016-12-17T18:11:47.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-17T18:46:01.526Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
