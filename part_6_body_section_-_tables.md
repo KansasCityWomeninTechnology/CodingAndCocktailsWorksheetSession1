@@ -15,5 +15,4 @@ Let's add some content to the menu section!  We'll add a menu inside an HTML tab
     ![](/assets/table.png)
 
 
-[Mozilla Develper Network table element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
-)
+[Mozilla Develper Network table element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
