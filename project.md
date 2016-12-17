@@ -11,18 +11,20 @@ We'll explore using the Emmet plugin in the Atom text editor that we use as our 
 4. Name the file _index.html_ and save it in your `CodingAndCocktails` folder
 5. In your _index.html_ file type `html:5` and press the `tab` button on your keyboard.  This should come out looking like the following: 
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
-</head>
-<body>
+  ```html
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>Document</title>
+  </head>
+  <body>
   
-</body>
-</html>
-```
+  </body>
+  </html>
+  ```
+See how the `meta` and `title` tags are indented since they are children of the `head` tag?
+
 6. Cheers! You just set up the structural foundation of a web page!
