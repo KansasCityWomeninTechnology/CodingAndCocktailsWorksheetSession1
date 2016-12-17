@@ -4,7 +4,7 @@
 
 In order to continue building our coding skills, we need to practice - just like when playing sports or learning a musical instrument. Let’s try some troubleshooting so you can feel more confident coding on your own!
 
-1.  Open a new file in Atom and save it as *troubleshooting.html*
+1.  Open a new file in Atom and save it in you `CodingAndCocktials/html` folder as *troubleshooting.html*
 
 2.  Paste the following code into the file
 ```
