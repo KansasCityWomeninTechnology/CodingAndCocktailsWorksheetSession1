@@ -7,9 +7,9 @@ Let's add some content to the menu section!  We'll add a menu inside an HTML tab
     
     * One column should contain the `Menu Item` and the other column should contain `Price`
     
+2. Save your file and reload it in Google Chrome.
+
     * Your table should end up looking something like this but feel free to include your own drinks and prices!
     
-   
-    
-2. Save your file and reload it in Google Chrome.
+    ![](/assets/table.png)
 
