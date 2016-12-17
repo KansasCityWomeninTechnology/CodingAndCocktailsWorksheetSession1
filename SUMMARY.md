@@ -3,7 +3,7 @@
 * [HTML](README.md)
 * [Part 1: HTML Page Structure](project.md)
 * [Part 2: Head Section](part_2_head_section.md)
-* [Part 3: Headers](part_3_body_section_headers.md)
+* [Part 3: Headers & Page Sections](part_3_body_section_headers.md)
 * [Part 4: Paragraphs](part_4_body_section_-_paragraphs.md)
 * [Part 5: Inspecting the Page](part-5-inspecting-the-page.md)
 * [Part 6: Images](part_5_body_section_-_images.md)
