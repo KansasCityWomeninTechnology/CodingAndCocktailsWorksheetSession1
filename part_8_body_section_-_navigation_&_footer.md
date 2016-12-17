@@ -2,4 +2,14 @@ f# Part 9: Navigation & Footer
 
 Most websites have a way to navigate around, let's add navigation to ours.  HTML 5 added nav and footer elements to the mix so let's give that a try!
 
-1. Add a `nav` element to the top of the `body` section.
+1. Add a `nav` element to the top of the `<body>` section.
+    
+    ...Great but not exciting... Wheres the navigation bits? We'll add the navigation links in Part 11: Anchors!
+    
+2. Add a `footer` element just inside the closing `</body>` tag
+
+3. Footers often contain copyright information so let's try using an [HTML entity](http://www.w3schools.com/html/html_entities.asp) to put our copyright symbol in. Inside your footer add `&copy;` and the text " Copyright your name 2016"
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
