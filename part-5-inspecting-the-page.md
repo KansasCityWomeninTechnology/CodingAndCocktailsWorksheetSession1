@@ -13,8 +13,7 @@ You'll often find yourself needing to look at how your page is being rendered in
 
 4. You can also preview changes here before making them in your code
     * In the `elements` section of the Dev Tools, double click on the text inside your `h2` tag.  This should make it editable.  Change it to "Hello World" and then press `enter` 
-    
-    
+    ![](/assets/devToolEdit.png)
     
     * Your `h2` text should now display "Hello World" on your rendered page. 
     
