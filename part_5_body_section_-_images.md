@@ -14,3 +14,7 @@ Add an image to your about section to bring some interest to your page.
     
 5. Add an image tag just below the "About" header on your page.  (Don't forget to use emmet to complete your tag for you and fill out the `alt` attribute!  The alt attribute content gets displayed if your image is not able to be rendered and is used by screenreaders for better accessibility.
 
+6. Save your file and reload it in Google Chrome.
+
+
+
