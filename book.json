@@ -2,5 +2,5 @@
   "plugins": ["custom-favicon"],
   "pluginsConfig": {
     "favicon": "assets/favicon.ico",
-  }
+  },
 }
