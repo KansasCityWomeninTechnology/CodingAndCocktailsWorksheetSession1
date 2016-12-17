@@ -1,4 +1,4 @@
-# Part 9: Body Section - Anchors (aka Links)
+# Part 9: Anchors (aka Links)
 
 
 

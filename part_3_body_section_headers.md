@@ -1,4 +1,4 @@
-# Part 3: Body Section - Headers
+# Part 3: Headers
 
 The body section of your HTML contains the visible part of your webpage.  Let's start building out some content!
 

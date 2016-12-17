@@ -1,4 +1,4 @@
-# Part 4: Body Section - Paragraphs
+# Part 4: Paragraphs
 Most websites have some text on the page. Let's add some to ours!
 
 1. After the first `h3` tag, add a paragraph tag (Hint: That's just a `p` tag!) Don't forget to use emmet so you don't have to write out all the `<`, `>` and `\`.

@@ -1,4 +1,4 @@
-# Part 6: Body Section - Tables
+# Part 6: Tables
 
 Let's add some content to the menu section!  We'll add a menu inside an HTML table. 
 

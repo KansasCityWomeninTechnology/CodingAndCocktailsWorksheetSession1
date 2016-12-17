@@ -1,4 +1,4 @@
-# Part 5: Body Section - Images
+# Part 5: Images
 
 Add an image to your about section to bring some interest to your page.
 
