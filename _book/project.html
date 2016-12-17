@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>HTML · GitBook</title>
+        <title>Part 1: HTML Page Structure · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -59,8 +59,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="project.html" />
+    <link rel="next" href="part_2_head_section.html" />
     
+    
+    <link rel="prev" href="./" />
     
 
     </head>
@@ -89,7 +91,7 @@
         
         
     
-        <li class="chapter active" data-level="1.1" data-path="./">
+        <li class="chapter " data-level="1.1" data-path="./">
             
                 <a href="./">
             
@@ -102,7 +104,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2" data-path="project.html">
+        <li class="chapter active" data-level="1.2" data-path="project.html">
             
                 <a href="project.html">
             
@@ -314,7 +316,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >HTML</a>
+        <a href="." >Part 1: HTML Page Structure</a>
     </h1>
 </div>
 
@@ -329,13 +331,35 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <p><img src="logo.png" alt=""></p>
-<h1 id="coding--cocktails-session-1">Coding &amp; Cocktails Session 1:</h1>
-<h2 id="introduction-to-html">Introduction to HTML</h2>
-<hr>
-<h3 id="overview">Overview</h3>
-<p>Tonight we covered HTML basics and best practices. We&#x2019;ll put those to use here creating our own web page and begin understanding HTML structure as well as becoming more comfortable using HTML.</p>
-<p><a href="http://bit.ly/CnCgloss" target="_blank"><img src="images/glossary.png" alt=""></a> <a href="http://bit.ly/CnCTheTools" target="_blank"><img src="images/tools.png" alt=""></a></p>
+                                <h1 id="project">Project</h1>
+<p>HTML provides your website with the underlying structure.  We&apos;ll start with a basic HTML structure and continue with adding page content.</p>
+<h2 id="part-1-html-page-structure">Part 1: HTML Page Structure</h2>
+<p>We&apos;ll explore using the Emmet plugin in the Atom text editor that we use as our development environment.  This plugin helps us write our code faster and more efficiently.</p>
+<ol>
+<li>In the CodingAndCocktails folder you created during the tools setup create a folder called <code>html</code></li>
+<li>Open Atom</li>
+<li>Go to the <code>File</code> menu and choose <code>New File</code></li>
+<li>Go to the <code>File</code> menu and choose <code>Save As...</code></li>
+<li>Name the file <em>index.html</em> and save it in your <code>CodingAndCocktails\html</code> folder</li>
+<li><p>In your <em>index.html</em> file type <code>html:5</code> and press the <code>tab</code> button on your keyboard.  This is some of the magic emmet can help us with and should come out looking like the following: </p>
+<pre><code class="lang-html"><span class="hljs-meta">&lt;!DOCTYPE html&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">html</span> <span class="hljs-attr">lang</span>=<span class="hljs-string">&quot;en&quot;</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">head</span>&gt;</span>
+   <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">charset</span>=<span class="hljs-string">&quot;UTF-8&quot;</span>&gt;</span>
+   <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;viewport&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;width=device-width, initial-scale=1.0&quot;</span>&gt;</span>
+   <span class="hljs-tag">&lt;<span class="hljs-name">meta</span> <span class="hljs-attr">http-equiv</span>=<span class="hljs-string">&quot;X-UA-Compatible&quot;</span> <span class="hljs-attr">content</span>=<span class="hljs-string">&quot;ie=edge&quot;</span>&gt;</span>
+   <span class="hljs-tag">&lt;<span class="hljs-name">title</span>&gt;</span>Document<span class="hljs-tag">&lt;/<span class="hljs-name">title</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">head</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+
+<span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<p>See how the <code>meta</code> and <code>title</code> tags are indented since they are children of the <code>head</code> tag?</p>
+</li>
+<li><p>Cheers! You just set up the structural foundation of a web page!</p>
+</li>
+</ol>
 
                                 
                                 </section>
@@ -363,8 +387,12 @@
 
             
                 
+                <a href="./" class="navigation navigation-prev " aria-label="Previous page: HTML">
+                    <i class="fa fa-angle-left"></i>
+                </a>
                 
-                <a href="project.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Part 1: HTML Page Structure">
+                
+                <a href="part_2_head_section.html" class="navigation navigation-next " aria-label="Next page: Part 2: Head Section">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -375,7 +403,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"HTML","level":"1.1","depth":1,"next":{"title":"Part 1: HTML Page Structure","level":"1.2","depth":1,"path":"project.md","ref":"project.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon","livereload"],"pluginsConfig":{"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2016-12-17T18:48:13.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-17T19:47:33.107Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Part 1: HTML Page Structure","level":"1.2","depth":1,"next":{"title":"Part 2: Head Section","level":"1.3","depth":1,"path":"part_2_head_section.md","ref":"part_2_head_section.md","articles":[]},"previous":{"title":"HTML","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon","livereload"],"pluginsConfig":{"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"project.md","mtime":"2016-12-17T17:09:36.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-17T19:47:33.107Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
