@@ -13,4 +13,5 @@
 * [Part 9: Anchors \(aka Links\)](part_8_body_section_-_anchors_aka_links.md)
 * [Homework: Troubleshooting](troubleshooting.md)
 * [Part 5: Inspecting the Page](part-5-inspecting-the-page.md)
+* [Answer Key](answer-key.md)
 
