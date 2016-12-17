@@ -10,16 +10,19 @@ We'll explore using the Emmet plugin in the Atom text editor that we use as our 
 3. Go to the file menu and choose `Save As...`
 4. Name the file _index.html_ and save it in your `CodingAndCocktails` folder
 5. In your _index.html_ file type `html:5` and press the `tab` button on your keyboard.  This should come out looking like the following: 
+
 ```html
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title></title>
-    </head>
-    <body>
-    
-    </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
 </html>
 ```
 6. Cheers! You just set up the structural foundation of a web page!
