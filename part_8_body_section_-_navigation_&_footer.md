@@ -10,6 +10,8 @@ Most websites have a way to navigate around, let's add navigation to ours.  HTML
 
 3. Footers often contain copyright information so let's try using an [HTML entity](http://www.w3schools.com/html/html_entities.asp) to put our copyright symbol in. Inside your footer add `&copy;` and the text " Copyright your name 2016"
 
+4. Save your file and reload it in Google Chrome.
+
 [Mozilla Develper Network nav element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
 
 [Mozilla Develper Network footer element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
