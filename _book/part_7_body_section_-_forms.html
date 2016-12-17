@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Part 7: Body Section - Forms · GitBook</title>
+        <title>Part 8: Forms · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -135,7 +135,7 @@
                 <a href="part_3_body_section_headers.html">
             
                     
-                    Part 3: Body Section - Headers
+                    Part 3: Headers
             
                 </a>
             
@@ -148,7 +148,7 @@
                 <a href="part_4_body_section_-_paragraphs.html">
             
                     
-                    Part 4: Body Section - Paragraphs
+                    Part 4: Paragraphs
             
                 </a>
             
@@ -156,12 +156,25 @@
             
         </li>
     
-        <li class="chapter " data-level="1.6" data-path="part_5_body_section_-_images.html">
+        <li class="chapter " data-level="1.6" data-path="part-5-inspecting-the-page.html">
+            
+                <a href="part-5-inspecting-the-page.html">
+            
+                    
+                    Part 5: Inspecting the Page
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="part_5_body_section_-_images.html">
             
                 <a href="part_5_body_section_-_images.html">
             
                     
-                    Part 5: Body Section - Images
+                    Part 6: Images
             
                 </a>
             
@@ -169,12 +182,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.7" data-path="part_6_body_section_-_tables.html">
+        <li class="chapter " data-level="1.8" data-path="part_6_body_section_-_tables.html">
             
                 <a href="part_6_body_section_-_tables.html">
             
                     
-                    Part 6: Body Section - Tables
+                    Part 7: Tables
             
                 </a>
             
@@ -182,12 +195,12 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.8" data-path="part_7_body_section_-_forms.html">
+        <li class="chapter active" data-level="1.9" data-path="part_7_body_section_-_forms.html">
             
                 <a href="part_7_body_section_-_forms.html">
             
                     
-                    Part 7: Body Section - Forms
+                    Part 8: Forms
             
                 </a>
             
@@ -195,12 +208,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.9" data-path="part_8_body_section_-_navigation_&_footer.html">
+        <li class="chapter " data-level="1.10" data-path="part_8_body_section_-_navigation_&_footer.html">
             
                 <a href="part_8_body_section_-_navigation_&_footer.html">
             
                     
-                    Part 8: Body Section - Navigation & Footer
+                    Part 8: Navigation & Footer
             
                 </a>
             
@@ -208,12 +221,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.10" data-path="part_8_body_section_-_anchors_aka_links.html">
+        <li class="chapter " data-level="1.11" data-path="part_8_body_section_-_anchors_aka_links.html">
             
                 <a href="part_8_body_section_-_anchors_aka_links.html">
             
                     
-                    Part 9: Body Section - Anchors (aka Links)
+                    Part 9: Anchors (aka Links)
             
                 </a>
             
@@ -221,7 +234,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.11" data-path="troubleshooting.html">
+        <li class="chapter " data-level="1.12" data-path="troubleshooting.html">
             
                 <a href="troubleshooting.html">
             
@@ -234,12 +247,25 @@
             
         </li>
     
-        <li class="chapter " data-level="1.12" data-path="homework.html">
+        <li class="chapter " data-level="1.13" data-path="part-5-inspecting-the-page.html">
             
-                <a href="homework.html">
+                <a href="part-5-inspecting-the-page.html">
             
                     
-                    Homework: Codecademy
+                    Part 5: Inspecting the Page
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14" data-path="answer-key.html">
+            
+                <a href="answer-key.html">
+            
+                    
+                    Answer Key
             
                 </a>
             
@@ -277,7 +303,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Part 7: Body Section - Forms</a>
+        <a href="." >Part 8: Forms</a>
     </h1>
 </div>
 
@@ -292,9 +318,52 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="part-7-body-section---forms">Part 7: Body Section - Forms</h1>
-<p>Under the &quot;Contact&quot; header we&apos;ll add a form to allow people to contact us.</p>
-<p><a href="https://formspree.io/" target="_blank">https://formspree.io/</a></p>
+                                <h1 id="part-8-forms">Part 8: Forms</h1>
+<p>Under the &quot;Contact&quot; header we&apos;ll add a form to allow people to contact us. Normally to make forms work you need to use a bit of JavaScript but since we don&apos;t have that tool in our toolbelt just yet we&apos;re goint to use a tool called Formspree. You can read up on it at <a href="https://formspree.io/" target="_blank">formspree.io</a></p>
+<ol>
+<li><p>Under the &quot;Contact&quot; header add a <code>form</code> element to your page</p>
+</li>
+<li><p>Inside the <code>action</code> attribute add <code>https://formspree.io/youremail@example.com</code> replacing the <code>youremail@example.com</code> text with your actual email address.</p>
+</li>
+<li><p>Add a <code>method</code> attribute to your <code>form</code> element with a value of <code>POST</code>. This is required to make our form work with Formspree.</p>
+<blockquote>
+<p>Remember attribute values are always surrounded by double quotation marks!</p>
+</blockquote>
+</li>
+<li><p>We&apos;ll want to add fields for a name, an email address and the message.  These are all called input fields.  We will also need a <code>Submit</code> button as well.</p>
+<ol>
+<li><p>Inside the <code>form</code> element add your first <code>input</code> element.  This will be our input for the person&apos;s name.  Emmet will automatically add your <code>type</code> attribute and leaving it with the value &quot;text&quot; for our first input is perfect!  </p>
+</li>
+<li><p>Add a <code>name</code> attribute to that <code>input</code> element and set it&apos;s value to &quot;name&quot;</p>
+</li>
+<li><p>Add a second <code>input</code> element but this time set the <code>type</code> attribute to &quot;email&quot;</p>
+</li>
+<li><p>On the second <code>input</code> element add the <code>name</code> attribute and set it to &quot;_replyto&quot;</p>
+</li>
+<li><p>If you look at the MDN documentation for input you&apos;ll notice the only way to input text is on a single line when you set <code>type=&quot;text&quot;</code>.  This means we need to use a <code>textarea</code> element to allow for the users message.  Add a <code>textarea</code> element after tne second <code>input</code> element.</p>
+<blockquote>
+<p>Remember these elements are still nested inside the <code>form</code> element!</p>
+</blockquote>
+</li>
+<li><p>Set the <code>name</code> and <code>id</code> attributes to &quot;message&quot; and leave the <code>cols</code> and <code>rows</code> at their defaults.</p>
+</li>
+<li><p>After the textarea add the final <code>input</code> element.  This will have a <code>type</code> value of &quot;submit&quot;</p>
+</li>
+<li><p>Add a <code>value</code> attribute with a value of &quot;Send&quot; to the submit <code>input</code> element.  This sets the text of the submit button so if you&apos;d like the button to say something else change &quot;Send&quot; to whatever you&apos;d like!</p>
+</li>
+</ol>
+</li>
+<li><p>Save your file and reload it in Google Chrome.</p>
+</li>
+<li><p>Since we&apos;re not doing any styling today this form will look pretty ugly but it has all the elements a good form needs!  </p>
+<blockquote>
+<p>Since our websites are not deployed to a server the form won&apos;t actually work right now but if you&apos;d like to try putting your site up on the internet ask a mentor to help you push it up to GitHub Pages and then you can test out your form.  The way Formspree works is that you&apos;ll have to test it once, you&apos;ll get an email asking you to confirm your email address and from then on, your form will be functioning!</p>
+</blockquote>
+</li>
+</ol>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form" target="_blank">Mozilla Develper Network form element documentation</a></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input" target="_blank">Mozilla Develper Network input element documentation</a></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea" target="_blank">Mozilla Develper Network textarea element documentation</a></p>
 
                                 
                                 </section>
@@ -322,12 +391,12 @@
 
             
                 
-                <a href="part_6_body_section_-_tables.html" class="navigation navigation-prev " aria-label="Previous page: Part 6: Body Section - Tables">
+                <a href="part_6_body_section_-_tables.html" class="navigation navigation-prev " aria-label="Previous page: Part 7: Tables">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="part_8_body_section_-_navigation_&_footer.html" class="navigation navigation-next " aria-label="Next page: Part 8: Body Section - Navigation & Footer">
+                <a href="part_8_body_section_-_navigation_&_footer.html" class="navigation navigation-next " aria-label="Next page: Part 8: Navigation & Footer">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -338,7 +407,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Part 7: Body Section - Forms","level":"1.8","depth":1,"next":{"title":"Part 8: Body Section - Navigation & Footer","level":"1.9","depth":1,"path":"part_8_body_section_-_navigation_&_footer.md","ref":"part_8_body_section_-_navigation_&_footer.md","articles":[]},"previous":{"title":"Part 6: Body Section - Tables","level":"1.7","depth":1,"path":"part_6_body_section_-_tables.md","ref":"part_6_body_section_-_tables.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon"],"pluginsConfig":{"favicon":"assets/favicon.ico","custom-favicon":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"part_7_body_section_-_forms.md","mtime":"2016-12-17T08:22:24.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-17T16:09:47.411Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Part 8: Forms","level":"1.9","depth":1,"next":{"title":"Part 8: Navigation & Footer","level":"1.10","depth":1,"path":"part_8_body_section_-_navigation_&_footer.md","ref":"part_8_body_section_-_navigation_&_footer.md","articles":[]},"previous":{"title":"Part 7: Tables","level":"1.8","depth":1,"path":"part_6_body_section_-_tables.md","ref":"part_6_body_section_-_tables.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon","livereload"],"pluginsConfig":{"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"part_7_body_section_-_forms.md","mtime":"2016-12-17T17:48:23.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-17T17:51:28.470Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
@@ -346,6 +415,10 @@
         
     <script src="gitbook/gitbook.js"></script>
     <script src="gitbook/theme.js"></script>
+    
+        
+        <script src="gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
     
         
         <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>
