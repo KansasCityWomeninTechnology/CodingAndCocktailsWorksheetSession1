@@ -5,3 +5,5 @@ Lists often come in handy on a webpage - both ordered (numbered) lists and unord
  1. We're again going to use the magic of emmet to make our lives easier.  Inside the `nav` tag type `ul>li*3` and push the `tab` key.  Voila! unordered list with three items ready to go!
  
  2. Inside each list item type the section names About, Menu and Contact.
+ 
+Now we can see our navigation item list on our page but they don't actually navigate anywhere so let's add that in Part 11.
