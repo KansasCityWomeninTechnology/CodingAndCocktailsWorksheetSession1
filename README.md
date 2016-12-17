@@ -1,8 +1,8 @@
-# Coding & Cocktails Session 1:
-### Introduction to HTML {#html}
+![](/logo.png)
 
-<hr class="inline">  ![Coding & Cocktails Logo](assets/codingcocktailsbadge-200.png)
-                                                                                  
+#Coding & Cocktails Session 1:
+##Introduction to HTML                                                                     
+---                                                                                  
 
 ###Overview
 
