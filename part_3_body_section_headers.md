@@ -2,7 +2,7 @@
 
 The body section of your HTML contains the visible part of your webpage.  Let's start building out some content!
 
-1. Add the main header of your page using an `h1` tag inside the `body` section.  Don't forget to write the text you want displayed between the opening and closing tags!  If you're choosing to build our cocktail lounge you'll want to write out the name of the cocktail lounge here.
+1. Use emmet to add the main header of your page using an `h1` tag inside the `body` section. just type `h1` then press the `tab` key. Don't forget to write the text you want displayed between the opening and closing tags!  If you're choosing to build our cocktail lounge you'll want to write out the name of your cocktail lounge here.
 
 2. Save your file and reload it in Google Chrome.
 
