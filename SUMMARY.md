@@ -10,7 +10,7 @@
 * [Part 7: Tables](part_6_body_section_-_tables.md)
 * [Part 8: Forms](part_7_body_section_-_forms.md)
 * [Part 9: Navigation & Footer](part_8_body_section_-_navigation_&_footer.md)
-* [Part 10: Anchors \(aka Links\)](part_8_body_section_-_anchors_aka_links.md)
+* [Part 11: Anchors \(aka Links\)](part_8_body_section_-_anchors_aka_links.md)
 * [Homework: Troubleshooting](troubleshooting.md)
 * [Answer Key](answer-key.md)
 

@@ -1,4 +1,4 @@
-f# Part 9: Navigation & Footer
+# Part 9: Navigation & Footer
 
 Most websites have a way to navigate around, let's add navigation to ours.  HTML 5 added nav and footer elements to the mix so let's give that a try!
 
@@ -10,6 +10,9 @@ Most websites have a way to navigate around, let's add navigation to ours.  HTML
 
 3. Footers often contain copyright information so let's try using an [HTML entity](http://www.w3schools.com/html/html_entities.asp) to put our copyright symbol in. Inside your footer add `&copy;` and the text " Copyright your name 2016"
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+[Mozilla Develper Network nav element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+[Mozilla Develper Network footer element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+
+
+
