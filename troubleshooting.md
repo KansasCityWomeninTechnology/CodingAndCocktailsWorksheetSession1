@@ -75,7 +75,7 @@ In order to continue building our coding skills, we need to practice - just like
 8.  Save the file and open it in your Google Chrome browser
 
 9.  The first thing to fix is that our image is not displayed underneath the paragraph.  See if you can make the image show up by editing the HTML. 
-> Remember to refresh the page in Google Chrome to see your changes
+> Remember to save and refresh the page in Google Chrome to see your changes
 
 10. The second issue to fix is the table so it has two columns (Sport and Equipent) with several rows of data.
 
@@ -85,4 +85,14 @@ In order to continue building our coding skills, we need to practice - just like
 
 13. Finally, when we talked about image tags there was an attribute we mentioned as a good idea to include on images.  Update the image tag to have this attribute.
 
-**View Finished Pages:** [**http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html)
+**View Rendered Page:** [**http://kansascitywomenintechnology.github.io/examples/troubleshooting/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/exercise1.html)
+
+**View Rendered Answer:**
+[**http://kansascitywomenintechnology.github.io/examples/troubleshooting/solutions/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/solutions/exercise1.html)
+
+**Answer Key:**
+[**https://github.com/KansasCityWomeninTechnology/examples/blob/master/troubleshooting/solutions/exercise1.html**](https://github.com/KansasCityWomeninTechnology/examples/blob/master/troubleshooting/solutions/exercise1.html)
+
+
+
+
