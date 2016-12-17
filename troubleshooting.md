@@ -1,6 +1,6 @@
 # Troubleshooting
 
-**Troubleshooting Exercises**
+###Troubleshooting Exercises
 
 In order to continue building our coding skills, we need to practice - just like when playing sports or learning a musical instrument. Let’s try some troubleshooting so you can feel more confident coding on your own!
 
@@ -84,6 +84,8 @@ In order to continue building our coding skills, we need to practice - just like
 12. After that, update the HTML headers keeping an eye to our HTML best practices
 
 13. Finally, when we talked about image tags there was an attribute we mentioned as a good idea to include on images.  Update the image tag to have this attribute.
+
+###View Pages and Answer Key
 
 **View Rendered Page:** [**http://kansascitywomenintechnology.github.io/examples/troubleshooting/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/exercise1.html)
 
