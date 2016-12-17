@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Part 2: Head Section · GitBook</title>
+        <title>Homework: Troubleshooting · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -59,10 +59,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="part_3_body_section_headers.html" />
+    <link rel="next" href="part-5-inspecting-the-page.html" />
     
     
-    <link rel="prev" href="project.html" />
+    <link rel="prev" href="part_8_body_section_-_anchors_aka_links.html" />
     
 
     </head>
@@ -117,7 +117,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.3" data-path="part_2_head_section.html">
+        <li class="chapter " data-level="1.3" data-path="part_2_head_section.html">
             
                 <a href="part_2_head_section.html">
             
@@ -221,7 +221,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.11" data-path="troubleshooting.html">
+        <li class="chapter active" data-level="1.11" data-path="troubleshooting.html">
             
                 <a href="troubleshooting.html">
             
@@ -290,7 +290,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Part 2: Head Section</a>
+        <a href="." >Homework: Troubleshooting</a>
     </h1>
 </div>
 
@@ -305,23 +305,93 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="part-2-head-section">Part 2: Head Section</h1>
-<p>The head section contains data telling your browser more information about your page.  As we get farther into the year we&apos;ll discover more pieces of information that fit well here but tonight we&apos;ll just cover a couple.</p>
+                                <h1 id="troubleshooting">Troubleshooting</h1>
+<p><strong>Troubleshooting Exercises</strong></p>
+<p>In order to continue building our coding skills, we need to practice - just like when playing sports or learning a musical instrument. Let&#x2019;s try some troubleshooting so you can feel more confident coding on your own!</p>
 <ol>
-<li><p>Set the title for your page inside the title tags.  This sets what will show on the tab.  If you need some inspiration let&apos;s make a Cocktail Lounge site so set your title to <code>YourName&apos;s Cocktail Lounge</code></p>
+<li><p>Open a new file in Atom and save it as <em>troubleshooting.html</em></p>
 </li>
-<li><p>Save the file</p>
+<li><p>Paste the following code into the file</p>
+<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Coding &amp;amp; Cocktails Troubleshooting&lt;/title&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/exercise1.css&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;Exercise 1&lt;/h1&gt;
+    &lt;h3&gt;Figure out what is wrong with this HTML.&lt;/h3&gt;
+
+    &lt;p&gt;Does anyone know why there is no image displayed below this paragraph?&lt;/p&gt;
+
+    &lt;!--Fix the following HTML to get the image to display--&gt;
+    &lt;div&lt;img src=&quot;http://pngimg.com/upload/snowflakes_PNG7545.png&quot; alt=&quot;snowflake&quot;&gt;&lt;/div&gt;
+
+    &lt;!--The HTML table should have two colums (Sport and Equipent) with several rows of data.--&gt;
+    &lt;h3&gt;How does my table look?&lt;/h3&gt;
+    &lt;table&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Winter Sport&lt;/th&gt;
+            &lt;td&gt;Equipment&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Skiing&lt;/td&gt;
+            &lt;td&gt;Skis&lt;/td&gt;
+            &lt;td&gt;Poles&lt;/td&gt;
+            &lt;td&gt;Gloves&lt;/td&gt;
+            &lt;td&gt;Boots&lt;/td&gt;
+            &lt;td&gt;Hot Chocolate&lt;/td&gt;
+            &lt;td&gt;Snow&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Snowboarding&lt;/td&gt;
+            &lt;td&gt;Snowboard, boots, gloves, etc.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;td&gt;Snowshoing&lt;/td&gt;
+        &lt;td&gt;Snowshoes&lt;/td&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Sledding&lt;/td&gt;
+            &lt;td&gt;Sled, etc.&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+
+    &lt;!-- This HTML should display an ordered list of items. --&gt;
+    &lt;h3&gt;Is this list formatted according to best practices?&lt;/h3&gt;
+    &lt;p&gt;Here is a list:&lt;/p&gt;
+    1. First item &lt;br/&gt;
+    2. Second item &lt;br/&gt;
+    3. Third item &lt;br/&gt;
+
+    &lt;!-- Use some of the best practices we discussed in the presentation to fix the styling issues in this section --&gt;
+    &lt;h3&gt;Keep an eye to the best practices in this section.&lt;/h3&gt;
+    &lt;H3 style=&quot;color:blue; border: 2px solid navy&quot;&gt;Yay for pretty colors!!!&lt;/H3&gt;
+
+    &lt;P&gt;This is another paragraph. There is a &lt;A href=&quot;http://codingandcocktails.kcwomenintech.org/&quot;&gt;Coding &amp;amp; Cocktails&lt;/A&gt; link in this paragraph. &lt;b&gt;I want only this sentence to be bold. Which cocktail is your favorite tonight?  What is your favorite holiday tradition?  Who likes snow &amp; ice?  Is 3 &lt; 5? &lt;i&gt;This sentence should be in italics&lt;/i&gt;&lt;/P&gt;
+
+    &lt;!-- Winter Wonderland, is there something missing from this img tag? --&gt;
+    &lt;img src=&quot;http://info.clearcompany.com/hs-fs/hub/212972/file-2248258334-jpg/IMG-Blog-Posts/Winter-Wonderland.jpg&quot; /&gt;
+
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre></li>
+<li><p>Save the file and open it in your Google Chrome browser</p>
 </li>
-<li><p>In your file system, navigate to your CodingAndCocktails folder </p>
+<li><p>The first thing to fix is that our image is not displayed underneath the paragraph.  See if you can make the image show up by editing the HTML. </p>
+<blockquote>
+<p>Remember to refresh the page in Google Chrome to see your changes</p>
+</blockquote>
 </li>
-<li><p>Open the <em>index.html</em> file in your Google Chrome browser</p>
+<li><p>The second issue to fix is the table so it has two columns (Sport and Equipent) with several rows of data.</p>
 </li>
-<li><p>You won&apos;t see anything exciting on the page itself yet but you should see your title displayed in the page tab.</p>
+<li><p>Next, update the list of items to use an HTML ordered list so our webpage has the correct structure</p>
 </li>
-<li><p>The remainder of our work will be done inside the <code>&lt;body&gt;&lt;/body&gt;</code> tags.  This is where the page content you can see goes.</p>
+<li><p>After that, update the HTML headers keeping an eye to our HTML best practices</p>
+</li>
+<li><p>Finally, when we talked about image tags there was an attribute we mentioned as a good idea to include on images.  Update the image tag to have this attribute.</p>
 </li>
 </ol>
-<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head" target="_blank">Mozilla Develper Network Head element documentation</a></p>
+<p><strong>View Finished Pages:</strong> <a href="http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html" target="_blank"><strong>http://kansascitywomenintechnology.github.io/examples/troubleshooting/troubleshooting.html</strong></a></p>
 
                                 
                                 </section>
@@ -349,12 +419,12 @@
 
             
                 
-                <a href="project.html" class="navigation navigation-prev " aria-label="Previous page: Part 1: HTML Page Structure">
+                <a href="part_8_body_section_-_anchors_aka_links.html" class="navigation navigation-prev " aria-label="Previous page: Part 9: Anchors (aka Links)">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="part_3_body_section_headers.html" class="navigation navigation-next " aria-label="Next page: Part 3: Headers">
+                <a href="part-5-inspecting-the-page.html" class="navigation navigation-next " aria-label="Next page: Part 5: Inspecting the Page">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -365,7 +435,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Part 2: Head Section","level":"1.3","depth":1,"next":{"title":"Part 3: Headers","level":"1.4","depth":1,"path":"part_3_body_section_headers.md","ref":"part_3_body_section_headers.md","articles":[]},"previous":{"title":"Part 1: HTML Page Structure","level":"1.2","depth":1,"path":"project.md","ref":"project.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon","livereload"],"pluginsConfig":{"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"part_2_head_section.md","mtime":"2016-12-17T16:27:53.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-17T17:51:28.470Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Homework: Troubleshooting","level":"1.11","depth":1,"next":{"title":"Part 5: Inspecting the Page","level":"1.12","depth":1,"path":"part-5-inspecting-the-page.md","ref":"part-5-inspecting-the-page.md","articles":[]},"previous":{"title":"Part 9: Anchors (aka Links)","level":"1.10","depth":1,"path":"part_8_body_section_-_anchors_aka_links.md","ref":"part_8_body_section_-_anchors_aka_links.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon","livereload"],"pluginsConfig":{"livereload":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"troubleshooting.md","mtime":"2016-12-17T06:24:30.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2016-12-17T17:51:28.470Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
