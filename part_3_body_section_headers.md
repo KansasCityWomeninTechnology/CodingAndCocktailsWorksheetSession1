@@ -6,14 +6,15 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 
 2. Save your file and reload it in Google Chrome.
 
-3. Tada! We have content! 
+3. Tada! We have content!
 
-4. Next, Lets add a subtitle.  What tag do you think we might use here? For our cocktail lounge we might use the text "Cocktails with a side of code"
+4. Next, Lets add a subtitle.  What tag do you think we might use here? Hint: This is probably the second most important header content on our page. For our cocktail lounge we might use the text "Cocktails with a side of code." 
 
 5. Finally, we'll add three different sections.  We'll want to use an `h3` tag here since this is the third most important heading on the page.  We'll want an "About" section a "Menu" section and a "Contact" section.
+
+6. Save your file and reload it in Google Chrome.
 
 If you want to read up on header elements check out the documentation from MDN:
 [Mozilla Developer Network Documentation on heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
-TODO: Add inspecting and modification & add classes
 
