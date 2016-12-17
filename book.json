@@ -1,6 +1,21 @@
 {
   "plugins": ["custom-favicon","autocover"],
   "pluginsConfig": {
-    "favicon": "assets/favicon.ico"
+    "favicon": "assets/favicon.ico",
+    "autocover": {
+            "font": {
+                "size": null,
+                "family": "Lato",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#484e78
+"
+            }
+        }
   }
 }
