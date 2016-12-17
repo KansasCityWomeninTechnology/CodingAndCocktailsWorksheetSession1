@@ -8,6 +8,6 @@ so maybe after we show that, we can let them do some inspecting in dev tools / m
 
 and then we can build a simple page with headers, paragraph, image & add simple form
 
-[2:21]  
+
 having them add some classes along the way &  then pull in bootstrap css
 
