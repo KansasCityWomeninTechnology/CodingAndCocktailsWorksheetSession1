@@ -4,10 +4,21 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 
 1. Typically our pages will have different sections and we'll create these with `div` tags.  Let's make our main page section and a section for our page header.
 
-    1. Inside the `body` tag type `div.container` and press the `tab` button.  This will be the main container for our page 
+    1. Inside the `body` tag type `div.container` and press the `tab` key.  This will create a `div` element with a class attribute with the value of container and will be the main container element for our page.
+    
+    >Anytime you want to add a `class` attribute to an element you can add that by adding a period and then the classname you want to add when you're using emmet to create your elements.
+    
+    >An `id` attribute can be added by typing a `#` and then the name of the id you'd like to set.
 
+    2. Nested inside the container `div` create a second `div` element with the class `row`
+    >Type `div.row` and press the tab key
+    
+    3. Inside the row `div` add a third div with the class  `col-sm-12`
+    >Classes are often used to apply styling to elements - we will learn about stylingnext month. Here we're setting your page up to later show you the difference between an unstyled page and a styled page.  Don't worry too much about what the classes mean right now - we're focusing on the HTML this month.
+    
+    4. Save the page, switch over to Google Chrome and reload.  Even though we've started adding content to the body section there is still nothing we can see.
 
-Use emmet to add the main header of your page using an `h1` tag inside the `body` section. just type `h1` then press the `tab` key. Don't forget to write the text you want displayed between the opening and closing tags!  Write out the name of your cocktail lounge here.
+2. Use emmet to add the main header of your page using an `h1` tag inside the `div.col-sm-12` element. Type `h1` then press the `tab` key. Don't forget to write the name of your cocktail lounge between the opening and closing tags!
 
 2. Save your file and reload it in Google Chrome.
 
@@ -16,8 +27,15 @@ Use emmet to add the main header of your page using an `h1` tag inside the `body
 3. Next, Lets add a subtitle.  What tag do you think we might use here? 
 >Hint: This is probably the second most important header content on our page. For our cocktail lounge we might use the text "Cocktails with a side of code." 
 
-4. Finally, we'll add three different sections. We'll want an "About" section a "Menu" section and a "Contact" section.  To section out parts of our page we typically use the `div` tag.
-    * We want to add `id` attributes to these sections for navigation later. Under therite `div#about` t
+4. Finally, we'll add three different sections. We'll want an "About" section a "Menu" section and a "Contact" section.  To section out parts of our page we will use more `div` tags. We'll need to add `id` attributes to these sections for navigation later in the worksheet.
+    
+    1. Inside the `div.container` element but below the first `div.row` element add a second row div but this time we're going to add the id attribute with the value of "about".  Type `div.row#about` and press the `tab` key.  This will be the row for our "About" section. The element you created should look like this:
+    
+    
+    
+    2. Inside the second `div.row` add another `div.col-sm-12`
+    
+    3. Inside the second `div.col-
     
     * We'll want to use an `h3` tag here since this is the third most important heading on the page.  
 
