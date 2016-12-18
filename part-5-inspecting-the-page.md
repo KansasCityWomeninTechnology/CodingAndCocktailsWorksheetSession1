@@ -1,11 +1,12 @@
 #Part 5: Inspecting the Page
 You'll often find yourself needing to look at how your page is being rendered in the browser to troubleshoot issues so let's give that a try.
 
-1. In Google Chrome, right-click on your `h2` text and choose `Inspect`
+1. In Google Chrome, right-click on your `h2` text and choose **Inspect**
 
-    This will open up your Chrome Developer Tools to the `elements` tab
+    This will open up your Chrome Developer Tools to the **elements** tab
     
-2. Notice you can see all of your tags that you've added to the page and how they are nested inside the `body` tag. It should look something like this:
+2. Notice you can see all of your tags that you've added to the page and how they are nested inside eachother. It should look something like this:
+
 
 3. Notice as you mouse over elements in the Dev Tools that they are highlighted in the rendered view above.
 
