@@ -17,4 +17,5 @@ Most websites have some text on the page. Let's add some to ours!
 3. Save your html file and refresh in your Google Chrome browser. You should now see something like this: 
 
 
+
 [Mozilla Develper Network paragraph element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
