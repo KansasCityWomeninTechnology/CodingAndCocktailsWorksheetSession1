@@ -52,11 +52,8 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 
 7. Save your file and reload it in Google Chrome.
 
-If you want to read up on header or div elements check out the documentation from MDN:
+If you want to read up on header or div elements check out the documentation from Mozilla Developer Network:
 
-[Mozilla Developer Network Documentation on heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+[MDN Documentation on heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
-[Mozilla Developer Network Documentation on div elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
-
-
-
+[MDN Documentation on div elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
