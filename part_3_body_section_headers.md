@@ -20,28 +20,43 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 
 2. Use emmet to add the main header of your page using an `h1` tag inside the `div.col-sm-12` element. Type `h1` then press the `tab` key. Don't forget to write the name of your cocktail lounge between the opening and closing tags!
 
-2. Save your file and reload it in Google Chrome.
+4. Save your file and reload it in Google Chrome.
 
     **Tada! We have content!**
 
-3. Next, Lets add a subtitle.  What tag do you think we might use here? 
+4. Next, Lets add a subtitle.  What tag do you think we might use here? 
 >Hint: This is probably the second most important header content on our page. For our cocktail lounge we might use the text "Cocktails with a side of code." 
 
-4. Finally, we'll add three different sections. We'll want an "About" section a "Menu" section and a "Contact" section.  To section out parts of our page we will use more `div` tags. We'll need to add `id` attributes to these sections for navigation later in the worksheet.
+5. Finally, we'll add three different sections. We'll want an "About" section a "Menu" section and a "Contact" section.  To section out parts of our page we will use more `div` tags. We'll need to add `id` attributes to these sections for navigation later in the worksheet.
     
     1. Inside the `div.container` element but below the first `div.row` element add a second row div but this time we're going to add the id attribute with the value of "about".  Type `div.row#about` and press the `tab` key.  This will be the row for our "About" section. The element you created should look like this:
+    ![](/assets/div.png)
+        
+    2. Inside that about `div` row, add another `div.col-sm-12`
     
+    3. Inside the second `div.col-sm-12` we'll want to title the section.  Since this is the third most important heading on the page we'll want to use an `h3` tag here. Create an `h3` tag with the text "About" between the tags.
     
-    
-    2. Inside the second `div.row` add another `div.col-sm-12`
-    
-    3. Inside the second `div.col-
-    
-    * We'll want to use an `h3` tag here since this is the third most important heading on the page.  
+6. We'll repeat this process twice more for the Menu and Contact sections.
 
-5. Save your file and reload it in Google Chrome.
+    1. Inside the `div.container` element but below the second `div.row` element add a third row div but this time add the id attribute with the value of "menu". Type `div.row#menu` and press the `tab` key. This will be the row for our "Menu" section.
 
-If you want to read up on header elements check out the documentation from MDN:
+    2. Inside that menu `div` row, add another `div.col-sm-12`
+
+    3. Inside the `div.col-sm-12` we'll want to title the section. Since this is the third most important heading on the page we'll want to use an `h3` tag here. Create an `h3` tag with the text "Menu" between the tags.
+    
+    4. Inside the `div.container` element add a fourth row div but this time add the id attribute with the value of "contact". This will be the row for our "Contact" section.
+
+    5. Inside that contact `div` row, add another `div.col-sm-12`
+
+    6. Create an `h3` tag with the text "Contact" between the div tags created in the last step.
+
+7. Save your file and reload it in Google Chrome.
+
+If you want to read up on header or div elements check out the documentation from MDN:
+
 [Mozilla Developer Network Documentation on heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+
+[Mozilla Developer Network Documentation on div elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+
 
 
