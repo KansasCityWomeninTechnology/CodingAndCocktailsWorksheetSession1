@@ -11,22 +11,43 @@ Under the "Contact" header we'll add a form to allow people to contact us. Norma
 
 4. We'll want to add fields for a name, an email address and the message.  These are all called input fields.  We will also need a **Submit** button as well.
     
-    1. Inside the `form` element add your first `input` element.  This will be our input for the person's name.  Emmet will automatically add your `type` attribute and leaving it with the value "text" for our first input is perfect!  
+    1. Inside the `form` element add your first form  section.
+     * Type `div.form-group` and push the `tab` key.
+     
+    2. Next add a `label` element for the input field inside the form-group `div`.
     
-    2. Add a `name` attribute to that `input` element and set it's value to "name"
+     1. Type `label`  and push the `tab` key
     
-    3. Add a second `input` element but this time set the `type` attribute to "email"
+     2. Inside the `for` attribute type "nameInput"
+     
+     3. Add the text "Name" inside your label tags.
     
-    4. On the second `input` element add the `name` attribute and set it to "_replyto"
+    3. Just below the label element add an `input` element with the id of "nameInput".  This will be our input for the person's name.   
+     * Type `input#nameInput` to create your input element with the id "nameInput"  
+     
+     * Emmet will automatically add your `type` attribute and leaving it with the value "text" for our first input is perfect!
     
-    5. If you look at the [MDN documentation for input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) you'll notice the only way to input text is on a single line when you set `type="text"`.  This means we need to use a `textarea` element to allow for the users message.  Add a `textarea` element after the second `input` element.
-    >Remember these elements are all nested inside the `form` element!
+     * Add a `name` attribute to that `input` element and set it's value to "name"
+    4. After the first form-group div add a second one.
     
-    6. Set the `name` and `id` attributes to "message" and leave the `cols` and `rows` attributes at their defaults.
+    5. Inside that form-group add a `label` element with a `for` attribute set to "emailInput" and the text "Email Address" inside the tags.
     
-    7. After the textarea add the final `input` element.  This will have a `type` value of "submit"
+    6. After the label add an `input` element with an id of "emailInput" but this time set the `type` attribute to "email"
     
-    8. Add a `value` attribute with a value of "Send" to the submit `input` element.  This sets the text of the submit button so if you'd like the button to say something else change "Send" to whatever you'd like!
+    7. On that second `input` element add the `name` attribute and set it to "_replyto"
+    
+    8. Finally we'll create the area for the message. After the second form-group div add a third one.
+    
+    9. Inside that form-group add a `label` element with a `for` attribute set to "messageInput" and the text "Message" inside the tags.
+    
+    10. If you look at the [MDN documentation for input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) you'll notice the only way to input text is on a single line when you set `type="text"`.  This means we need to use a `textarea` element to allow for the users message.  Add a `textarea` element inside this third form-group with a class of "form-control".
+    
+    6. Set the `name` and `id` attributes of the `textarea` element to "message" and leave the `cols` and `rows` attributes at their defaults.
+    
+    7. After the textarea form-group add the final form-group `div` element with a nested `input` element.  This `input` element will have a `type` value of "submit", two classes (btn and btn-default) and a `value` attribute with a value of "Send" to the submit `input` element. 
+    > Type `input.btn.btn-default` and then press the`tab` key to add both classes to the input element at the same time
+    
+    > This `value` attribute sets the text of the submit button so if you'd like the button to say something else change "Send" to whatever you'd like!
 
 2. Save your file and reload it in Google Chrome.
 
