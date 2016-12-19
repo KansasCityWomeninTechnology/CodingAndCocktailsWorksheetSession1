@@ -1,0 +1,14 @@
+#Bonus: Styling
+
+1. In the `head` section of your website add this tag just above the closing `head` tag:
+```
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+```
+
+2. Save your file, go to Google Chrome and reload.
+
+    
+    
+We utilized a styling framework called [Bootstrap](http://getbootstrap.com/) to help us do some quick styling today and tied it to our html with the `link` tag in our head section.  
+
+_Join us next month if you want to learn more about styling and how it works!_

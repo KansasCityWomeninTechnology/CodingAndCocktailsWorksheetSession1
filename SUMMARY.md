@@ -15,4 +15,5 @@
 * [Answer Key](answer-key.md)
 * [Homework: Troubleshooting](troubleshooting.md)
 * [Homework: Bonus](homework-bonus.md)
+* [Bonus: Styling](bonus-styling.md)
 
