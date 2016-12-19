@@ -2,7 +2,12 @@
 
 Most websites have a way to navigate around, let's add navigation to ours.  HTML 5 added nav and footer elements to the mix so let's give that a try!
 
-1. Add a `nav` element to the top of the `<body>` section.
+1. We'll need to add row sections for these as well.  
+    
+    1. Above your first `div.row` add a new `div.row`
+    
+    2. Inside that row
+Add a `nav` element to the top of the `<body>` section.
     
     ...Great but not exciting... Wheres the navigation bits? We'll add the navigation links in Part 11: Anchors!
     
