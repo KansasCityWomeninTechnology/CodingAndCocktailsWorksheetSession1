@@ -24,13 +24,13 @@ This exercise only requires one addition.  Can you figure out what it is?
 
 ###View Pages and Answer Key
 
-**View Rendered Page:** [**http://kansascitywomenintechnology.github.io/examples/troubleshooting/bonus.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/bonus.html)
+**View Rendered Page:** [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html)
 
 **View Rendered Answer:**
-[**http://kansascitywomenintechnology.github.io/examples/troubleshooting/solutions/bonus.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/solutions/bonus.html)
+[**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/bonus.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/bonus.html)
 
 **Answer Key:**
-[**https://github.com/KansasCityWomeninTechnology/examples/blob/master/troubleshooting/solutions/bonus.html**](https://github.com/KansasCityWomeninTechnology/examples/blob/master/troubleshooting/solutions/bonus.html)
+[**https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/bonus.html**](https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/bonus.html)
 
 
 
