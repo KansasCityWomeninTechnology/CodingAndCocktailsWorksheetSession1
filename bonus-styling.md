@@ -6,7 +6,7 @@
 ```
 
 2. Save your file, go to Google Chrome and reload.
-
+![](https://media.giphy.com/media/12QipzuBuU90Gs/giphy.gif)
     
     
 We utilized a styling framework called [Bootstrap](http://getbootstrap.com/) to help us do some quick styling today and tied it to our html with the `link` tag in our head section.  
