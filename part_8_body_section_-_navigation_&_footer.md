@@ -8,7 +8,7 @@ Most websites have a way to navigate around, let's add navigation to ours.  HTML
     
     2. Inside that row add a `div.col-sm-12`
     
-    3. Finally, add a `nav` element inside that div.
+    3. Finally, add a `nav` element with the classes **navbar** and **navbar-default** inside that div.
     
     4. Save your file and reload it in Google Chrome.
     >Great but not exciting... Where are the navigation pieces? We'll add the navigation links in Part 11: Anchors!
