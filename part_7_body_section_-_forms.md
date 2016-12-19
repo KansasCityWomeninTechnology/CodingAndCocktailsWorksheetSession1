@@ -23,7 +23,7 @@ Under the "Contact" header we'll add a form to allow people to contact us. Norma
      3. Add the text "Name" inside your label tags.
     
     3. Just below the label element add an `input` element with the id of "nameInput".  This will be our input for the person's name.   
-     * Type `input#nameInput` to create your input element with the id "nameInput"  
+     * Type `input#nameInput.form-control` to create your input element with the id "nameInput" and class form-control
      
      * Emmet will automatically add your `type` attribute and leaving it with the value "text" for our first input is perfect!
     
@@ -34,7 +34,7 @@ Under the "Contact" header we'll add a form to allow people to contact us. Norma
     
     6. After the label add an `input` element with an id of "emailInput" but this time set the `type` attribute to "email"
     
-    7. On that second `input` element add the `name` attribute and set it to "_replyto"
+    7. On that second `input` element add the `name` attribute and set it to "_replyto" and a `class` attribute of "form-control"
     
     8. Finally we'll create the area for the message. After the second form-group div add a third one.
     
