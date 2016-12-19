@@ -6,17 +6,19 @@ You'll often find yourself needing to look at how your page is being rendered in
     This will open up your Chrome Developer Tools to the **elements** tab
     
 2. Notice you can see all of your tags that you've added to the page and how they are nested inside eachother. It should look something like this:
-
+![](/assets/devTools.png)
 
 3. Notice as you mouse over elements in the Dev Tools that they are highlighted in the rendered view above.
+![](/assets/highlight.png)
 
 4. You can also click the arrows to the left of your `div` elements to expand them and see the elements inside them.
 
 5. In addition, you can make and preview changes here before making them in your code.
     * In the **elements** section of the Dev Tools, double click on the text inside your `h2` tag. This should make it editable. Change it to "Hello World" and then press `enter` 
-
+![](/assets/helloWorld1.png)
 
     * Your `h2` text should now display "Hello World" on your rendered page.
+    ![](/assets/helloWorld2.png)
     
     * But **watch out**! This only lasts until you refresh the page! If you want to make a lasting change you need to make the change to your code.
 
