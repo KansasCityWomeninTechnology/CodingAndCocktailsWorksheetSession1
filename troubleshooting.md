@@ -87,13 +87,13 @@ In order to continue building our coding skills, we need to practice - just like
 
 ###View Pages and Answer Key
 
-**View Rendered Page:** [**http://kansascitywomenintechnology.github.io/examples/troubleshooting/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/exercise1.html)
+**View Rendered Page:** [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/exercise1.html)
 
 **View Rendered Answer:**
-[**http://kansascitywomenintechnology.github.io/examples/troubleshooting/solutions/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/troubleshooting/solutions/exercise1.html)
+[**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/exercise1.html)
 
 **Answer Key:**
-[**https://github.com/KansasCityWomeninTechnology/examples/blob/master/troubleshooting/solutions/exercise1.html**](https://github.com/KansasCityWomeninTechnology/examples/blob/master/troubleshooting/solutions/exercise1.html)
+[**https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/exercise1.html**](https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/exercise1.html)
 
 
 
