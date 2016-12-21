@@ -16,7 +16,9 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     2. Nested inside the container `div` create another `div` element with the class `row`. Type `div.row` and press the `tab` key
     
     3. Inside the row `div` add a third div with the class  `col-sm-12`
-    >Classes are often used to apply styling to elements - we will learn about styling next month. We'll see this in action later in the worksheet.  For now, don't worry too much about what the classes mean - we're focusing on the HTML this month.
+    {% hint style='info' %}
+    Classes are often used to apply styling to elements - we will learn about styling next month. We'll see this in action later in the worksheet.  For now, don't worry too much about what the classes mean - we're focusing on the HTML this month.
+    {% endhint %}
     
     4. Save the page, switch over to Google Chrome and reload.  Even though we've started adding content to the body section there is still nothing to see.
 
