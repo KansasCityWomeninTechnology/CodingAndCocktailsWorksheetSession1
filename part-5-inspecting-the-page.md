@@ -27,7 +27,8 @@ You'll often find yourself needing to look at how your page is being rendered in
 5. You can either keep your Dev Tools open or close them with the small x in the upper right corner of the Dev Tools
 
     * Another quick way to open the tools at any time is through a keyboard short cut:
-|Windows Key Combination|Mac Key Combination|
+    
+    |Windows Key Combination|Mac Key Combination|
 |---|---|
 |`ctrl` + `shift` + `i`|`cmd` + `option` + `i`|
 
