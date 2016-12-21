@@ -10,13 +10,12 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     
     >An `id` attribute can be added by typing a `#` and then the name of the id you'd like to set.
 
-    2. Nested inside the container `div` create a second `div` element with the class `row`
-    >Type `div.row` and press the tab key
+    2. Nested inside the container `div` create another `div` element with the class `row`. Type `div.row` and press the `tab` key
     
     3. Inside the row `div` add a third div with the class  `col-sm-12`
-    >Classes are often used to apply styling to elements - we will learn about stylingnext month. Here we're setting your page up to later show you the difference between an unstyled page and a styled page.  Don't worry too much about what the classes mean right now - we're focusing on the HTML this month.
+    >Classes are often used to apply styling to elements - we will learn about styling next month. We'll see this in action later in the worksheet.  For now, don't worry too much about what the classes mean - we're focusing on the HTML this month.
     
-    4. Save the page, switch over to Google Chrome and reload.  Even though we've started adding content to the body section there is still nothing we can see.
+    4. Save the page, switch over to Google Chrome and reload.  Even though we've started adding content to the body section there is still nothing to see.
 
 2. Use emmet to add the main header of your page using an `h1` tag inside the `div.col-sm-12` element. Type `h1` then press the `tab` key. Don't forget to write the name of your cocktail lounge between the opening and closing tags!
 
