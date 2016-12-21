@@ -9,6 +9,7 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     {% hint style='info' %}
     Anytime you want to add a `class` attribute to an element you can add that by adding a period and then the classname you want to add when you're using emmet to create your elements.
     
+    
     An `id` attribute can be added by typing a `#` and then the name of the id you'd like to set.
     {% endhint %}
 
