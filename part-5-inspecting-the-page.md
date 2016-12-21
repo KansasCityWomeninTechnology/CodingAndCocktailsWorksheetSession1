@@ -24,13 +24,14 @@ You'll often find yourself needing to look at how your page is being rendered in
 
     * Refresh your page to see your text return to what you have in your code.
     
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+    
 5. You can either keep your Dev Tools open or close them with the small x in the upper right corner of the Dev Tools
 
     * Another quick way to open the tools at any time is through a keyboard short cut:
-    
-    | Markdown | HTML | Rendered |
-| -- | -- | -- |
-| `# Some Header` | `<h1>Some Header</h1>` | <h1>Some Header</h1> |
     
     | Windows Key Combination|Mac Key Combination |
 |---|---|
