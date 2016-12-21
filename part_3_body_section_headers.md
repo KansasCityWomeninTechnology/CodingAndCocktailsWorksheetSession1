@@ -17,7 +17,7 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     
     4. Save the page, switch over to Google Chrome and reload.  Even though we've started adding content to the body section there is still nothing to see.
 
-2. Use emmet to add the main header of your page using an `h1` tag inside the `div.col-sm-12` element. Type `h1` then press the `tab` key. Don't forget to write the name of your cocktail lounge between the opening and closing tags!
+2. Use an `h1` tag inside the last `div` element. Type `h1` then press the `tab` key. Write the name of your cocktail lounge between the opening and closing tags.
 
 4. Save your file and reload it in Google Chrome.
 
