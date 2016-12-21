@@ -20,7 +20,7 @@ You'll often find yourself needing to look at how your page is being rendered in
     * Your `h2` text should now display "Hello World" on your rendered page.
     ![](/assets/helloWorld2.png)
     
-    * But **watch out**! This only lasts until you refresh the page! If you want to make a lasting change you need to make the change to your code.
+    {% hint style='warning' %}This only lasts until you refresh the page! If you want to make a lasting change you need to make the change to your code. {% endhint %}
 
     * Refresh your page to see your text return to what you have in your code.
     
