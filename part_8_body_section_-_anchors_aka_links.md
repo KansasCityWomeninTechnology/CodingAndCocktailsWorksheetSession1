@@ -4,7 +4,7 @@ We want our navigation items to actually take us to the page sections they are m
 
 1. Select the "About" text in your first list item and use the keyboard shortcut to wrap a tag around other content. 
 
-    |Windows Key Combination|Mac Key Combination|
+|Windows Key Combination|Mac Key Combination|
 |---|---|
 |`ctrl` + `alt` + `w`|`ctrl` + `w`|
 
