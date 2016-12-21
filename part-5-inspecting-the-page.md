@@ -28,7 +28,11 @@ You'll often find yourself needing to look at how your page is being rendered in
 
     * Another quick way to open the tools at any time is through a keyboard short cut:
     
-    |Windows Key Combination|Mac Key Combination|
+    | Markdown | HTML | Rendered |
+| -- | -- | -- |
+| `# Some Header` | `<h1>Some Header</h1>` | <h1>Some Header</h1> |
+    
+    | Windows Key Combination|Mac Key Combination |
 |---|---|
 |`ctrl` + `shift` + `i`|`cmd` + `option` + `i`|
 
