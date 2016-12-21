@@ -29,6 +29,8 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     
     1. Inside the container `div` element but below closing `</div>` tag for the first `div.row` element, typeype `div.row#about` and press the `tab` key.  This will be the area for our "About" section. The element you created should look like this:
     ![](/assets/div.png)
+    
+    >If you place your cursor on any HTML element, Atom will underline the matching opening or closing tag for you.
         
     2. Inside that about `div`, add another `div.col-sm-12`
     
