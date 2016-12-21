@@ -2,7 +2,7 @@
 
 The body section of your HTML contains the visible part of your webpage.  Let's start building out some content!
 
-1. Typically our pages will have different sections and we'll create these with `div` tags.  Let's make our main page section and a section for our page header.
+1. We'll create sections within our page with `div` tags.  
 
     1. Inside the `body` tag type `div.container` and press the `tab` key.  This will create a `div` element with a class attribute with the value of container and will be the main container element for our page.
     
