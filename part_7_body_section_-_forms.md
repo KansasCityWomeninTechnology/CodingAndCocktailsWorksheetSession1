@@ -1,15 +1,15 @@
 # Part 8: Forms
 
-Under the "Contact" header we'll add a form to allow people to contact us. Normally to make forms work you need to use a bit of JavaScript but since we don't have that tool in our toolbelt just yet we're going to use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/)
+Under the "Contact" header add a form to allow users to contact you. Forms typically require a bit of JavaScript but since we don't have that tool in our toolbelt just yet we'll going to use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/)
 
 1. Under the "Contact" header add a `form` element to your page
 
-2. Inside the `action` attribute add `https://formspree.io/youremail@example.com` replacing the `youremail@example.com` text with your actual email address.
+2. Set the `action` attribute value to `https://formspree.io/youremail@example.com` replacing the `youremail@example.com` text with your actual email address.
 
 3. Add a `method` attribute to your `form` element with a value of `POST`. This is required to make our form work with Formspree.
->Remember attribute values are always surrounded by double quotation marks!
+{% hint style='tip' %}Remember attribute values are always surrounded by double quotation marks! {% endhint %}
 
-4. We'll want to add fields for a name, an email address and the message.  These are all called input fields.  We will also need a **Submit** button as well.
+4. Add fields for a name, an email address and the message.  These are all called input fields.  We will also need a **Submit** button as well.
     
     1. Inside the `form` element add your first form  section.
      * Type `div.form-group` and push the `tab` key.
