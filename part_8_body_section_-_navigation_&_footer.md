@@ -21,7 +21,7 @@ Most websites have a way to navigate around, let's add navigation to ours.  HTML
     
     3. Add a `footer` element inside that `div`
 
-    4. Footers often contain copyright information so let's try using an [HTML entity](http://www.w3schools.com/html/html_entities.asp) to put our copyright symbol in. Inside your `footer` tag add the text `&copy;` and the text " Copyright your name 2016"
+    4. Footers often contain copyright information so try using an [HTML entity](http://www.w3schools.com/html/html_entities.asp) to add a copyright symbol. Inside the `footer` tag add the text `&copy;` and the text " Copyright your name 2016"
 
 3. Save your file and reload it in Google Chrome.
 
