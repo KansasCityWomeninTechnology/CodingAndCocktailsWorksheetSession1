@@ -7,7 +7,7 @@ Add some content to the menu section using an HTML table.
 
     * Check out the [MDN documentation on HTML tables](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) to figure out how to structure your table, there are samples near the bottom of the page.
     
-    {% hint style='hint' %}The **Simple table with header** is a good example to follow {% endhint %}
+    {% hint style='tip' %}The **Simple table with header** is a good example to follow {% endhint %}
     
     * One column should contain the **Menu Item** and the other column should contain **Price**
     
