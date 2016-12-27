@@ -55,7 +55,8 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 
     6. Create an `h3` tag with the text "Contact" between the div tags created in the last step.
 
-7. Save your file and reload it in Google Chrome.
+7. Save your file and reload it in Google Chrome. Your page should look similar to this:
+![](/assets/headersSectionsEnd.png)
 
 If you want to read up on header or div elements check out the documentation from Mozilla Developer Network:
 
