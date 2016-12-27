@@ -1,14 +1,14 @@
 # Part 9: Navigation & Footer
 
-Most websites have a way to navigate around, let's add navigation to ours.  HTML 5 added nav and footer elements to the mix so let's give that a try!
+Most websites have a way to navigate around, let's add navigation to ours.  HTML 5 added nav and footer elements to the mix so let's practice using those!
 
-1. We'll need to add row sections for these as well. First we'll create the navigation section. 
+1. Add row sections for these as well. First, create the navigation section. 
     
-    1. Above your first `div.row` add a new `div.row`
+    1. Above the first `div.row` add a new `div.row`
     
     2. Inside that row add a `div.col-sm-12`
     
-    3. Finally, add a `nav` element with the classes **navbar** and **navbar-default** inside that div.
+    3. Finally, add a `nav` element with the classes **navbar** and **navbar-default** inside the div from step ii.
     
     4. Save your file and reload it in Google Chrome.
     >Great but not exciting... Where are the navigation pieces? We'll add the navigation links in Part 11: Anchors!
