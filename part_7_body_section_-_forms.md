@@ -1,36 +1,36 @@
 # Part 8: Forms
 
-Under the "Contact" header add a form to allow users to contact you. Forms typically require a bit of JavaScript but that tool is not in our toolbelt just yet we'll use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/)
+Under the "Contact" header add a form to allow users to contact you. Forms typically require a bit of JavaScript but that tool is not in our toolbelt just yet we'll use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/).
 
 1. Under the "Contact" header add a `form` element to your page
 
-2. Set the `action` attribute value to `https://formspree.io/youremail@example.com` replacing the `youremail@example.com` text with your actual email address.
+2. Set the `action` attribute's value to `https://formspree.io/youremail@example.com` replacing the `youremail@example.com` text with your actual email address.
 
-3. Add a `method` attribute to your `form` element with a value of `POST`. This is required to make our form work with Formspree.
+3. Add a `method` attribute to your `form` element with a value of `POST`. This is required to make the form work with Formspree.
 {% hint style='tip' %}Remember attribute values are always surrounded by double quotation marks! {% endhint %}
 
-4. Add fields for a name, an email address and the message.  These are all called input fields.  We will also need a **Submit** button as well.
+4. Input fields are used to capture information. Add fields for a name, an email address and a message along with a **Submit** button.
     
-    1. Inside the `form` element add your first form  section.
-     * Type `div.form-group` and push the `tab` key.
+    1. Inside the `form` element type `div.form-group` and push the `tab` key to add the first form section.
      
     2. Next add a `label` element for the input field inside the form-group `div`.
     
      1. Type `label`  and push the `tab` key
     
-     2. Inside the `for` attribute type "nameInput"
+     2. Inside the label's `for` attribute type "nameInput"
      
-     3. Add the text "Name" inside your label tags.
+     3. Add the text "Name" in between your label tags.
     
-    3. Just below the label element add an `input` element with the id of "nameInput".  This will be our input for the person's name.   
-     * Type `input#nameInput.form-control` to create your input element with the id "nameInput" and class form-control
+    3. Just below the label element add an `input` element with the id of "nameInput".  This will be where a user enters their name.   
+     
+     1. Type `input#nameInput.form-control` to create your input element with the id "nameInput" and class form-control
      
      * Emmet will automatically add your `type` attribute and leaving it with the value "text" for our first input is perfect!
     
      * Add a `name` attribute to that `input` element and set it's value to "name"
     4. After the first form-group div add a second one.
     
-    5. Inside that form-group add a `label` element with a `for` attribute set to "emailInput" and the text "Email Address" inside the tags.
+    5. Inside that form-group add a `label` element with a `for` attribute set to "emailInput" and the text "Email Address" in between the tags.
     
     6. After the label add an `input` element with an id of "emailInput" but this time set the `type` attribute to "email"
     
