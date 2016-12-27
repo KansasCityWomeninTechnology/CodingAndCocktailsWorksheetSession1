@@ -32,4 +32,4 @@ You'll often find yourself needing to look at how your page is being rendered in
 |---|---|
 |`ctrl` + `shift` + `i`|`cmd` + `option` + `i`|
 
-Element inspection comes in very handy when you're trying to style your page too so we'll use this a lot next month when we learn about CSS!
+{% hint style='tip' %}Element inspection comes in very handy when you're trying to style your page too so we'll use this a lot next month when we learn about CSS!{% endhint %}
