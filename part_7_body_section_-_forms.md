@@ -1,6 +1,6 @@
 # Part 8: Forms
 
-Under the "Contact" header add a form to allow users to contact you. Forms typically require a bit of JavaScript but since we don't have that tool in our toolbelt just yet we'll going to use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/)
+Under the "Contact" header add a form to allow users to contact you. Forms typically require a bit of JavaScript but that tool is not in our toolbelt just yet we'll use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/)
 
 1. Under the "Contact" header add a `form` element to your page
 
