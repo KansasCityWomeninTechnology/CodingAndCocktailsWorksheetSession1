@@ -13,22 +13,22 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
     1. Inside the `form` element type `div.form-group*4` and push the `tab` key to add the four form sections.
      
-    2. In between the first opening and closing form-group `div`, add a `label` element. Type `label`  and push the `tab` key
+2. The first section is the name section. In between the first opening and closing form-group `div`, add a `label` element. Type `label`  and push the `tab` key
     
      2. Set the label's `for` attribute value to **"nameInput"**
      
      3. Add the text **"Name"** in between your label tags.
     
-    3. Just below the label element type `input#nameInput.form-control` then press the `tab` key to create your input element with the id **"nameInput"** and class **form-control**.
+     3. Just below the label element type `input#nameInput.form-control` then press the `tab` key to create your input element with the id **"nameInput"** and class **form-control**.
      
      * Add a `name` attribute to that `input` element and set it's value to **"name"**
 
      {% hint style='tip' %}Emmet will automatically add your `type` attribute and leaving it with the value "text" for our first input is perfect!{% endhint %}
     
-    5. Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:
+5. Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:
     ![](/assets/firstForm.png)
     
-    5. In between the opening and closing tags for the second form-group div, add a `label` element with a `for` attribute set to **"emailInput"** and the text **"Email Address"** in between the tags.
+5. The second section will be for the user email address. In between the opening and closing tags for the second form-group div, add a `label` element with a `for` attribute set to **"emailInput"** and the text **"Email Address"** in between the tags.
     
     6. After the label add an `input` element with an id of **"emailInput"** but this time set the `type` attribute to **"email"**
     
