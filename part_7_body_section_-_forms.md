@@ -46,6 +46,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     6. Set the `name` attribute of the `textarea` element to **"message"**, the `id` attribute to **"messageInput"** and leave the `cols` and `rows` attributes at the default values.
     
 2. Save your file and reload it in Google Chrome. It should look like this: 
+    ![](/assets/thirdForm.png)
     
 7. In between the the final form-group `div` opening and closing tags, add an `input` element with a `type` value of **"submit"**, two classes (**btn** and **btn-default**) and a `value` attribute with a value of "Send". 
     {% hint style='tip' %}Type `input.btn.btn-default` and then press the`tab` key to add both classes to the input element at the same time{% endhint %}
@@ -53,6 +54,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     {% hint style='info' %}The `value` attribute sets the text of the submit button so feel free to set the text to whatever you'd like!{% endhint %}
 
 2. Save your file and reload it in Google Chrome. The final form should look like this: 
+    ![](/assets/fourthForm.png)
  
 {% hint style='info' %}Since our websites are not deployed to a server the form won't actually work right now. **If you'd like to try putting your site up on the internet ask a mentor to help you push it up to GitHub Pages and then you can test out your form**.  The way Formspree works is that you'll have to test it once, which will send you an email asking you to confirm your email address and from then on, your form will be functioning!{% endhint %}
 
