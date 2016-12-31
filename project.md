@@ -5,12 +5,14 @@ HTML provides your website with the underlying structure.  We'll start with a ba
 ## Part 1: HTML Page Structure
 We'll explore using the Emmet plugin in the Atom text editor that we use as our development environment.  This plugin helps us write our code faster and more efficiently.
 
-1. In the CodingAndCocktails folder you created during the tools setup create a folder called `html`
-2. Open Atom
-3. Go to the `File` menu and choose `New File`
-4. Go to the `File` menu and choose `Save As...`
-5. Name the file _index.html_ and save it in your `CodingAndCocktails\html` folder
-6. In your _index.html_ file type `html:5` and press the `tab` button on your keyboard.  This is some of the magic emmet can help us with and should come out looking like the following: 
+1. In the CodingAndCocktails folder you created during the tools setup create a folder called `html`.
+2. Open Atom.
+3. Go to the `File` menu and choose `Add project folder`.
+4. Navigate to and select the `CodingAndCocktails\html` folder.
+3. On the left side of your screen, right click on the `html` folder and select `New file`.
+5. Name the file _index.html_ and press enter to save it in your `CodingAndCocktails\html` folder.
+6. In the project pane on the left, double click on the _index.html_ file to open it.
+7. In your _index.html_ file type `html:5` and press the `tab` button on your keyboard.  This is some of the magic emmet can help us with and should come out looking like the following: 
 
   ```html
   <!DOCTYPE html>
