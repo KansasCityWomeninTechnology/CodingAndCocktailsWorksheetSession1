@@ -7,7 +7,7 @@ The head section contains data telling your browser more information about your 
 
 3. In Google Chrome, choose `Open File` from the `File` menu.  Navigate to your `CodingAndCocktails\html` folder and open the _index.html_ file.
 
-4. You won't see anything exciting on the page itself yet but you should see your title displayed in the page tab.
+4. You won't see anything exciting on the page yet, but you should see your title displayed in the page tab.
 
 5. The remainder of our work will be done inside the `<body></body>` tags.  This is where any page content you can see goes.
 
