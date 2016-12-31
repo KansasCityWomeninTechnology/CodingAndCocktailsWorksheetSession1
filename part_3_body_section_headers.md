@@ -32,7 +32,7 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 
 5. Next, we'll want an "About" section, a "Menu" section, and a "Contact" section using more `div` tags. We'll need to add `id` attributes to these `divs` for navigation later in the worksheet.
     
-    1. Inside the `div.container` element but below closing `</div>` tag for the first `div.row` element, typeype `div.row#about` and press the `tab` key.  This will be the area for our "About" section. The element you created should look like this:
+    1. Inside the `div.container` element but below closing `</div>` tag for the first `div.row` element, type `div.row#about` and press the `tab` key.  This will be the area for our "About" section. The element you created should look like this:
     ![](/assets/div.png)
     
     {% hint style='tip' %}If you place your cursor on any HTML element, Atom will underline the matching opening or closing tag for you. {% endhint %}
