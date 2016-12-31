@@ -13,9 +13,9 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     An `id` attribute can be added by typing a `#` and then the name of the id you'd like to set.
     {% endhint %}
 
-    2. Nested inside the container `div` create another `div` element with the class `row`. Type `div.row` and press the `tab` key
+    2. Nested inside the container `div` create another `div` element with the class `row`. Type `div.row` and press the `tab` key.
     
-    3. Inside the row `div` add a third div with the class  `col-sm-12`
+    3. Inside the row `div` add a third div with the class  `col-sm-12`.
     {% hint style='info' %}
     Classes are often used to apply styling to elements - we will learn about styling next month. We'll see this in action later in the worksheet.  For now, don't worry too much about what the classes mean - we're focusing on the HTML this month.
     {% endhint %}
@@ -45,13 +45,13 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 
     1. Inside the container `div` element but below the closing `</div>` tag for the about section, type `div.row#menu` and press the `tab` key. This will be the area for our "Menu" section.
 
-    2. Inside that menu `div`, add another `div.col-sm-12`
+    2. Inside that menu `div`, add another `div.col-sm-12`.
 
     3. Inside that, title the section with the text "Menu" using an `h3` tag.
     
     4. Inside the container `div`, below the menu section, add a "contact" row. 
     
-    5. Inside that contact `div` row, add another `div.col-sm-12`
+    5. Inside that contact `div` row, add another `div.col-sm-12`.
 
     6. Create an `h3` tag with the text "Contact" between the div tags created in the last step.
 
