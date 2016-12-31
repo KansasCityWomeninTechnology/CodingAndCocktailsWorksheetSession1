@@ -5,7 +5,7 @@ You'll often find yourself needing to look at how your page is being rendered in
 
     This will open up your Chrome Developer Tools to the **elements** tab
     
-2. Notice you can see all of your tags that you've added to the page and how they are nested inside eachother. It should look something like this:
+2. Notice you can see all of your tags that you've added to the page and how they are nested inside each other. It should look something like this:
 ![](/assets/devTools.png)
 
 3. Notice as you mouse over elements in the Dev Tools that they are highlighted in the rendered view above.
