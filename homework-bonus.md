@@ -2,7 +2,7 @@
 
 This exercise only requires one addition.  Can you figure out what it is? 
 
-1.  Open a new file in Atom and save it in you `CodingAndCocktials/html` folder as *troubleshooting2.html*
+1.  Open a new file in Atom and save it in your `CodingAndCocktials/html` folder as *troubleshooting2.html*
 
 2.  Paste the following code into the file
 ```
