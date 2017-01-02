@@ -66,6 +66,8 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
 
 If you'd like to try putting your site up on the internet ask a mentor to help you push it up to GitHub Pages and then you can test out your form.  The way Formspree works is that you'll have to test it once, which will send you an email asking you to confirm your email address and from then on, your form will be functioning!{% endhint %}
 
+###Documentation
+
 [Mozilla Develper Network form element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 [Mozilla Develper Network input element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
