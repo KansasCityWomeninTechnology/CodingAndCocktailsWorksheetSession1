@@ -4,7 +4,7 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 
 1. We'll create sections within our page with `div` tags.  
 
-    1. In between the opening and closing `<body></body>` tags, type `div.container` and press the `tab` key.  This will create a `div` element with a class attribute with the value of container and will be the main container element for our page.
+    1. In Atom, between the opening and closing `<body></body>` tags, type `div.container` and press the `tab` key.  This will create a `div` element with a class attribute with the value of container and will be the main container element for our page.
     
     {% hint style='tip' %}
     Anytime you want to add a `class` attribute to an element you can add that by adding a period and then the classname you want to add when you're using emmet to create your elements. {% endhint %}
