@@ -14,10 +14,12 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     {% endhint %}
     
     Your body section should now look like this: 
+    
     ![](/assets/firstTag.png)
 
     2. Nested inside the `div.container` create another `div` element with the class `row`. Type `div.row` and press the `tab` key. _Don't forget to indent so your code is easy to read!_
     Your body section should now look like this: 
+    
     ![](/assets/secondTag.png)
     
     3. In between the `div.row` add a third div with the class  `col-sm-12`.
