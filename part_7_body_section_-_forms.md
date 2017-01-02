@@ -28,6 +28,9 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
      {% hint style='tip' %}Emmet will automatically add your `type` attribute and leaving it with the value "text" for our first input is perfect!{% endhint %}
      
      5. Also add a `placeholder` attribute and set the value to **"First and Last Name"**. 
+     
+     Your code should look similar to this:
+     
     
 5. Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:
     
