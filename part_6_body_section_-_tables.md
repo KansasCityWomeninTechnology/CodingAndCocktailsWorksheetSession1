@@ -2,7 +2,7 @@
 
 Add some content to the menu section using an HTML table. 
 
-1. Add an HTML table under the "Menu" header. 
+1. In Atom, add an HTML table under the "Menu" header. 
 {% hint style='tip' %}Don't forget to use emmet to help you write your HTML faster!{% endhint %}
 
     * Check out the [MDN documentation on HTML tables](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) to figure out how to structure your table, there are samples near the bottom of the page.
