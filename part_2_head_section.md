@@ -11,4 +11,6 @@ The head section contains data telling your browser more information about your 
 
 5. The remainder of our work will be done inside the `<body></body>` tags.  This is where any page content you can see goes.
 
+###Documentation
+
 [Mozilla Developer Network Head element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
