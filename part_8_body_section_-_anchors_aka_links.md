@@ -1,16 +1,16 @@
 # Part 11: Anchors (aka Links)
 
-We want our navigation items to actually take us to the page sections they are meant for and in order to do that we have to add anchor elements to create a hyper link to those sections of our page.
+The navigation items should take the user to the page sections they reference. In order to do that, anchor elements need to be added to create a hyper link to those sections of the page.
 
-1. Select the "About" text in your first list item and use the keyboard shortcut to wrap a tag around other content. 
+1. Select the **"About"** text in the first list item and use the keyboard shortcut below to wrap a tag around other content. 
 
 |Windows Key Combination|Mac Key Combination|
 |---|---|
 |`ctrl` + `alt` + `w`|`ctrl` + `w`|
 
-2. Type just an `a` in the prompt that comes up and an anchor tag with it's `href` attribute will show up wrapped around your text.
+2. Type just an `a` in the prompt that comes up and press enter. An anchor tag with an `href` attribute will show up wrapped around your **"About"** text.
 
-3. Tell the anchor where to go when it is clicked.  For "About" it should go to the "About" section of the page.  This is identified  with the id `about` on our about sections `div` element.  Set the `href` attribute's value to **"#about"**.
+3. The href attribute tells the anchor where to go when it is clicked.  For **"About"** it should go to the **"About"** section of the page.  This is identified on the `div` element with the id `about`.  Set the `href` attribute's value to **"#about"**.
 
 4. Repeat this process for the Menu and Contact sections.  
 
@@ -18,6 +18,8 @@ We want our navigation items to actually take us to the page sections they are m
 
 We now have a working navigation section!
 {% hint style='tip' %}Since we don't have a lot of content on our page it may not appear to work at first.  If you shrink the size of your browser window down so it is about half as tall, try clicking on the menu navigation item again and the menu section should show at the top!{% endhint %}
+
+###Documentation
 
 [Mozilla Develper Network anchor element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
