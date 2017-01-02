@@ -9,23 +9,25 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
 3. Add a `method` attribute to your `form` element with a value of **"POST"**. This is required to make the form work with Formspree.
 {% hint style='tip' %}Remember attribute values are surrounded by double quotation marks! {% endhint %}
 
-4. This form will have sections for a name, an email address and a message along with a **Submit** button.
+4. The form will have sections for a name, an email address and a message along with a **Submit** button.
     
     1. Inside the `form` element type `div.form-group*4` and push the `tab` key to add the four form sections.
+    {% hint style='info' %}You asked emmet to create a div element (`div`) with the class form-group (`.form-group`), four of them (`*4`){% endhint %}
      
-2. The first section is the name section. In between the first opening and closing `div.form-group` tags, add a `label` element. Type `label`  and push the `tab` key
+5. The first section is the name section. In between the first opening and closing `div.form-group` tags, add a `label` element. Type `label`  and push the `tab` key
     
      2. Set the label's `for` attribute value to **"nameInput"**
      
-     3. Add the text **"Name"** in between your label tags.
+     3. Add the text **"Name"** in between the opening and closing label tags.
     
      3. Just below the label element type `input#nameInput.form-control` then press the `tab` key to create your input element with the id **"nameInput"** and class **form-control**.
-     
+     {% hint style='info' %}Remember, ids are created by using a `#` followed by the id name you want to add and classes are created by using a `.` followed by the class name you want to add{% endhint %}
+
      4. Add a `name` attribute to that `input` element and set it's value to **"name"**
 
      {% hint style='tip' %}Emmet will automatically add your `type` attribute and leaving it with the value "text" for our first input is perfect!{% endhint %}
      
-     5. Also add a `placeholder` attribute and set the value to **"Name"**. 
+     5. Also add a `placeholder` attribute and set the value to **"First and Last Name"**. 
     
 5. Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:
     
