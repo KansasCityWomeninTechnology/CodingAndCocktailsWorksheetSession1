@@ -2,7 +2,7 @@
 
 Most websites have a way to navigate around.  HTML 5 added `nav` and `footer` elements to the mix so let's practice using those!
 
-1. Create a navigation row section and add the navbar.
+1. In Atom, create a navigation row section and add the navbar.
     
     1. Above the first `div.row` (now displayed in your code as a div element with the row class - `<div class="row"></div>`) add a new `div.row`.
     
