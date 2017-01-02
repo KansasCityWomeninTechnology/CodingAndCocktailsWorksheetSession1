@@ -72,27 +72,27 @@ In order to continue building our coding skills, we need to practice - just like
 </html>
 ```
 
-8.  Save the file and open it in your Google Chrome browser
+8.  Save the file and open it in your Google Chrome browser.
 
 9.  The first thing to fix is that our image is not displayed underneath the first paragraph.  See if you can make the image show up by editing the HTML. 
-> Remember to save and refresh the page in Google Chrome to see your changes
+{% hint style='tip' %}Remember to save and refresh the page in Google Chrome to see your changes{% endhint %}
 
-10. The second issue to fix is the table so it has two columns (Sport and Equipent) with several rows of data.
+10. The second issue to fix is the table. It should have two columns (Sport and Equipent) with several rows of data.
 
-11. Next, update the list of items to use an HTML ordered list so our webpage has the correct structure
+11. Update the list of items to use an HTML ordered list so our webpage has the correct structure.
 
-12. After that, update the HTML headers keeping an eye to our HTML best practices
+12. Update the HTML headers keeping an eye to our HTML best practices.
 
-13. Finally, when we talked about image tags there was an attribute we mentioned as a good idea to include on images.  Update the image tag to have this attribute.
+13. The `img` tag is missing an important attribute. Update the image tag to have this attribute.
 
 ###View Pages and Answer Key
 
-**View Rendered Page:** [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/exercise1.html)
+**View Starting Point:** [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/exercise1.html)
 
-**View Rendered Answer:**
+**View Solution:**
 [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/exercise1.html)
 
-**Answer Key:**
+**Code Answer Key:**
 [**https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/exercise1.html**](https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/exercise1.html)
 
 
