@@ -28,15 +28,15 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
      {% hint style='tip' %}Emmet will automatically add your `type` attribute and leaving it with the value "text" for our first input is perfect!{% endhint %}
      
      5. Also add a `placeholder` attribute and set the value to **"First and Last Name"**. 
-     
      Your code should look similar to this now:
      
+     ![](/assets/formSectionOneCode.png)     
     
-5. Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:
+6. Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:
     
     ![](/assets/firstForm.png)
     
-5. The second section will be for the user email address. In between the opening and closing tags for the second form-group div, add a `label` element with a `for` attribute set to **"emailInput"** and the text **"Email Address"** in between the tags.
+7. The second section will be for the user email address. In between the opening and closing tags for the second form-group div, add a `label` element with a `for` attribute set to **"emailInput"** and the text **"Email Address"** in between the tags.
     
     6. After the label add an `input` element with an id of **"emailInput"** but this time set the `type` attribute to **"email"**
     
