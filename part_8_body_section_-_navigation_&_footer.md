@@ -2,28 +2,30 @@
 
 Most websites have a way to navigate around.  HTML 5 added nav and footer elements to the mix so let's practice using those!
 
-1. Add row sections for these as well. First, create the navigation section. 
+1. Add row sections for these. First, create the navigation section. 
     
-    1. Above the first `div.row` add a new `div.row`
+    1. Above the first `div.row` (now displayed in your code as a div element with the row class - `<div class="row"></div>`) add a new `div.row`.
     
-    2. Inside that row add a `div.col-sm-12`
+    2. In between the opening and closing `div` tags just created, add a `div.col-sm-12`.
     
-    3. Finally, add a `nav` element with the classes **navbar** and **navbar-default** inside the div from step ii.
+    3. Add a `nav` element with the classes **navbar** and **navbar-default** inside the div from step ii.
     
     4. Save your file and reload it in Google Chrome.
     {% hint style='info' %}Nothing to see here. How does a user move around? We'll add the navigation links in Part 11: Anchors!{% endhint %}
     
-2. Next add a footer.  
+2. Add a footer.  
 
-    1. Add another `div.row` just inside the closing `</body>` tag
+    1. Add another `div.row` just inside the closing `</body>` tag.
     
-    2. Inside that row add a `div.col-sm-12`
+    2. In between the opening and closing `div` tags you just added, add a `div.col-sm-12`.
     
-    3. Add a `footer` element inside that `div`
+    3. Add a `footer` element in between the opening and closing tags of that `div`.
 
-    4. Footers often contain copyright information so try using an [HTML entity](http://www.w3schools.com/html/html_entities.asp) to add a copyright symbol. Inside the `footer` tag add the text `&copy;` and the text " Copyright your name 2017"
+    4. Footers often contain copyright information so try using an [HTML entity](http://www.w3schools.com/html/html_entities.asp) to add a copyright symbol. In between the opening and closing `<footer></footer>` tags add the text `&copy;` and the text " Copyright your name 2017"
 
 3. Save your file and reload it in Google Chrome.
+
+###Documentation
 
 [Mozilla Develper Network nav element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
 
