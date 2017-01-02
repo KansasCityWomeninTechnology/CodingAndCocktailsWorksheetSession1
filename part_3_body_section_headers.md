@@ -16,9 +16,11 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     Your body section should now look like this: 
     ![](/assets/firstTag.png)
 
-    2. Nested inside the `div.container` create another `div` element with the class `row`. Type `div.row` and press the `tab` key.
+    2. Nested inside the `div.container` create another `div` element with the class `row`. Type `div.row` and press the `tab` key. _Don't forget to indent so your code is easy to read!_
+    Your body section should now look like this: 
+    ![](/assets/secondTag.png)
     
-    3. Inside the row `div` add a third div with the class  `col-sm-12`.
+    3. In between the `div.row` add a third div with the class  `col-sm-12`.
     {% hint style='info' %}
     Classes are often used to apply styling to elements - we will learn about styling next month. We'll see this in action later in the worksheet.  For now, don't worry too much about what the classes mean - we're focusing on the HTML this month.
     {% endhint %}
