@@ -30,6 +30,6 @@ We'll explore using the Emmet plugin in the Atom text editor that we use as our 
   ```
 See how the `meta` and `title` tags are indented since they are children of the `head` tag?
 
-{% hint style='danger' %}Setting up this file structure only works when the file you're trying to do it in is already saved with the .html file extension {% endhint %}
+{% hint style='danger' %}Setting up the HTML structure with emmet this way only works when the file you're developing in is already saved with the .html file extension. {% endhint %}
 
 6. Cheers! You just set up the structural foundation of a web page!
