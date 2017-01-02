@@ -3,14 +3,14 @@
 The navigation items should take the user to the page sections they reference. In order to do that, anchor elements need to be added to create a hyper link to those sections of the page.
 
 1. In Atom, select the **"About"** text in the first list item and use the keyboard shortcut below to wrap a tag around other content. 
-
 |Windows Key Combination|Mac Key Combination|
 |---|---|
 |`ctrl` + `alt` + `w`|`ctrl` + `w`|
+2. Type just an `a` in the prompt that comes up and press enter. An anchor tag with an `href` attribute will show up wrapped around your **"About"** text. The **"About"** text should now look like this: 
 
-2. Type just an `a` in the prompt that comes up and press enter. An anchor tag with an `href` attribute will show up wrapped around your **"About"** text.
+    ![](/assets/aboutNav.png)
 
-3. The href attribute tells the anchor where to go when it is clicked.  For **"About"** it should go to the **"About"** section of the page.  This is identified on the `div` element with the id `about`.  Set the `href` attribute's value to **"#about"**.
+3. The href attribute tells the anchor where to go when it is clicked.  Clicking **"About"** should move to the **"About"** section of the page.  The about section is the `div` element with the id `about`.  Set the anchor tag's `href` value to **"#about"**.
 
 4. Repeat this process for the Menu and Contact sections.  
 
