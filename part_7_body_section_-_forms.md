@@ -44,7 +44,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
     3. Add a `class` attribute of **"form-control"**.
     
-    4. Add a `placeholder` attribute with a value of **"email"**
+    4. Add a `placeholder` attribute with a value of **"Email Address"**
     
 5. Save your file and reload it in Google Chrome. Progress! It should look like this:
     
