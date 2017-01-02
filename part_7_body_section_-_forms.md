@@ -40,7 +40,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
     1. Below the `label` element, add an `input` element with an id of **"emailInput"** but this time set the `type` attribute to **"email"**
     
-    2. Add the `name` attribute to the `input` element from the previous step and set the value to **"_replyto"**.
+    2. On the `input` element, add a `name` attribute with a value of **"_replyto"**.  This is another requirement to make the form work with Formspree.
     
     3. Add a `class` attribute of **"form-control"**.
     
