@@ -2,7 +2,7 @@
 
 Under the "Contact" header add a form to allow users to contact you. Forms typically require a bit of JavaScript but that tool is not in our toolbelt just yet we'll use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/).
 
-1. Under the "Contact" header add a `form` element to your page
+1. Under the "Contact" header add a `form` element to your page.
 
 2. Set the `action` attribute's value to `https://formspree.io/youremail@example.com` replacing the `youremail@example.com` text with your actual email address.
 
@@ -13,7 +13,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
     1. Inside the `form` element type `div.form-group*4` and push the `tab` key to add the four form sections.
      
-2. The first section is the name section. In between the first opening and closing form-group `div`, add a `label` element. Type `label`  and push the `tab` key
+2. The first section is the name section. In between the first opening and closing `div.form-group` tags, add a `label` element. Type `label`  and push the `tab` key
     
      2. Set the label's `for` attribute value to **"nameInput"**
      
@@ -21,9 +21,11 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
      3. Just below the label element type `input#nameInput.form-control` then press the `tab` key to create your input element with the id **"nameInput"** and class **form-control**.
      
-     * Add a `name` attribute to that `input` element and set it's value to **"name"**
+     4. Add a `name` attribute to that `input` element and set it's value to **"name"**
 
      {% hint style='tip' %}Emmet will automatically add your `type` attribute and leaving it with the value "text" for our first input is perfect!{% endhint %}
+     
+     5. Also add a `placeholder` attribute and set the value to **"Name"**. 
     
 5. Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:
     
