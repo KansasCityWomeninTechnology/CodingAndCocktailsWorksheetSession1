@@ -2,9 +2,9 @@
 
 ###Troubleshooting Exercises
 
-In order to continue building our coding skills, we need to practice - just like when playing sports or learning a musical instrument. Let’s try some troubleshooting so you can feel more confident coding on your own!
+In order to continue building our coding skills, we need to practice - just like when playing sports or learning a musical instrument. Try some troubleshooting so you can feel more confident coding on your own!
 
-1.  Open a new file in Atom and save it in you `CodingAndCocktials/html` folder as *troubleshooting.html*
+1.  Open a new file in Atom and save it in your `CodingAndCocktials/html` folder as *troubleshooting.html*
 
 2.  Paste the following code into the file
 ```
@@ -74,7 +74,7 @@ In order to continue building our coding skills, we need to practice - just like
 
 8.  Save the file and open it in your Google Chrome browser
 
-9.  The first thing to fix is that our image is not displayed underneath the paragraph.  See if you can make the image show up by editing the HTML. 
+9.  The first thing to fix is that our image is not displayed underneath the first paragraph.  See if you can make the image show up by editing the HTML. 
 > Remember to save and refresh the page in Google Chrome to see your changes
 
 10. The second issue to fix is the table so it has two columns (Sport and Equipent) with several rows of data.
