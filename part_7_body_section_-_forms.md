@@ -2,12 +2,12 @@
 
 Under the "Contact" header add a form to allow users to contact you. Forms typically require a bit of JavaScript but that tool is not in our toolbelt just yet we'll use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/).
 
-1. In Atom, under the "Contact" header add a `form` element to your page.
+1. In Atom, under the "Contact" header add a `<form></form>` element to your page.
 
 2. Set the `action` attribute's value to `https://formspree.io/youremail@example.com` replacing the `youremail@example.com` text with your actual email address.
 
 3. Add a `method` attribute to your `form` element with a value of **"POST"**. This is required to make the form work with Formspree.
-{% hint style='tip' %}Remember attribute values are always surrounded by double quotation marks! {% endhint %}
+{% hint style='tip' %}Remember attribute values are surrounded by double quotation marks! {% endhint %}
 
 4. This form will have sections for a name, an email address and a message along with a **Submit** button.
     
