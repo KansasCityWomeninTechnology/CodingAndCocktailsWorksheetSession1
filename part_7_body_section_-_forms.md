@@ -46,28 +46,28 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
     4. Add a `placeholder` attribute with a value of **"Email Address"**
     
-5. Save your file and reload it in Google Chrome. Progress! It should look like this:
+8. Save your file and reload it in Google Chrome. Progress! It should look like this:
 
     
     
-8. Finally, create the area for the message. Inside the third form-group add a `label` element with a `for` attribute set to **"messageInput"** and the text **"Message"** in between the tags.
+9. Finally, create the area for the message. Inside the third form-group add a `label` element with a `for` attribute set to **"messageInput"** and the text **"Message"** in between the tags.
     
-    10.   Below the label, add a `textarea` element inside the third form-group with a class of **"form-control"**.
+    1.   Below the label, add a `textarea` element inside the third form-group with a class of **"form-control"**.
     
     {% hint style='info' %}Look at the [MDN documentation for input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input). Notice the only way to input text is on a single line when `type="text"`.  This means a `textarea` element must be used for a multi-line user message instead of an `input` element.{% endhint %}
     
-    6. Set the `name` attribute of the `textarea` element to **"message"**, the `id` attribute to **"messageInput"** and leave the `cols` and `rows` attributes at the default values.
+    2. Set the `name` attribute of the `textarea` element to **"message"**, the `id` attribute to **"messageInput"** and leave the `cols` and `rows` attributes at the default values.
     
-2. Save your file and reload it in Google Chrome. It should look like this: 
+10. Save your file and reload it in Google Chrome. It should look like this: 
     
     ![](/assets/thirdForm.png)
     
-7. In between the the final form-group `div` opening and closing tags, add an `input` element with a `type` value of **"submit"**, two classes (**btn** and **btn-default**) and a `value` attribute with a value of "Send". 
+11. In between the the final form-group `div` opening and closing tags, add an `input` element with a `type` value of **"submit"**, two classes (**btn** and **btn-default**) and a `value` attribute with a value of "Send". 
     {% hint style='tip' %}Type `input.btn.btn-default` and then press the`tab` key to add both classes to the input element at the same time{% endhint %}
     
     {% hint style='info' %}The `value` attribute sets the text of the submit button so feel free to set the text to whatever you'd like!{% endhint %}
 
-2. Save your file and reload it in Google Chrome. The final form should look like this: 
+12. Save your file and reload it in Google Chrome. The final form should look like this: 
     
     ![](/assets/fourthForm.png)
  
