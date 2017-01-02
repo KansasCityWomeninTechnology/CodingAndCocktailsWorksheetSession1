@@ -12,6 +12,9 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     {% hint style='tip' %}
     An `id` attribute can be added by typing a `#` and then the name of the id you'd like to set.
     {% endhint %}
+    
+    Your body section should now look like this: 
+    ![](/assets/firstTag.png)
 
     2. Nested inside the `div.container` create another `div` element with the class `row`. Type `div.row` and press the `tab` key.
     
