@@ -24,7 +24,7 @@ This exercise only requires one addition.  Can you figure out what it is?
 
 ###View Pages and Answer Key
 
-**View Rendered Page:** [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html)
+**View Starting Point:** [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html)
 
 **View Rendered Answer:**
 [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/bonus.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/bonus.html)
