@@ -68,6 +68,8 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 7. Save your file and reload it in Google Chrome. Your page should look similar to this:
 ![](/assets/headersSectionsEnd.png)
 
+###Documentation
+
 If you want to read up on header or div elements check out the documentation from Mozilla Developer Network:
 
 [MDN Documentation on heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
