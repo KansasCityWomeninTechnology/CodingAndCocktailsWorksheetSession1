@@ -38,9 +38,9 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
 7. The second section will be for the user email address. In between the opening and closing tags for the second form-group div, add a `label` element with a `for` attribute set to **"emailInput"** and the text **"Email Address"** in between the tags.
     
-    6. After the label add an `input` element with an id of **"emailInput"** but this time set the `type` attribute to **"email"**
+    1. Below the `label` element, add an `input` element with an id of **"emailInput"** but this time set the `type` attribute to **"email"**
     
-    7. Add the `name` attribute to the `input` element from the previous step and set the value to **"_replyto"** adding a `class` attribute of **"form-control"**
+    2. Add the `name` attribute to the `input` element from the previous step and set the value to **"_replyto"** adding a `class` attribute of **"form-control"**
     
 5. Save your file and reload it in Google Chrome. Progress! It should look like this:
     
