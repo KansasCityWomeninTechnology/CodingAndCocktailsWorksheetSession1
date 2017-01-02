@@ -19,6 +19,7 @@ Add an image to your about section to bring some interest to your page.
 
 6. Save your file and reload it in Google Chrome.
 
+###Documentation
 
 [Mozilla Develper Network image element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 
