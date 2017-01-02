@@ -29,13 +29,16 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     
     4. Save the page, switch over to Google Chrome and reload.  Even though we've started adding content to the `body` section there is still nothing to see.
 
-2. Use an `h1` tag inside the last `div` element. Type `h1` then press the `tab` key. Write the name of your cocktail lounge between the opening and closing tags.
+2. Create an `h1` tag inside the last `div` element. Type `h1` then press the `tab` key. Write the name of your cocktail lounge between the opening and closing tags.
 
 4. Save your file and reload it in Google Chrome. **We have content!**
 
     ![](https://media.giphy.com/media/3o6gEeg80PqeJBtsdy/giphy.gif)
                         
 4. After the closing `h1` tag, add an `h2` tag for a subtitle containing the text "Cocktails with a side of code." 
+    It should look something like this: 
+    
+    ![](/assets/thirdCheckpoint.png)
 
 5. Next, we'll want an "About" section, a "Menu" section, and a "Contact" section using more `div` tags. We'll need to add `id` attributes to these `divs` for navigation later in the worksheet.
     
