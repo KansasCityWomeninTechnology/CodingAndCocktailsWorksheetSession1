@@ -19,5 +19,6 @@ Add some content to the menu section using an HTML table.
     
     ![](/assets/table.png)
 
+###Documentation
 
 [Mozilla Develper Network table element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
