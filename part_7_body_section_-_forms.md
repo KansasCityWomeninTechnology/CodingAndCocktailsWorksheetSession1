@@ -50,13 +50,22 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
 
     ![](/assets/secondForm.png)
     
-9. Create the area for the message. Inside the third form-group add a `label` element with a `for` attribute set to **"messageInput"** and the text **"Message"** in between the tags.
+9. Create the area for the message. Inside the third form-group add a `label` element 
+    1. Set the `label` element's `for` attribute to **"messageInput"** 
     
-    1.   Below the label, add a `textarea` element with a `class` of **"form-control"**.
+    2. Add text **"Message"** in between the opening and closing `label` tags.
     
-    {% hint style='info' %}Look at the MDN documentation for input linked at the bottom of the page. Notice the only way to input text is on a single line when `type="text"`.  This means a `textarea` element must be used for a multi-line user message instead of an `input` element.{% endhint %}
+    3.   Below the label, add a `textarea` element with a `class` of **"form-control"**.
     
-    2. Set the `name` attribute of the `textarea` element to **"message"**, the `id` attribute to **"messageInput"** and leave the `cols` and `rows` attributes at the default values.
+    4. Set the `name` attribute of the `textarea` element to **"message"**
+    
+    5. Set the `id` attribute to **"messageInput"** 
+
+    6. Leave the `cols` and `rows` attribute values at the defaults provided.
+    
+    {% hint style='info' %}Why are we using a textarea element instead of an input element here?
+    
+    Look at the MDN documentation for input linked at the bottom of the page. Scroll down to the `type` attribute and look at the explanation for the value `text`.  This shows it only allows a single line of text to be entered when the input elements `type` attribute is set to "text".  Since a message is usually multiple lines, a `textarea` element is a better choice for the message.{% endhint %}
     
 10. Save your file and reload it in Google Chrome. It should look like this: 
     
