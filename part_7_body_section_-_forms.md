@@ -48,7 +48,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
 8. Save your file and reload it in Google Chrome. Progress! It should look like this:
 
-
+    ![](/assets/secondForm.png)
     
 9. Finally, create the area for the message. Inside the third form-group add a `label` element with a `for` attribute set to **"messageInput"** and the text **"Message"** in between the tags.
     
