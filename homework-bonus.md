@@ -26,10 +26,10 @@ This exercise only requires one addition.  Can you figure out what it is?
 
 **View Starting Point:** [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html)
 
-**View Rendered Answer:**
+**View Solution:**
 [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/bonus.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/bonus.html)
 
-**Answer Key:**
+**Code Answer Key:**
 [**https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/bonus.html**](https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/bonus.html)
 
 
