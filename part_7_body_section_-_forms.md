@@ -29,7 +29,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
      
      5. Also add a `placeholder` attribute and set the value to **"First and Last Name"**. 
      
-     Your code should look similar to this:
+     Your code should look similar to this now:
      
     
 5. Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:
