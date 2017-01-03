@@ -13,7 +13,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
     1. Inside the `form` element type `div.form-group*4` and push the `tab` key to add the four form sections.
     {% hint style='info' %}You asked emmet to create a div element (`div`) with the class form-group (`.form-group`), four of them (`*4`){% endhint %}
-     
+    
 5. The first section is the name section. In between the first opening and closing `div.form-group` tags, add a `label` element. Type `label`  and push the `tab` key
     
      2. Set the label's `for` attribute value to **"nameInput"**
