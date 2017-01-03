@@ -50,7 +50,8 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
 
     ![](/assets/secondForm.png)
     
-9. Create the area for the message. Inside the third form-group add a `label` element 
+9. Create the area for the message. Inside the third form-group add a `label` element.
+
     1. Set the `label` element's `for` attribute to **"messageInput"** 
     
     2. Add text **"Message"** in between the opening and closing `label` tags.
