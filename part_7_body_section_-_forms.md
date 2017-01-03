@@ -85,7 +85,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
 
 12. Save your file and reload it in Google Chrome. The final form should look like this: 
     
-    ![](/assets/fourthForm.png)
+    
  
 {% hint style='info' %}Since our websites are not deployed to a server, the form won't actually work right now. 
 
