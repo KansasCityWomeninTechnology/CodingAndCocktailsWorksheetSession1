@@ -61,7 +61,7 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
     5. Set the `id` attribute to **"messageInput"** 
 
-    6. Leave the `cols` and `rows` attribute values at the defaults provided.
+    6. Leave the `cols` and `rows` attributes at the default values provided.
     
     {% hint style='info' %}Why are we using a textarea element instead of an input element here?
     
