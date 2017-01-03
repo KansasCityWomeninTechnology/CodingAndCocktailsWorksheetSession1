@@ -394,8 +394,12 @@ Your code should look similar to this now:</p>
 <li><p>Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:</p>
 <p> <img src="assets/firstForm.png" alt=""></p>
 </li>
-<li><p>The second section will be for the user email address. In between the opening and closing tags for the second form-group div, add a <code>label</code> element with a <code>for</code> attribute set to <strong>&quot;emailInput&quot;</strong> and the text <strong>&quot;Email Address&quot;</strong> in between the tags.</p>
+<li><p>The second section will be for the user email address. In between the opening and closing tags for the second form-group div, add a <code>label</code> element. </p>
 <ol>
+<li><p>Set the <code>for</code> attribute to <strong>&quot;emailInput&quot;</strong> </p>
+</li>
+<li><p>In between the opening and closing tags set the text to <strong>&quot;Email Address&quot;</strong>.</p>
+</li>
 <li><p>Below the <code>label</code> element, add an <code>input</code> element with an id of <strong>&quot;emailInput&quot;</strong> but this time set the <code>type</code> attribute to <strong>&quot;email&quot;</strong></p>
 </li>
 <li><p>On the <code>input</code> element, add a <code>name</code> attribute with a value of <strong>&quot;_replyto&quot;</strong>.  This is another requirement to make the form work with Formspree.</p>
@@ -496,7 +500,7 @@ If you&apos;d like to try putting your site up on the internet ask a mentor to h
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Part 8: Forms","level":"1.9","depth":1,"next":{"title":"Part 9: Navigation & Footer","level":"1.10","depth":1,"path":"part_8_body_section_-_navigation_&_footer.md","ref":"part_8_body_section_-_navigation_&_footer.md","articles":[]},"previous":{"title":"Part 7: Tables","level":"1.8","depth":1,"path":"part_6_body_section_-_tables.md","ref":"part_6_body_section_-_tables.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon","hints","livereload"],"pluginsConfig":{"livereload":{},"search":{},"hints":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"part_7_body_section_-_forms.md","mtime":"2017-01-03T00:14:41.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-01-03T00:11:03.692Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Part 8: Forms","level":"1.9","depth":1,"next":{"title":"Part 9: Navigation & Footer","level":"1.10","depth":1,"path":"part_8_body_section_-_navigation_&_footer.md","ref":"part_8_body_section_-_navigation_&_footer.md","articles":[]},"previous":{"title":"Part 7: Tables","level":"1.8","depth":1,"path":"part_6_body_section_-_tables.md","ref":"part_6_body_section_-_tables.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon","hints"],"pluginsConfig":{"search":{},"hints":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"part_7_body_section_-_forms.md","mtime":"2017-01-03T00:18:21.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-01-03T00:26:51.472Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
@@ -504,10 +508,6 @@ If you&apos;d like to try putting your site up on the internet ask a mentor to h
         
     <script src="gitbook/gitbook.js"></script>
     <script src="gitbook/theme.js"></script>
-    
-        
-        <script src="gitbook/gitbook-plugin-livereload/plugin.js"></script>
-        
     
         
         <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>
