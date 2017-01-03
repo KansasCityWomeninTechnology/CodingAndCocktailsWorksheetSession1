@@ -36,15 +36,19 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
     
     ![](/assets/firstForm.png)
     
-7. The second section will be for the user email address. In between the opening and closing tags for the second form-group div, add a `label` element with a `for` attribute set to **"emailInput"** and the text **"Email Address"** in between the tags.
+7. The second section will be for the user email address. In between the opening and closing tags for the second form-group div, add a `label` element. 
+
+    1. Set the `for` attribute to **"emailInput"** 
+
+    2. In between the opening and closing tags set the text to **"Email Address"**.
     
-    1. Below the `label` element, add an `input` element with an id of **"emailInput"** but this time set the `type` attribute to **"email"**
+    3. Below the `label` element, add an `input` element with an id of **"emailInput"** but this time set the `type` attribute to **"email"**
     
-    2. On the `input` element, add a `name` attribute with a value of **"_replyto"**.  This is another requirement to make the form work with Formspree.
+    4. On the `input` element, add a `name` attribute with a value of **"_replyto"**.  This is another requirement to make the form work with Formspree.
     
-    3. Add a `class` attribute of **"form-control"**.
+    5. Add a `class` attribute of **"form-control"**.
     
-    4. Add a `placeholder` attribute with a value of **"Email Address"**
+    6. Add a `placeholder` attribute with a value of **"Email Address"**
     
 8. Save your file and reload it in Google Chrome. Progress! It should look like this:
 
