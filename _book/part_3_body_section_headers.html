@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Homework: Bonus · GitBook</title>
+        <title>Part 3: Headers & Page Sections · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -59,8 +59,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
+    <link rel="next" href="part_4_body_section_-_paragraphs.html" />
     
-    <link rel="prev" href="troubleshooting.html" />
+    
+    <link rel="prev" href="part_2_head_section.html" />
     
 
     </head>
@@ -128,7 +130,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4" data-path="part_3_body_section_headers.html">
+        <li class="chapter active" data-level="1.4" data-path="part_3_body_section_headers.html">
             
                 <a href="part_3_body_section_headers.html">
             
@@ -297,7 +299,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.17" data-path="homework-bonus.html">
+        <li class="chapter " data-level="1.17" data-path="homework-bonus.html">
             
                 <a href="homework-bonus.html">
             
@@ -340,7 +342,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Homework: Bonus</a>
+        <a href="." >Part 3: Headers & Page Sections</a>
     </h1>
 </div>
 
@@ -355,34 +357,70 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="homework-bonus">Homework: Bonus</h1>
-<p>This exercise only requires one addition.  Can you figure out what it is? </p>
+                                <h1 id="part-3-headers--page-sections">Part 3: Headers &amp; Page Sections</h1>
+<p>The body section of your HTML contains the visible part of your webpage.  Let&apos;s start building out some content!</p>
 <ol>
-<li><p>Open a new file in Atom and save it in your <code>CodingAndCocktials/html</code> folder as <em>troubleshooting2.html</em></p>
+<li><p>We&apos;ll create sections within our page with <code>div</code> tags.  </p>
+<ol>
+<li><p>In Atom, between the opening and closing <code>&lt;body&gt;&lt;/body&gt;</code> tags, type <code>div.container</code> and press the <code>tab</code> key.  This will create a <code>div</code> element with a class attribute with the value of container and will be the main container element for our page.</p>
+<p><div class="alert alert-success"><i class="octicon octicon-mortar-board" style=""></i>
+    Anytime you want to add a `class` attribute to an element you can add that by adding a period and then the classname you want to add when you&apos;re using emmet to create your elements. </div></p>
+<p><div class="alert alert-success"><i class="octicon octicon-mortar-board" style=""></i>
+    An `id` attribute can be added by typing a `#` and then the name of the id you&apos;d like to set.
+    </div></p>
+<p>Your body section should now look like this: </p>
+<p><img src="assets/firstTag.png" alt=""></p>
 </li>
-<li><p>Paste the following code into the file</p>
-<pre><code>&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;meta charset=&quot;UTF-8&quot;&gt;
-    &lt;title&gt;Coding &amp;amp; Cocktails Troubleshooting&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;h1&gt;This is my Bonus Exercise&lt;/h1&gt;
-    &lt;p&gt;It looks like everything is working ok.&lt;/p&gt;
-    &lt;p&gt;But there is  one thing missing.&lt;/p
-    &lt;p&gt;Can you figure out what it is?&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre></li>
-<li><p>Take a close look at the page structure and see if you can figure out what is missing.</p>
+<li><p>Nested inside the <code>div.container</code> create another <code>div</code> element with the class <code>row</code>. Type <code>div.row</code> and press the <code>tab</code> key. <em>Don&apos;t forget to indent so your code is easy to read!</em>
+Your body section should now look like this: </p>
+<p><img src="assets/secondTag.png" alt=""></p>
+<p><div class="alert alert-info"><i class="octicon octicon-info" style=""></i>
+    Classes are often used to apply styling to elements - we will learn about styling next month. We&apos;ll see this in action later in the worksheet.  For now, don&apos;t worry too much about what the classes mean - we&apos;re focusing on the HTML this month.
+    </div></p>
+</li>
+<li><p>Save the page, switch over to Google Chrome and reload.  Even though we&apos;ve started adding content to the <code>body</code> section there is still nothing to see.</p>
 </li>
 </ol>
-<h3 id="view-pages-and-answer-key">View Pages and Answer Key</h3>
-<p><strong>View Starting Point:</strong> <a href="http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html" target="_blank"><strong>http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html</strong></a></p>
-<p><strong>View Solution:</strong>
-<a href="http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/bonus.html" target="_blank"><strong>http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/solutions/bonus.html</strong></a></p>
-<p><strong>Code Answer Key:</strong>
-<a href="https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/bonus.html" target="_blank"><strong>https://github.com/KansasCityWomeninTechnology/examples/blob/master/html-troubleshooting/solutions/bonus.html</strong></a></p>
+</li>
+<li><p>Create an <code>h1</code> tag inside the last <code>div</code> element. Type <code>h1</code> then press the <code>tab</code> key. Write the name of your cocktail lounge between the opening and closing tags.</p>
+</li>
+<li><p>Save your file and reload it in Google Chrome. <strong>We have content!</strong></p>
+<p> <img src="https://media.giphy.com/media/3o6gEeg80PqeJBtsdy/giphy.gif" alt=""></p>
+</li>
+<li><p>After the closing <code>h1</code> tag, add an <code>h2</code> tag for a subtitle containing the text &quot;Cocktails with a side of code.&quot; 
+ It should look something like this: </p>
+<p> <img src="assets/thirdCheckpoint.png" alt=""></p>
+</li>
+<li><p>Next, we&apos;ll want an &quot;About&quot; section, a &quot;Menu&quot; section, and a &quot;Contact&quot; section using more <code>div</code> tags. We&apos;ll need to add <code>id</code> attributes to these <code>divs</code> for navigation later in the worksheet.</p>
+<ol>
+<li><p>Inside the <code>div.container</code> element but below closing <code>&lt;/div&gt;</code> tag for the first <code>div.row</code> element, type <code>div.row#about</code> and press the <code>tab</code> key.  This will be the area for our &quot;About&quot; section. The element you created should look like this:
+<img src="assets/div.png" alt=""></p>
+<p><div class="alert alert-success"><i class="octicon octicon-mortar-board" style=""></i>If you place your cursor on any HTML element, Atom will underline the matching opening or closing tag for you. </div></p>
+</li>
+<li><p>Inside that about <code>div, we&apos;ll title the section.  Since this is the third most important heading on the page we&apos;ll use an</code>h3` tag. Place the text &quot;About&quot; between the tags.</p>
+</li>
+</ol>
+</li>
+<li><p>Repeat this process twice more for the Menu and Contact sections.</p>
+<ol>
+<li><p>In between the opening and closing tags for the <code>div.container</code> element but below the closing <code>&lt;/div&gt;</code> tag for the about section, type <code>div.row#menu</code> and press the <code>tab</code> key. This will be the area for our &quot;Menu&quot; section.</p>
+</li>
+<li><p>Inside the menu <code>div</code>, title the section with the text &quot;Menu&quot; using an <code>h3</code> tag.</p>
+</li>
+<li><p>In between the opening and closing tags for the `div.container, below the menu section, add a &quot;contact&quot; row. </p>
+</li>
+<li><p>Create an <code>h3</code> tag with the text &quot;Contact&quot; between the opening and closing div tags created in the last step.</p>
+</li>
+</ol>
+</li>
+<li><p>Save your file and reload it in Google Chrome. Your page should look similar to this:
+<img src="assets/headersSectionsEnd.png" alt=""></p>
+</li>
+</ol>
+<h3 id="documentation">Documentation</h3>
+<p>If you want to read up on header or div elements check out the documentation from Mozilla Developer Network:</p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements" target="_blank">MDN Documentation on heading elements</a></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div" target="_blank">MDN Documentation on div elements</a></p>
 
                                 
                                 </section>
@@ -410,10 +448,14 @@
 
             
                 
-                <a href="troubleshooting.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Homework: Troubleshooting">
+                <a href="part_2_head_section.html" class="navigation navigation-prev " aria-label="Previous page: Part 2: Head Section">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
+                
+                <a href="part_4_body_section_-_paragraphs.html" class="navigation navigation-next " aria-label="Next page: Part 4: Paragraphs">
+                    <i class="fa fa-angle-right"></i>
+                </a>
                 
             
         
@@ -422,7 +464,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Homework: Bonus","level":"1.17","depth":1,"previous":{"title":"Homework: Troubleshooting","level":"1.16","depth":1,"path":"troubleshooting.md","ref":"troubleshooting.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon","hints","livereload"],"pluginsConfig":{"livereload":{},"search":{},"hints":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"homework-bonus.md","mtime":"2017-01-02T21:57:50.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-01-03T00:11:03.692Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Part 3: Headers & Page Sections","level":"1.4","depth":1,"next":{"title":"Part 4: Paragraphs","level":"1.5","depth":1,"path":"part_4_body_section_-_paragraphs.md","ref":"part_4_body_section_-_paragraphs.md","articles":[]},"previous":{"title":"Part 2: Head Section","level":"1.3","depth":1,"path":"part_2_head_section.md","ref":"part_2_head_section.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["custom-favicon","hints","livereload"],"pluginsConfig":{"livereload":{},"search":{},"hints":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"part_3_body_section_headers.md","mtime":"2017-01-02T23:01:43.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-01-03T00:11:03.692Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
