@@ -76,8 +76,8 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
 11. In between the the final form-group `div` opening and closing tags, add an `input` element with a `type` value of **"submit"**.
 
      1. Add two classes: **btn** and **btn-default**.
-
-    2. Add a `value` attribute with a value of "Send". 
+     
+     2. Add a `value` attribute with a value of "Send". 
     
     {% hint style='tip' %}Type `input.btn.btn-default` and then press the`tab` key to add both classes to the input element at the same time{% endhint %}
     
