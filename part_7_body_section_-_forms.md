@@ -63,6 +63,8 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
 
     6. Leave the `cols` and `rows` attributes at the default values provided.
     
+    7. Add a `placeholder` attribute with a value of **"Message Text"**.
+    
     {% hint style='info' %}Why are we using a textarea element instead of an input element here?
     
     Look at the MDN documentation for input linked at the bottom of the page. Scroll down to the `type` attribute and look at the explanation for the value `text`.  This shows it only allows a single line of text to be entered when the input elements `type` attribute is set to "text".  Since a message is usually multiple lines, a `textarea` element is a better choice for the message.{% endhint %}
