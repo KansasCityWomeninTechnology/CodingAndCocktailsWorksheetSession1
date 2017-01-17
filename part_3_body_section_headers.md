@@ -12,7 +12,11 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     {% hint style='tip' %}
     An `id` attribute can be added by typing a `#` and then the name of the id you'd like to set.
     {% endhint %}
-    
+
+    {% hint style='info' %}
+    Want to know the difference between an id and a class?  Check out http://bit.ly/CnCIDvsClass
+    {% endhint %}
+            
     Your body section should now look like this: 
     
     ![](/assets/firstTag.png)
@@ -46,7 +50,7 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     
     {% hint style='tip' %}If you place your cursor on any HTML element, Atom will underline the matching opening or closing tag for you. {% endhint %}
     
-    3. Inside that about `div, we'll title the section.  Since this is the third most important heading on the page we'll use an `h3` tag. Place the text "About" between the tags.
+    3. Inside that about `div`, we'll title the section.  Since this is the third most important heading on the page we'll use an `h3` tag. Place the text "About" between the tags.
     
 6. Repeat this process twice more for the Menu and Contact sections.
 
