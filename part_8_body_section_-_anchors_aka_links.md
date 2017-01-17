@@ -1,6 +1,6 @@
 # Part 11: Anchors (aka Links)
 
-The navigation items should take the user to the page sections they reference. In order to do that, anchor elements need to be added to create a hyper link to those sections of the page.
+The navigation items should take the user to the page sections they reference. In order to do that, anchor elements need to be added to create a hyperlink to those sections of the page.
 
 1. In Atom, select the **"About"** text in the first list item and use the keyboard shortcut below to wrap a tag around other content. 
 |Windows Key Combination|Mac Key Combination|
