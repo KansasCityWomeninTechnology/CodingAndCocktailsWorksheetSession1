@@ -97,8 +97,8 @@ If you'd like to try putting your site up on the internet ask a mentor to help y
 
 ###Documentation
 
-[Mozilla Develper Network form element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+[Mozilla Developer Network form element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
-[Mozilla Develper Network input element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+[Mozilla Developer Network input element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 
-[Mozilla Develper Network textarea element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
+[Mozilla Developer Network textarea element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
