@@ -7,6 +7,7 @@ The navigation items should take the user to the page sections they reference. I
     |Windows Key Combination|Mac Key Combination|
 |---|---|
 |`ctrl` + `alt` + `w`|`ctrl` + `w`|
+
 2. Type just an `a` in the prompt that comes up and press enter. An anchor tag with an `href` attribute will show up wrapped around your **"About"** text. The **"About"** text should now look like this: 
 
     ![](/assets/aboutNav.png)
