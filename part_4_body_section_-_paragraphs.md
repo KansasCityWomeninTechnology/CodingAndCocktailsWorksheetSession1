@@ -19,4 +19,4 @@ Most websites have some text on the page. Let's add some to ours!
 
 ###Documentation
 
-[Mozilla Develper Network paragraph element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
+[Mozilla Developer Network paragraph element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
