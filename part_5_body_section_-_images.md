@@ -21,7 +21,7 @@ Add an image to your about section to bring some interest to your page.
 
 ###Documentation
 
-[Mozilla Develper Network image element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+[Mozilla Developer Network image element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 
 
 
