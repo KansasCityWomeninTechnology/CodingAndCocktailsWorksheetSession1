@@ -4,7 +4,7 @@ Most websites have some text on the page. Let's add some to ours!
 1. In Atom, after the first `h3` tag, add a paragraph tag (Hint: That's just a `p` tag!) Don't forget to use emmet so you don't have to write out all the `<`, `>` and `/`.
 
 2. You can either write your own text or try using lorem ipsum text. 
-{% hint style='info' %}Lorem ipsum text is often used as dummy text in the printing industry to show what the page layout will look like when you may not know what your content is yet.{% endhint %}
+{% hint style='info' %}Lorem ipsum text is often used as dummy text in the printing industry to show what the page layout will look like when you may not know what your content is yet. The lorem ipsum text is based on a work that dates back to 45 BC!{% endhint %}
 
     * To add your own text just type it in between your `p` tags.
 
