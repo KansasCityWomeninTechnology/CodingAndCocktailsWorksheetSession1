@@ -13,8 +13,8 @@ Navigation items display on the page but don't yet navigate anywhere - add that 
 
 ###Documentation
 
-[Mozilla Develper Network unordered list element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+[Mozilla Developer Network unordered list element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
-[Mozilla Develper Network list item element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
+[Mozilla Developer Network list item element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
 
-[Mozilla Develper Network ordered list element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+[Mozilla Developer Network ordered list element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
