@@ -2,9 +2,9 @@
 
 The navigation items should take the user to the page sections they reference. In order to do that, anchor elements need to be added to create a hyperlink to those sections of the page.
 
-1. In Atom, select the **"About"** text in the first list item and use the keyboard shortcut below to wrap a tag around other content. 
+1. In Atom, select the **"About"** text in the first list item and use the keyboard shortcut below to wrap a tag around other content.
 
-    |Windows Key Combination|Mac Key Combination|
+|Windows Key Combination|Mac Key Combination|
 |---|---|
 |`ctrl` + `alt` + `w`|`ctrl` + `w`|
 2. Type just an `a` in the prompt that comes up and press enter. An anchor tag with an `href` attribute will show up wrapped around your **"About"** text. The **"About"** text should now look like this: 
