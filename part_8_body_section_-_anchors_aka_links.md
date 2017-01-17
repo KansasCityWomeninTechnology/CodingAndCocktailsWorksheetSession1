@@ -21,7 +21,7 @@ We now have a working navigation section!
 
 ###Documentation
 
-[Mozilla Develper Network anchor element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+[Mozilla Developer Network anchor element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
 
 
