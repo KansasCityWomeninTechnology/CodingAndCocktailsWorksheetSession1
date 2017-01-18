@@ -23,4 +23,4 @@ Add some content to the menu section using an HTML table.
 
 ###Documentation
 
-[Mozilla Develper Network table element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+[Mozilla Developer Network table element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)

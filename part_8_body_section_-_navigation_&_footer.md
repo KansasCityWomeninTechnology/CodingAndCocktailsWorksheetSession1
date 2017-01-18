@@ -25,9 +25,9 @@ Most websites have a way to navigate around.  HTML 5 added `nav` and `footer` el
 
 ###Documentation
 
-[Mozilla Develper Network nav element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+[Mozilla Developer Network nav element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
 
-[Mozilla Develper Network footer element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+[Mozilla Developer Network footer element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
 
 
 

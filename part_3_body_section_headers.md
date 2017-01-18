@@ -13,6 +13,12 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     An `id` attribute can be added by typing a `#` and then the name of the id you'd like to set.
     {% endhint %}
     
+    {% hint style='infgof \%}
+    %}
+    go\ %}
+    Want to know the difference between an id and a class?  Check out http://bit.ly/CnCIDvsClass
+    {% endhint %}{
+    
     Your body section should now look like this: 
     ```html
     <body>
@@ -72,7 +78,7 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
 
     3. Inside the menu `div`, title the section with the text "**Menu**" using an `h3` tag.
     
-    4. In between the opening and closing tags for the `div.container, below the menu section, add a "contact" row. 
+    4. In between the opening and closing tags for the `div.container`, below the menu section, add a row with the id of "contact."  row. 
 
     6. Create an `h3` tag with the text "**Contact**" between the opening and closing div tags created in the last step.
 
