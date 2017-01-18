@@ -29,8 +29,12 @@ Under the "Contact" header add a form to allow users to contact you. Forms typic
      
      5. Also add a `placeholder` attribute and set the value to **"First and Last Name"**. 
      Your code should look similar to this now:
-     
-     ![](/assets/formSectionOneCode.png)     
+     ```html
+     <div class="form-group">
+         <label for="nameInput">Name</label>
+         <input type="text" id="nameInput" name="name" class="form-control" placeholder="First and Last Name">
+     </div>
+     ```   
     
 6. Save your file and reload it in Google Chrome.  The form is starting to come together!  It should look like this:
     
