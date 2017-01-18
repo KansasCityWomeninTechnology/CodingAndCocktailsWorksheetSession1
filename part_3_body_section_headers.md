@@ -14,13 +14,21 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     {% endhint %}
     
     Your body section should now look like this: 
-    
-    ![](/assets/firstTag.png)
+    ```html
+    <body>
+            <div class="container"></div>
+    </body>
+    ```
 
     2. Nested inside the `div.container` create another `div` element with the class `row`. Type `div.row` and press the `tab` key. _Don't forget to indent so your code is easy to read!_
     Your body section should now look like this: 
-    
-    ![](/assets/secondTag.png)
+    ```html
+    <body>
+            <div class="container">
+                <div class="row"></div>
+            </div>
+    </body>
+    ```
     
     {% hint style='info' %}
     Classes are often used to apply styling to elements - we will learn about styling next month. We'll see this in action later in the worksheet.  For now, don't worry too much about what the classes mean - we're focusing on the HTML this month.
@@ -36,27 +44,37 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
                         
 4. After the closing `h1` tag, add an `h2` tag for a subtitle containing the text "Cocktails with a side of code." 
     It should look something like this: 
-    
-    ![](/assets/thirdCheckpoint.png)
+    ```html
+    <body>
+        <div class="container">
+            <div class="row">
+                <h1>Coding's Cocktail Lounge</h1>
+                <h2>Cocktails with a side of code</h2>
+            </div>
+        </div>
+    </body>
+    ```
 
 5. Next, we'll want an "About" section, a "Menu" section, and a "Contact" section using more `div` tags. We'll need to add `id` attributes to these `divs` for navigation later in the worksheet.
     
     1. Inside the `div.container` element but below closing `</div>` tag for the first `div.row` element, type `div.row#about` and press the `tab` key.  This will be the area for our "About" section. The element you created should look like this:
-    ![](/assets/div.png)
+    ```html
+    <div class="row" id="about"></div>
+    ```
     
     {% hint style='tip' %}If you place your cursor on any HTML element, Atom will underline the matching opening or closing tag for you. {% endhint %}
     
-    3. Inside that about `div, we'll title the section.  Since this is the third most important heading on the page we'll use an `h3` tag. Place the text "About" between the tags.
+    3. Inside that about `div`, we'll title the section.  Since this is the third most important heading on the page we'll use an `h3` tag. Place the text "**About**" between the tags.
     
 6. Repeat this process twice more for the Menu and Contact sections.
 
-    1. In between the opening and closing tags for the `div.container` element but below the closing `</div>` tag for the about section, type `div.row#menu` and press the `tab` key. This will be the area for our "Menu" section.
+    1. In between the opening and closing tags for the `div.container` element but below the closing `</div>` tag for the about section, type `div.row#menu` and press the `tab` key. This will be the area for our "**Menu**" section.
 
-    3. Inside the menu `div`, title the section with the text "Menu" using an `h3` tag.
+    3. Inside the menu `div`, title the section with the text "**Menu**" using an `h3` tag.
     
     4. In between the opening and closing tags for the `div.container, below the menu section, add a "contact" row. 
 
-    6. Create an `h3` tag with the text "Contact" between the opening and closing div tags created in the last step.
+    6. Create an `h3` tag with the text "**Contact**" between the opening and closing div tags created in the last step.
 
 7. Save your file and reload it in Google Chrome. Your page should look similar to this:
 ![](/assets/headersSectionsEnd.png)
