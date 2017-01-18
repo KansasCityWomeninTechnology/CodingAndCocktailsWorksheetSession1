@@ -8,8 +8,9 @@ The navigation items should take the user to the page sections they reference. I
 |---|---|
 |`ctrl` + `alt` + `w`|`ctrl` + `w`|
 2. Type just an `a` in the prompt that comes up and press enter. An anchor tag with an `href` attribute will show up wrapped around your **"About"** text. The **"About"** text should now look like this: 
-
-    ![](/assets/aboutNav.png)
+    ```html
+    <li><a href="">About</a></li>
+    ```
 
 3. The href attribute tells the anchor where to go when it is clicked.  Clicking **"About"** should move to the **"About"** section of the page.  The about section is the `div` element with the id `about`.  Set the anchor tag's `href` value to **"#about"**.
 
