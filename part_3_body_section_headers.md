@@ -39,6 +39,12 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     {% endhint %}
     
     4. Save the page, switch over to Google Chrome and reload.  Even though we've started adding content to the `body` section there is still nothing to see.
+    
+    {% hint style='tip' %}
+    If the file has not been saved you'll notice a small blue dot on the right side of the file's tab.  That goes away when the file has been saved.  The active tab has a blue line to the left so in the image below index.html is the selected tab and changes have not been saved.
+    {% endhint %}
+
+    ![](/assets/atom.png)
 
 2. Create an `h1` tag inside the last `div` element. Type `h1` then press the `tab` key. Write the name of your cocktail lounge between the opening and closing tags.
 
