@@ -6,7 +6,7 @@ Most websites have a way to navigate around.  HTML 5 added `nav` and `footer` el
     
     1. Above the first `div.row` (now displayed in your code as a div element with the row class - `<div class="row"></div>`) add a new `div.row`.
     
-    ![](/assets/navLocation.png)
+    ![](/assets/navInsert.png)
     
     3. In between the opening and closing `div` tags just created, add a `nav` element with the classes **navbar** and **navbar-default** inside the div from step ii.
     
