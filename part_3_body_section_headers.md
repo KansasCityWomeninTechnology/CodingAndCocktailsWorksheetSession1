@@ -13,11 +13,9 @@ The body section of your HTML contains the visible part of your webpage.  Let's 
     An `id` attribute can be added by typing a `#` and then the name of the id you'd like to set.
     {% endhint %}
     
-    {% hint style='infgof \%}
-    %}
-    go\ %}
+    {% hint style='info' %}
     Want to know the difference between an id and a class?  Check out http://bit.ly/CnCIDvsClass
-    {% endhint %}{
+    {% endhint %}
     
     Your body section should now look like this: 
     ```html
