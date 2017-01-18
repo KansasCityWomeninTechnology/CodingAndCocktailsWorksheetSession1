@@ -15,6 +15,7 @@
 * [Bonus: Styling](bonus-styling.md)
 * [HTML Cheat Sheet](html-cheat-sheet.md)
 * [Answer Key](answer-key.md)
-* [Homework: Troubleshooting](troubleshooting.md)
-* [Homework: Bonus](homework-bonus.md)
+* [Homework](homework.md)
+    * [Troubleshooting](troubleshooting.md)
+    * [Bonus](homework-bonus.md)
 

@@ -2,7 +2,7 @@
 
 ###Troubleshooting Exercises
 
-In order to continue building our coding skills, we need to practice - just like when playing sports or learning a musical instrument. Try some troubleshooting so you can feel more confident coding on your own!
+Try some troubleshooting so you can feel more confident coding on your own!
 
 1.  Open a new file in Atom and save it in your `CodingAndCocktials/html` folder as *troubleshooting.html*
 
