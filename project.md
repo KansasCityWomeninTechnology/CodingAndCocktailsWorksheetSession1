@@ -2,7 +2,9 @@
 
 HTML provides your website with the underlying structure.  We'll start with a basic HTML structure and continue with adding page content.
 
-If you are using Cloud 9 please skip to the Cloud 9 section below!
+{% hint style='danger' %}
+If you are borrowing a laptop from us and using Cloud 9, please skip to the Cloud 9 section below!
+{% endhint %}
 
 ## Part 1: HTML Page Structure
 We'll explore using the Emmet plugin in the Atom text editor that we use as our development environment.  This plugin helps us write our code faster and more efficiently.
@@ -68,7 +70,7 @@ See how the `meta` and `title` tags are indented since they are children of the 
     This opens up a "browser" window that will show changes you make to your web page as you add content.  
     
 {% hint style='danger' %}
-**IMPORTANT! ANY TIME THE WORKSHEET REFERENCES GOOGLE CHROME YOU WILL INSTEAD JUST BE LOOKING IN THIS LIVE PREVIEW BROWSER WINDOW**
+IMPORTANT! Any time the worksheet references viewing in Google Chrome or refreshing the page in Google Chrome you will use this Preview area instead.
 {% endhint %}
 
 14. Continue with step 7 above. Luckily Cloud 9 also lets us use the magic of emmet.
