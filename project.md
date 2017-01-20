@@ -2,6 +2,8 @@
 
 HTML provides your website with the underlying structure.  We'll start with a basic HTML structure and continue with adding page content.
 
+If you are using Cloud 9 please skip to the Cloud 9 section below!
+
 ## Part 1: HTML Page Structure
 We'll explore using the Emmet plugin in the Atom text editor that we use as our development environment.  This plugin helps us write our code faster and more efficiently.
 
@@ -31,3 +33,48 @@ We'll explore using the Emmet plugin in the Atom text editor that we use as our 
 See how the `meta` and `title` tags are indented since they are children of the `head` tag?
 {% hint style='danger' %}Setting up the HTML structure with emmet this way only works when the file you're developing in is already saved with the .html file extension. {% endhint %}
 6. Cheers! You just set up the structural foundation of a web page!
+
+<!--sec data-title="Cloud9" data-id="section0" data-show=true data-collapse=true ces-->
+
+1. Sign up for an account at [c9.io](https://c9.io)
+   Note: It will ask you for credit card information but you will not get charged for anything since we do not use features of Cloud 9 that cost money.
+
+2. Confirm your account from your email and log in to Cloud 9
+
+3. Select `Workspaces` from the left side panel if you are not already there.
+
+4. Choose "Create a new workspace"
+
+5. Pick a name for your workspace and enter it - it can be anything you'd like.  You do not need a description.
+
+6. Leave your workspace as a "Public workspace"
+
+7. In the template section choose "HTML5"
+
+8. Click on the "Create Workspace" button
+
+   Cloud 9 will take a minute and create your workspace here
+   
+9. Close the README.md file that is open when you get to your workspace.
+
+10. From the `File` menu choose "New File"
+
+11. From the `File` menu choose "Save As..." and use the name _index.html_.  It should default to the workspace folder and display `/` in the `Folder` text box at the bottom, leave that as-is.
+
+12.  Click the green "Save" button
+
+13. In the top menu bar choose `Preview` and then select `Live Preview File (index.html)`
+
+    This opens up a "browser" window that will show changes you make to your web page as you add content.  
+    
+{% hint style='danger' %}
+**IMPORTANT! ANY TIME THE WORKSHEET REFERENCES GOOGLE CHROME YOU WILL INSTEAD JUST BE LOOKING IN THIS LIVE PREVIEW BROWSER WINDOW**
+{% endhint %}
+
+14. Continue with step 7 above. Luckily Cloud 9 also lets us use the magic of emmet.
+
+{% hint style='danger' %}
+Cloud 9's initial page structure will be missing two of the above mentioned meta tags.  This is okay - you can ignore it and continue on with the worksheet.
+{% endhint %}
+<!--endsec-->
+
