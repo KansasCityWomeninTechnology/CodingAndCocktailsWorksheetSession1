@@ -48,7 +48,7 @@ See how the `meta` and `title` tags are indented since they are children of the 
 
 4. Choose `Create a new workspace`.
 
-5. Pick a name for your workspace and enter it - it can be anything you'd like.  You do not need a description.
+5. Pick a name for your workspace and enter it - it can be anything you'd like.  You do not need a description but feel free to add one if you'd like.
 
 6. Leave your workspace as a "Public workspace".
 
