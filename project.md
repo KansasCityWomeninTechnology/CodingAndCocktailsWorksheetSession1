@@ -54,13 +54,13 @@ See how the `meta` and `title` tags are indented since they are children of the 
 
 7. In the template section choose `HTML5`
 
-8. Click on the `Create Workspace` button`
+8. Click on the `Create Workspace` button
 
-   Cloud9 will take a minute and create your workspace here`
+   Cloud9 will take a minute and create your workspace here
    
 9. Close the README.md file that is open when you get to your workspace.
 
-10. From the `File` menu choose `New File``
+10. From the `File` menu choose `New File`
 
 11. From the `File` menu choose `Save As...` and use the file name _index.html_.  It should default to the workspace folder and display `/` in the `Folder` text box at the bottom, leave that as-is.
 
