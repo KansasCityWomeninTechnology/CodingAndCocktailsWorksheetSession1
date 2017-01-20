@@ -36,13 +36,13 @@ See how the `meta` and `title` tags are indented since they are children of the 
 {% hint style='danger' %}Setting up the HTML structure with emmet this way only works when the file you're developing in is already saved with the .html file extension. {% endhint %}
 6. Cheers! You just set up the structural foundation of a web page!
 
-<!--sec data-title="Cloud9" data-id="section0" data-show=true data-collapse=true ces-->
+<!--sec data-title="Cloud9 Instructions" data-id="section0" data-show=true data-collapse=true ces-->
 
 1. Sign up for an account at [c9.io](https://c9.io)
    
-   Note: It will ask you for credit card information but you will not get charged for anything since we do not use features of Cloud 9 that cost money.
+   Note: It will ask you for credit card information but you will not get charged for anything since we do not use features of Cloud9 that cost money.
 
-2. Confirm your account from your email and log in to Cloud 9.
+2. Confirm your account from your email and log in to Cloud9.
 
 3. Select `Workspaces` from the left side panel if you are not already there.
 
@@ -56,7 +56,7 @@ See how the `meta` and `title` tags are indented since they are children of the 
 
 8. Click on the `Create Workspace` button`
 
-   Cloud 9 will take a minute and create your workspace here`
+   Cloud9 will take a minute and create your workspace here`
    
 9. Close the README.md file that is open when you get to your workspace.
 
@@ -74,10 +74,10 @@ See how the `meta` and `title` tags are indented since they are children of the 
     IMPORTANT! Any time the worksheet references viewing in Google     Chrome or refreshing the page in Google Chrome you will use this Preview area instead.
     {% endhint %}
 
-14. Continue with step 7 above. Luckily Cloud 9 also lets us use the magic of emmet.
+14. Continue with step 8 above. Luckily Cloud9 also lets us use the magic of emmet.
 
     {% hint style='danger' %}
-    Cloud 9's initial page structure will be missing two of the above mentioned meta tags.  This is okay - you can ignore it and continue on with the worksheet.
+    Cloud9's initial page structure will be missing two of the above mentioned meta tags.  This is okay - you can ignore it and continue on with the worksheet.
     {% endhint %}
 <!--endsec-->
 
