@@ -3,7 +3,7 @@
 HTML provides your website with the underlying structure.  We'll start with a basic HTML structure and continue with adding page content.
 
 {% hint style='danger' %}
-If you are borrowing a laptop from us and using Cloud 9, please skip to the Cloud 9 section below!
+If you are using a Chromebook, please skip to the Chromebook Only section below!
 {% endhint %}
 
 ## Part 1: HTML Page Structure
@@ -36,7 +36,7 @@ See how the `meta` and `title` tags are indented since they are children of the 
 {% hint style='danger' %}Setting up the HTML structure with emmet this way only works when the file you're developing in is already saved with the .html file extension. {% endhint %}
 6. Cheers! You just set up the structural foundation of a web page!
 
-<!--sec data-title="Cloud9 Instructions" data-id="section0" data-show=true data-collapse=true ces-->
+<!--sec data-title="Chromebooks Only: Cloud9 Instructions" data-id="section0" data-show=true data-collapse=true ces-->
 
 1. Sign up for an account at [c9.io](https://c9.io)
    
