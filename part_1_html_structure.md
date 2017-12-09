@@ -2,8 +2,7 @@
 
 HTML provides your website with the underlying structure.  We'll start with a basic HTML structure and continue with adding page content.
 
-{% hint style='danger' %}
-If you are using a Chromebook, please skip to the Chromebook Only section below!
+{% hint style='danger' %}If you are using a Chromebook, please skip to the Chromebook Only section below!
 {% endhint %}
 
 ## Part 1: HTML Page Structure
@@ -11,12 +10,12 @@ We'll explore using the Emmet plugin in the Atom text editor that we use as our 
 
 1. In the CodingAndCocktails folder you created during the tools setup create a folder called `html`.
 2. Open Atom.
-3. Go to the `File` menu and choose `Add project folder`.
+3. Navigate to the **File** menu and select **Add project folder**.
 4. Navigate to and select the `CodingAndCocktails\html` folder.
-3. On the left side of your screen, right click on the `html` folder and select `New file`.
+3. On the left side of your screen, right click on the `html` folder and select **New file**.
 5. Name the file _index.html_ and press enter to save it in your `CodingAndCocktails\html` folder.
 6. In the project pane on the left, double click on the _index.html_ file to open it.
-7. In your _index.html_ file type `html:5` and press the `tab` button on your keyboard.  This is some of the magic emmet can help us with and should come out looking like the following: 
+7. In your _index.html_ file type `html:5` and press the `tab` button on your keyboard.  This is some of the magic Emmet can help us with and should come out looking like the following: 
 
   ```html
   <!DOCTYPE html>
@@ -32,8 +31,8 @@ We'll explore using the Emmet plugin in the Atom text editor that we use as our 
   </body>
   </html>
   ```
-See how the `meta` and `title` tags are indented since they are children of the `head` tag?
-{% hint style='danger' %}Setting up the HTML structure with emmet this way only works when the file you're developing in is already saved with the .html file extension. {% endhint %}
+See how the `<meta>` and `<title>` tags are indented since they are children of the `<head>` tag?
+{% hint style='danger' %}Setting up the HTML structure with Emmet this way only works when the file you're developing in is already saved with the .html file extension. {% endhint %}
 6. Cheers! You just set up the structural foundation of a web page!
 
 <!--sec data-title="Chromebooks Only: Cloud9 Instructions" data-id="section0" data-show=true data-collapse=true ces-->
@@ -71,10 +70,10 @@ See how the `meta` and `title` tags are indented since they are children of the 
     This opens up a "browser" window that will show changes you make to your web page as you add content.  
     
     {% hint style='danger' %}
-    IMPORTANT! Any time the worksheet references viewing in Google     Chrome or refreshing the page in Google Chrome you will use this Preview area instead.
+    IMPORTANT! Any time the worksheet references viewing in Google Chrome or refreshing the page in Google Chrome you will use this Preview area instead.
     {% endhint %}
 
-14. Continue with step 8 above. Luckily Cloud9 also lets us use the magic of emmet.
+14. Continue with step 8 above. Luckily Cloud9 also lets us use the magic of Emmet.
 
     {% hint style='danger' %}
     Cloud9's initial page structure will be missing two of the above mentioned meta tags.  This is okay - you can ignore it and continue on with the worksheet.

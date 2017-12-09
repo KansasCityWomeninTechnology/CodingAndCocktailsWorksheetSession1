@@ -1,6 +1,6 @@
 # Troubleshooting
 
-###Troubleshooting Exercises
+### Troubleshooting Exercises
 
 Try some troubleshooting so you can feel more confident coding on your own!
 
@@ -83,9 +83,9 @@ Try some troubleshooting so you can feel more confident coding on your own!
 
 12. Update the HTML headers keeping an eye to our HTML best practices.
 
-13. The `img` tag is missing an important attribute. Update the image tag to have this attribute.
+13. The `<img>` tag is missing an important attribute. Update the image tag to have this attribute.
 
-###View Pages and Answer Key
+### View Pages and Answer Key
 
 **View Starting Point:** [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/exercise1.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/exercise1.html)
 

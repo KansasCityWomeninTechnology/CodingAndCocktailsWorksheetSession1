@@ -11,4 +11,4 @@
     
 We utilized a styling framework called [Bootstrap](http://getbootstrap.com/) to help us do some quick styling today and tied it to our html with the `link` tag in our head section.  
 
-### [**Click here to sign up for next month if you want to learn more about styling and how it works!**](https://www.eventbrite.com/e/coding-cocktails-february-tickets-30480758770?aff=ws)
+### [**Click here to sign up for next month if you want to learn more about styling and how it works!**](https://www.eventbrite.com/e/coding-cocktails-introduction-to-css-tickets-39470123201?aff=es2)

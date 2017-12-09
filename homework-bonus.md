@@ -1,4 +1,4 @@
-#Homework: Bonus
+# Homework: Bonus
 
 This exercise only requires one addition.  Can you figure out what it is? 
 
@@ -22,7 +22,7 @@ This exercise only requires one addition.  Can you figure out what it is?
 
 3. Take a close look at the page structure and see if you can figure out what is missing.
 
-###View Pages and Answer Key
+### View Pages and Answer Key
 
 **View Starting Point:** [**http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html**](http://kansascitywomenintechnology.github.io/examples/html-troubleshooting/bonus.html)
 

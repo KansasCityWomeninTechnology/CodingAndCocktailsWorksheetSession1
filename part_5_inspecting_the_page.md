@@ -1,9 +1,9 @@
-#Part 5: Inspecting the Page
+# Part 5: Inspecting the Page
 You'll often find yourself needing to look at how your page is being rendered in the browser to troubleshoot issues so let's give that a try.
 
-1. In Google Chrome, right-click on your `h2` text and choose **Inspect**
+1. In Google Chrome, right-click on your `<h2>` element and choose **Inspect**
 
-    This will open up your Chrome Developer Tools to the **elements** tab
+    This will open up your Chrome Developer Tools (Dev Tools) to the **Elements** tab
     
 2. Notice you can see all of your tags that you've added to the page and how they are nested inside each other. It should look something like this:
 ![](/assets/devTools.png)
@@ -11,13 +11,13 @@ You'll often find yourself needing to look at how your page is being rendered in
 3. Notice as you mouse over elements in the Dev Tools that they are highlighted in the rendered view above.
 ![](/assets/highlight.png)
 
-4. You can also click the arrows to the left of your `div` elements to expand them and see the elements inside them.
+4. You can also click the arrows to the left of your `<div>` elements to expand them and see the elements inside them.
 
 5. In addition, you can make and preview changes here before making them in your code.
-    * In the **elements** section of the Dev Tools, double click on the text inside your `h2` tag. This should make it editable. Change it to "Hello World" and then press `enter` 
+    * In the **Elements** section of the Dev Tools, double click on the text inside your `<h2>` tag. This should make it editable. Change it to "Hello World" and then press `enter` 
 ![](/assets/helloWorld1.png)
 
-    * Your `h2` text should now display "Hello World" on your rendered page.
+    * Your `<h2>` text should now display "Hello World" on your rendered page.
     ![](/assets/helloWorld2.png)
     
     {% hint style='danger' %}This only lasts until you refresh the page! If you want to make a lasting change you need to make the change to your code. {% endhint %}
