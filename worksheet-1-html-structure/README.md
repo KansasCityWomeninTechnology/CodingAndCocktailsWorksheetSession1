@@ -7,10 +7,8 @@ HTML provides your website with the underlying structure.  We'll start with a ba
 
 This section will help guide you through the following steps:
 
-1. Create our first HTML file
-1. Add structural content of a web page
-1. Explore the `<head>` section and change the title of the web page
-1. Learn how to view our progress tonight 
+{% include "./navigation.html" %}
+
 
 ## Create the HTML file {#file}
 {% include "./html-file.md" %}
@@ -21,16 +19,14 @@ This section will help guide you through the following steps:
 ## HEAD section {#head}
 {% include "./head-section.md" %}
 
-## View our web page {#view}
+## View your web page {#view}
 {% include "./using-chrome.md" %}
 
 
 The remainder of our work tonight will be done inside the `<body></body>` tags.  This is where any page content you can see goes.
 
-
 ## References and helpful links
 [Mozilla Developer Network Head element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
-
 
 
 <!--sec data-title="Chromebooks Only: Cloud9 Instructions" data-id="section0" data-show=true data-collapse=true ces-->

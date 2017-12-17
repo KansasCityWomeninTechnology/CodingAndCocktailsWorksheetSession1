@@ -1,7 +1,7 @@
 ![](/logo.png)
 
 # Coding & Cocktails Session 1:
-## Introduction to HTML                                                                     
+# Introduction to HTML                                                                     
 ---                                                                                  
 
 ### Overview

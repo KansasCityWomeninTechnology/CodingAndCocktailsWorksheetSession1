@@ -3,13 +3,7 @@
 They say a picture is worth 1000 words. And you can't have a cocktail website without knowing who your customers are. Let's add some visual appeal by using images and provide a way for our fans to contact us.
 
 This section will help guide you through the following steps:
-1. Find and download an enticing cocktail image
-1. Add your image to the web page
-1. Create the form element with four form groups
-1. Add a form input for a text element
-1. Add a form input for email elements
-1. Add a form input for a textarea element
-1. Add a submit button to the form
+{% include "./navigation.html" %}
 
 ## Download image {#download-image}
 Let's find and prepare a cocktail image that appeals to you.

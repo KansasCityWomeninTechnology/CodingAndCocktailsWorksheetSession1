@@ -3,11 +3,7 @@
 Our web page is really coming together. But web pages have navigation and ways to link to other sections of the page. HTML 5 added `<nav>` and `<footer>` elements to the mix so let's practice using those. Let's work on this!
 
 This section will help guide you through the following steps:
-1. Create a navigation section for your web page
-1. Create a footer for your web page
-1. Add a list for navigation sections
-1. Create links for each section of your web page
-
+{% include "./navigation.html" %}
 
 ## Create a navigation section {#nav-section}
 We'll now create a navigation row section and add a navbar.

@@ -3,15 +3,11 @@
 The body section of your HTML contains the visible part of your webpage. Let's start building out some content!
 
 This section will help guide you through the following steps:
-1. Use Emmet to create sections
-1. Add headers to our web page
-1. Create "About", "Menu", and "Contact" sections
-1. Populate your web page with dummy text
-1. Learn how to inspect and modify HTML elements using Chrome
+{% include "./navigation.html" %}
 
-## Create sections {#sections}
+## Create containers {#containers}
 We'll create sections within our page with `<div>` tags. We'll use the magic of Emmet to auto-complete HTML elements for us. This plugin helps us write our code faster and more efficiently. To use Emmet you type in keywords and press `tab`.
-{% include "./sections.md" %}
+{% include "./containers.md" %}
 
 ## Add headers {#headers}
 Let's start adding some visual elements to our web page.
