@@ -3,7 +3,8 @@
         "custom-favicon",
         "hints",
         "sectionx",
-        "simpletabs"
+        "codeblock-label",
+        "anchors"
     ],
     "pluginsConfig": {
         "favicon": "assets/favicon.ico",
