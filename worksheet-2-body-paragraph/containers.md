@@ -1,10 +1,10 @@
-1. In Atom, between the opening and closing `<body></body>` tags, type `div.container` and press the `tab` key.  This will create a `<div>` element with a `class` attribute with the value of "container" and will be the main container element for our page.
-    
-   {% hint style='tip' %}Anytime you want to add a `class` attribute to an element while you're using Emmet, you can do so by adding a period and then the classname.{% endhint %}
+1. In Atom, between the opening and closing `<body></body>` tags, type 
 
-   {% hint style='tip' %}An `id` attribute can be added by typing a `#` and then the name of the id you'd like to set.{% endhint %}
+   `<div class="container"></div>`.
+   
+   This will create a `<div>` element with a `class` attribute with the value of "container" and will be the main container element for our page.
     
-   {% hint style='info' %}Want to know the difference between an `id` and a `class`?  Check out <a href="http://bit.ly/CnCIDvsClass">http://bit.ly/CnCIDvsClass</a>{% endhint %}
+   {% hint style='info' %}Elements can have `class` and `id` attributes. Want to know the difference between an `id` and a `class`?  Check out <a href="http://bit.ly/CnCIDvsClass">http://bit.ly/CnCIDvsClass</a>{% endhint %}
     
    Your body section should now look like this: 
    {% filename %}index.html{% endfilename %}
@@ -14,7 +14,7 @@
    </body>
    ```
 
-1. Create another `<div>` element with the class `row` nested inside the `div.container` we just created. Type `div.row` and press the `tab` key. 
+1. Create another `<div>` element with the class `row` nested inside the `div` with `class="container"` we just created. This time we'll use Emmet. Type `div.row` and press `tab`. 
 
    _Don't forget to indent so your code is easy to read!_
    Your body section should now look like this: 

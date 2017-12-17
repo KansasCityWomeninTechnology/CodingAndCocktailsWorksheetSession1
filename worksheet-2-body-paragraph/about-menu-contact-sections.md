@@ -1,4 +1,4 @@
-1. Inside the `div.container` element but below closing `</div>` tag for the first `div.row` element, type `div.row#about` and press the `tab` key. This will be the area for our "About" section. 
+1. Inside the `div` with `class="container"` element but below closing `</div>` tag for the first `div.row` element that we created with Emmet, type `div.row#about` and press the `tab` key to have Emmet create a `<div>` with both `class` and `id` attributes. This will be the area for our "About" section. 
    
    The element you created should look like this:
     `<div class="row" id="about"></div>`
@@ -9,13 +9,13 @@
     
 1. Repeat this process twice more for the Menu and Contact sections.
 
-    1. In between the opening and closing tags for the `div.container` element but below the closing `</div>` tag for the "**About**" section, type `div.row#menu` and press the `tab` key. This will be the area for our "**Menu**" section.
+    1. In between the opening and closing tags for the `div` with `class="container"` element but below the closing `</div>` tag for the "**About**" section, type `div.row#menu` and press the `tab` key. This will be the area for our "**Menu**" section.
 
     1. Inside the menu `<div>`, title the section with the text "**Menu**" using an `<h3>` tag.
     
-    1. In between the opening and closing tags for the `div.container`, below the menu section, repeat step i but this time using the id "contact". 
+    1. In between the opening and closing tags for the `div` with `class="container"`, below the menu section, repeat step i but this time using the id "contact". 
 
-    1. Create an `<h3>` tag with the text "**Contact**" between the opening and closing div tags created in the last step.
+    1. Create an `<h3>` tag with the text "**Contact**" between the opening and closing `<div>` created in the last step.
 
 1. Save your file and reload it in Google Chrome. Your page should look similar to this:
 ![](images/headersSectionsEnd.png)

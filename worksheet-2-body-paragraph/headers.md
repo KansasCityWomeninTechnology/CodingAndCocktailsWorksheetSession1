@@ -1,4 +1,5 @@
-1. Create an `<h1>` tag inside the last `<div>` element. Type `h1` then press the `tab` key. Write the name of your cocktail lounge between the opening and closing tags.
+1. Create an `<h1>` tag inside the last `<div>` element by typing
+`<h1></h1>`. Write the name of your cocktail lounge between the opening and closing tags.
 
 1. Save your file and reload it in Google Chrome. **We have content!**
 
