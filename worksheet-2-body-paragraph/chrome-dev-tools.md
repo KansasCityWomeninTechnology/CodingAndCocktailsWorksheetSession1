@@ -1,6 +1,6 @@
-1. In Google Chrome, right-click on your `<h2>` element and select **Inspect**
+1. In Google Chrome, right-click on your `<h2>` element and select **Inspect**.
 
-    This will open up your Chrome Developer Tools (Dev Tools) to the **Elements** tab
+    This will open up your Chrome Developer Tools (Dev Tools) to the **Elements** tab.
     
 2. Notice you can see all of your tags that you've added to the page and how they are nested inside each other. It should look something like this:
 ![](images/devTools.png)
@@ -21,7 +21,7 @@ In addition viewing elements, you can make and preview changes here before makin
 
 1. Refresh your page to see your text return to what you have in your code.
     
-You can either keep your Dev Tools open or close them with the small x in the upper right corner of the Dev Tools
+You can either keep your Dev Tools open or close them with the small x in the upper right corner of the Dev Tools.
 
 Another quick way to open the tools at any time is through a keyboard short cut:
     
