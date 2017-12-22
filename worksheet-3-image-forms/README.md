@@ -43,3 +43,10 @@ Lastly, we need submit the form.
 [Mozilla Developer Network input element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 
 [Mozilla Developer Network textarea element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
+
+
+If you want to read up on Accessibility (a11y), check out the following links:
+
+[Web Accessibility Initiative](https://www.w3.org/WAI/intro/wcag)
+
+[The A11Y Project](https://a11yproject.com/about)

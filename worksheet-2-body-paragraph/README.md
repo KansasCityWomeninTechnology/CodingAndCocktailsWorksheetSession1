@@ -27,7 +27,7 @@ You'll often find yourself needing to look at how your page is being rendered in
 
 ## References and helpful links
 
-If you want to read up on `<header>`, `<div>`, or `<p>` elements check out the documentation from Mozilla Developer Network:
+If you want to read up on `<header>`, `<div>`, or `<p>` elements, check out the documentation from Mozilla Developer Network:
 
 [MDN Documentation on heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 

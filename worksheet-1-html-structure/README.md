@@ -2,7 +2,7 @@
 
 HTML provides your website with the underlying structure.  We'll start with a basic HTML structure and explore using Atom IDE that we use as our development environment. 
 
-{% hint style='danger' %}If you are using a Chromebook, please skip to the <a href="https://www.gitbook.com/book/codingandcocktailskc/session-1-html/worksheet-1-html-structure/#chromebooks-only-cloud9-instructions">#Chromebooks Only section</a> below!
+{% hint style='danger' %}If you are using a Chromebook, please skip to the <a href="#chromebooks-only-cloud9-instructions">Chromebooks Only section</a> below!
 {% endhint %}
 
 This section will help guide you through the following steps:

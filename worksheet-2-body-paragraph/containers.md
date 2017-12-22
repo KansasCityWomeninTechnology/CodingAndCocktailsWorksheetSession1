@@ -13,6 +13,8 @@
       <div class="container"></div>
    </body>
    ```
+      {% hint style='tip' %}The linter we installed will help you catch mistakes. When the linter catches an error such as forgetting to close a HTML tag, Atom will display a red underline. Sometimes the underline shows up on the tag **after** the mistake! 
+{% endhint %}
 
 1. Create another `<div>` element with the class `row` nested inside the `div` with `class="container"` we just created. This time we'll use Emmet. Type `div.row` and press `tab`. 
 

@@ -21,6 +21,9 @@ Lists often come in handy on a webpage - both ordered (numbered) lists and unord
 The navigation items should take the user to the page sections they reference. In order to do that, anchor elements need to be added to create a hyperlink to those sections of the page.
 {% include "./links.md" %}
 
+## Add tags to improve SEO {#seo}
+Your website is almost done! Now we want to apply concepts we learned about Search Engine Optimization (SEO) to make your web page easier for search engines like Google to index.
+{% include "./metatags.md" %}
 
 
 ## References and helpful links
@@ -36,4 +39,9 @@ The navigation items should take the user to the page sections they reference. I
 [Mozilla Developer Network ordered list element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 
 [Mozilla Developer Network anchor element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+
+If you want to read up on Search Engine Optimization (SEO), check out Google's 
+
+[SEO Starter Guide](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+
 
