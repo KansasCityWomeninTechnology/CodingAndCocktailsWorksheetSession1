@@ -1,14 +1,14 @@
 1.  Inside the third form-group add a `label` element.
 
-1. Set the `label` element's `for` attribute to **"messageInput"** 
+1. Set the `label` element's `for` attribute to **"messageInput"**. 
     
 2. Add text **"Message"** in between the opening and closing `label` tags.
     
-3. Below the label, use Emmet to add a `textarea` element with a `class` of **"form-control"**.
+3. Below the label, use Emmet to add a `textarea` element with a `class` of **"form-control"**. (Hint: Use Emmet command `textarea.form-control`). 
     
 4. Set the `name` attribute of the `textarea` element to **"message"**
     
-5. Set the `id` attribute to **"messageInput"** 
+5. Set the `id` attribute to **"messageInput"**.
 
 6. Leave the `cols` and `rows` attributes at the default values provided.
     

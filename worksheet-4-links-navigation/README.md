@@ -14,7 +14,7 @@ Let's create a footer row section and add a footer.
 {% include "./footer.md" %}
 
 ## Add a list {#lists}
-Lists often come in handy on a webpage - both ordered (numbered) lists and unordered (bulleted) lists.  Website navigation is often an unordered list of links so that's where we'll be using a list. Using list elements is also helpful for accessibility since screenreaders utilize the metadata. We have three page sections - About, Menu, and Contact - so we'll need three navigation list items.
+Lists often come in handy on a webpage - both ordered (numbered) lists and unordered (bulleted) lists.  Website navigation is often an unordered list of links so that's where we'll be using a list. Using list elements is also helpful for accessibility since screenreaders utilize the metadata it provides. We have three page sections - About, Menu, and Contact - so we'll need three navigation list items.
 {% include "./lists.md" %}
 
 ## Create links {#links}

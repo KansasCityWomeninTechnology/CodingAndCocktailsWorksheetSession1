@@ -23,7 +23,7 @@ This section will help guide you through the following steps:
 {% include "./using-chrome.md" %}
 
 
-The remainder of our work tonight will be done inside the `<body></body>` tags.  This is where any page content you can see goes.
+The remainder of our work tonight will be done inside the `<body></body>` tags.  This is where visible page content goes.
 
 ## References and helpful links
 [Mozilla Developer Network Head element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)

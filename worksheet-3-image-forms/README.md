@@ -14,7 +14,7 @@ Add an image to bring some interest to your page.
 {% include "./add-image.md" %}
 
 ## Create form groups {#forms}
-You now need a form to allow users to contact you. Forms typically require a bit of JavaScript but that tool is not in our toolbelt just yet we'll use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/).
+You now need a form to allow users to contact you. Forms typically require a bit of JavaScript but that tool is not in our toolbelt just yet so we'll use a tool called Formspree. You can read up on it at [formspree.io](https://formspree.io/).
 {% include "./form.md" %}
 
 ## Add text form input {#form-text}
@@ -30,7 +30,7 @@ Now we'll create the area for the message.
 {% include "./form-textarea.md" %}
 
 ## Add submit button {#form-submit}
-Lastly, we need submit the form. 
+Lastly, we need a way to submit the form. 
 {% include "./form-submit.md" %}
 
 

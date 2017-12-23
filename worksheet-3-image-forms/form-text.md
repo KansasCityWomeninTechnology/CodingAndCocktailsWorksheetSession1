@@ -1,6 +1,6 @@
 1. In between the first opening and closing `div.form-group` tags, add a `<label>` element. Type the Emmet command `label`  and press the `Tab` key.
     
-2. Set the label's `for` attribute value to **"nameInput"**
+2. Set the label's `for` attribute value to **"nameInput"**.
      
 3. Add the text **"Name"** in between the opening and closing label tags.
     
@@ -8,7 +8,7 @@
 
      {% hint style='info' %}Remember, ids are created by using a `#` followed by the id name you want to add and classes are created by using a `.` followed by the class name you want to add{% endhint %}
 
-4. Add a `name` attribute to that `input` element and set its value to **"name"**
+4. Add a `name` attribute to that `input` element and set its value to **"name"**.
 
      {% hint style='tip' %}Emmet automatically added a `type` attribute with the value "text" for our name input, which is exactly what we want. Perfect!{% endhint %}
      

@@ -1,4 +1,4 @@
-1. Add another `div.row` just inside the `</div>` tag that is closing the `<div class="container">` element. Use Atom to help you find the closing tags.
+1. Add another `div.row` just before the `</div>` tag that is closing the `<div class="container">` element. Use Atom to help you find the closing tags.
     
 3. Add a `<footer>` element in between the opening and closing tags of the `div.row` you just created.
 

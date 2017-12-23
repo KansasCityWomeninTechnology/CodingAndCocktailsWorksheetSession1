@@ -1,4 +1,4 @@
-1. Inside the `div` with `class="container"` element but below closing `</div>` tag for the first `div.row` element that we created with Emmet, type `div.row#about` and press the `tab` key to have Emmet create a `<div>` with both `class` and `id` attributes. This will be the area for our "About" section. 
+1. After the `div.row` element that we created with Emmet but inside the `div` with `class="container"`, type `div.row#about` and press the `Tab` key to have Emmet create a `<div>` with both `class` and `id` attributes. This will be the area for our "About" section. 
    
    The element you created should look like this:
     `<div class="row" id="about"></div>`

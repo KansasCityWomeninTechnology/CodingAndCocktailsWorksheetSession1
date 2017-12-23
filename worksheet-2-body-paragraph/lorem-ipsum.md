@@ -1,4 +1,4 @@
-1. In Atom, after the first `<h3>` tag, add a paragraph tag (Hint: That's just a `p` tag!) Don't forget to use Emmet so you don't have to write out all the `<`, `>` and `/`.
+1. In Atom, after the first `<h3>` tag, add a paragraph tag (Hint: That's just a `p` tag).
 
 2. You can either write your own text or try using lorem ipsum text. 
 {% hint style='info' %}Lorem ipsum text is often used as dummy text in the printing industry to show what the page layout will look like when you may not know what your content is yet. The lorem ipsum text is derived from a work that dates back to 45 BC!{% endhint %}
@@ -9,7 +9,7 @@
     
     ![](images/lorem.png)
     
-    {% hint style='tip' %}If you know exactly how many words you want you can specify that with a number after the `lorem` word in your code. For example if I wanted 50 words I would type `lorem50` and then press `tab`. {% endhint %} 
+    {% hint style='tip' %}If you know exactly how many words you want you can specify that with a number after the `lorem` word in your code. For example if I wanted 50 words I would type `lorem50` and then press `Tab`. {% endhint %} 
 
 3. Save your html file and refresh in your Google Chrome browser. You should now see something like this: 
 ![](images/checkpointOne.png)
