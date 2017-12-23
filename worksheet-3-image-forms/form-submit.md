@@ -4,7 +4,7 @@
      
 2. Add a `value` attribute with a value of "Send". 
     
-    {% hint style='tip' %}Type `input.btn.btn-default` and then press the`tab` key to have Emmet add both classes to the input element at the same time{% endhint %}
+    {% hint style='tip' %}Type `input.btn.btn-default` and then press the `Tab` key to have Emmet add both classes to the input element at the same time{% endhint %}
     
     {% hint style='info' %}The `value` attribute sets the text of the submit button so feel free to set the text to whatever you'd like!{% endhint %}
 

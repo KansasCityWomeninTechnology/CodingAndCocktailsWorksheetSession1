@@ -5,7 +5,7 @@
 
     * To add your own text just type it in between your `<p>` tags.
 
-    * If you want to use lorem ipsum text for now we'll use Emmet to help us quickly add this. Type `lorem` inside the `<p>` tags and `tab` to complete.  This will insert some placeholder lorem ipsum text for you. It should look like this: 
+    * If you want to use lorem ipsum text for now we'll use Emmet to help us quickly add this. Type `lorem` inside the `<p>` tags and `Tab` to complete.  This will insert some placeholder lorem ipsum text for you. It should look like this: 
     
     ![](images/lorem.png)
     

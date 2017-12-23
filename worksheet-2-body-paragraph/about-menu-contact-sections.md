@@ -9,7 +9,7 @@
     
 1. Repeat this process twice more for the Menu and Contact sections.
 
-    1. In between the opening and closing tags for the `div` with `class="container"` element but below the closing `</div>` tag for the "**About**" section, type `div.row#menu` and press the `tab` key. This will be the area for our "**Menu**" section.
+    1. In between the opening and closing tags for the `div` with `class="container"` element but below the closing `</div>` tag for the "**About**" section, type `div.row#menu` and press the `Tab` key. This will be the area for our "**Menu**" section.
 
     1. Inside the menu `<div>`, title the section with the text "**Menu**" using an `<h3>` tag.
     

@@ -1,4 +1,4 @@
-1. In between the first opening and closing `div.form-group` tags, add a `<label>` element. Type the Emmet command `label`  and press the `tab` key.
+1. In between the first opening and closing `div.form-group` tags, add a `<label>` element. Type the Emmet command `label`  and press the `Tab` key.
     
 2. Set the label's `for` attribute value to **"nameInput"**
      

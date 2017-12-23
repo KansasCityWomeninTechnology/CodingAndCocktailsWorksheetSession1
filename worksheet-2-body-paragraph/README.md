@@ -6,7 +6,7 @@ This section will help guide you through the following steps:
 {% include "./navigation.html" %}
 
 ## Create containers {#containers}
-We'll create sections within our page with `<div>` tags. We'll use the magic of Emmet to auto-complete HTML elements for us. This plugin helps us write our code faster and more efficiently. To use Emmet you type in abbreviated HTML keywords that form a command Emmet can understand and press `tab`.
+We'll create sections within our page with `<div>` tags. We'll use the magic of Emmet to auto-complete HTML elements for us. This plugin helps us write our code faster and more efficiently. To use Emmet you type in abbreviated HTML keywords that form a command Emmet can understand and press `Tab`.
 {% include "./containers.md" %}
 
 ## Add headers {#headers}
