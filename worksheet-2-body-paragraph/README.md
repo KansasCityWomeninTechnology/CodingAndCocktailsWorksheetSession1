@@ -22,7 +22,7 @@ Most websites have some text on the page. Let's add some to ours!
 {% include "./lorem-ipsum.md" %}
 
 ## Inspect HTML in Chrome {#chrome-dev-tools}
-You'll often find yourself needing to look at how your page is being rendered in the browser to troubleshoot issues so let's give that a try.
+You'll often find yourself needing to look at how your page renders in the browser to troubleshoot issues so let's give that a try.
 {% include "./chrome-dev-tools.md" %}
 
 ## References and helpful links

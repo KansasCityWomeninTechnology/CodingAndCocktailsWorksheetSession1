@@ -1,6 +1,6 @@
 # Links & Navigation
 
-Our web page is really coming together. But web pages have navigation and ways to link to other sections of the page. HTML 5 added `<nav>` and `<footer>` elements to the mix so let's practice using those. Let's work on this!
+Our web page is coming together. But web pages have navigation and ways to link to other sections of the page. HTML 5 added `<nav>` and `<footer>` elements to the mix so let's practice using those. Let's work on this!
 
 This section will help guide you through the following steps:
 {% include "./navigation.html" %}
@@ -18,7 +18,7 @@ Lists often come in handy on a webpage - both ordered (numbered) lists and unord
 {% include "./lists.md" %}
 
 ## Create links {#links}
-The navigation items should take the user to the page sections they reference. In order to do that, anchor elements need to be added to create a hyperlink to those sections of the page.
+The navigation items should take the user to the page sections they reference. To do so, you'll add anchor elements to create a hyperlink to those sections of the page.
 {% include "./links.md" %}
 
 ## Add tags to improve SEO {#seo}
@@ -40,8 +40,6 @@ Your website is almost done! Now we want to apply concepts we learned about Sear
 
 [Mozilla Developer Network anchor element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
-If you want to read up on Search Engine Optimization (SEO), check out Google's 
+If you want to read up on Search Engine Optimization (SEO), check out Google's
 
 [SEO Starter Guide](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
-
-

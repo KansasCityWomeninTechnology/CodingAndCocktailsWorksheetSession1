@@ -2,7 +2,7 @@
 
 1. In the project pane on the left, double click on the _index.html_ file to open it.
 1. Copy the following code snippet and paste it into your _index.html_ file.
-   
+
    {% filename %}index.html{% endfilename %}
    ```html
    <!DOCTYPE html>
@@ -14,7 +14,7 @@
        <title>Document</title>
    </head>
    <body>
-  
+
    </body>
    </html>
    ```
@@ -22,7 +22,4 @@
 
 1. Save the file.
 
-1. Cheers! You just set up the structural foundation of a web page!
-
-
-
+1. Cheers! You set up the structural foundation of a web page!

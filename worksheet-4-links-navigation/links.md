@@ -3,15 +3,15 @@
 Windows Key Combination|Mac Key Combination
 ---|---
 `ctrl` + `alt` + `w`|`ctrl` + `w`
-    
-2. Type just an `a` in the prompt that comes up and press enter. An anchor tag with an `href` attribute will show up wrapped around your **"About"** text. The **"About"** text should now look like this: 
+
+2. Type just an `a` in the prompt that comes up and press enter. An anchor tag with an `href` attribute will show up wrapped around your **"About"** text. The **"About"** text should now look like this:
 
     {% filename %}index.html{% endfilename %}
     ```html
     <li><a href="">About</a></li>
     ```
 
-3. The `href` attribute tells the anchor where to go when it is clicked.  Clicking **"About"** should move to the **"About"** section of the page.  The about section is the `<div>` element with the id `about`.  Set the anchor tag's `href` value to **"#about"**.
+3. The `href` attribute tells the anchor where to go when clicked. Clicking **"About"** should move to the **"About"** section of the page. The about section is the `<div>` element with the id `about`.  Set the anchor tag's `href` value to **"#about"**.
 
 4. Repeat this process for the Menu and Contact sections.  
 

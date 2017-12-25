@@ -1,6 +1,6 @@
 # HTML Page Structure
 
-HTML provides your website with the underlying structure.  We'll start with a basic HTML structure and explore using Atom IDE that we use as our development environment. 
+HTML provides your website with the underlying structure.  We'll start with a basic HTML structure and explore using Atom IDE that we use as our development environment.
 
 {% hint style='danger' %}If you are using a Chromebook, please skip to the <a href="#chromebooks-only-cloud9-instructions">Chromebooks Only section</a> below!
 {% endhint %}
@@ -23,7 +23,7 @@ This section will help guide you through the following steps:
 {% include "./using-chrome.md" %}
 
 
-The remainder of our work tonight will be done inside the `<body></body>` tags.  This is where visible page content goes.
+Most of our work tonight will be inside the `<body></body>` tags.  This is where visible page content goes.
 
 ## References and helpful links
 [Mozilla Developer Network Head element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
@@ -32,7 +32,7 @@ The remainder of our work tonight will be done inside the `<body></body>` tags. 
 <!--sec data-title="Chromebooks Only: Cloud9 Instructions" data-id="section0" data-show=true data-collapse=true ces-->
 
 1. Sign up for an account at [c9.io](https://c9.io)
-   
+
    Note: It will ask you for credit card information but you will not get charged for anything since we do not use features of Cloud9 that cost money.
 
 2. Confirm your account from your email and log in to Cloud9.
@@ -50,7 +50,7 @@ The remainder of our work tonight will be done inside the `<body></body>` tags. 
 8. Click on the `Create Workspace` button
 
    Cloud9 will take a minute and create your workspace here
-   
+
 9. Close the README.md file that is open when you get to your workspace.
 
 10. From the `File` menu choose `New File`
@@ -62,7 +62,7 @@ The remainder of our work tonight will be done inside the `<body></body>` tags. 
 13. In the top menu bar choose `Preview` and then select `Live Preview File (index.html)`
 
     This opens up a "browser" window that will show changes you make to your web page as you add content.  
-    
+
     {% hint style='danger' %}
     IMPORTANT! Any time the worksheet references viewing in Google Chrome or refreshing the page in Google Chrome you will use this Preview area instead.
     {% endhint %}
