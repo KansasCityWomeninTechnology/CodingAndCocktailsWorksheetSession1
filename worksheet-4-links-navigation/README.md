@@ -1,6 +1,6 @@
 # Links & Navigation
 
-Our web page is coming together. But web pages have navigation and ways to link to other sections of the page. HTML 5 added `<nav>` and `<footer>` elements to the mix so let's practice using those. Let's work on this!
+Our web page is coming together. But web pages have navigation and ways to link to other sections of the page. HTML 5 added `<nav>` and `<footer>` elements to the mix so let's practice using those.
 
 This section will help guide you through the following steps:
 {% include "./navigation.html" %}
@@ -24,6 +24,8 @@ The navigation items should take the user to the page sections they reference. T
 ## Add tags to improve SEO {#seo}
 Your website is almost done! Now we want to apply concepts we learned about Search Engine Optimization (SEO) to make your web page easier for search engines like Google to index.
 {% include "./metatags.md" %}
+
+You did it! You created a website!
 
 
 ## References and helpful links

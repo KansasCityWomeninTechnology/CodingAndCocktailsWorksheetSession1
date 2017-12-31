@@ -4,7 +4,7 @@
 
 Try some troubleshooting so you can feel more confident coding on your own!
 
-1.  Open a new file in Atom and save it in your "CodingAndCocktials/html" folder as *troubleshooting.html*
+1.  Open a new file in Atom and save it in your "CodingAndCocktails/html" folder as *troubleshooting.html*
 
 2.  Paste the following code into the file
 
@@ -15,7 +15,7 @@ Try some troubleshooting so you can feel more confident coding on your own!
         <head>
             <meta charset="UTF-8">
             <title>Coding &amp; Cocktails Troubleshooting</title>
-            <link rel="stylesheet" type="text/css" href="css/exercise1.css">
+	        <!--What are some other tags we can add to help with Search Engine Optimization (SEO)?-->
         </head>
         <body>
             <h1>Exercise 1</h1>

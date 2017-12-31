@@ -2,4 +2,10 @@
 
 To continue building our coding skills, we need to practice - just like when playing sports or learning a musical instrument.
 
-[![](/images/slack.png)](http://kcwit.slack.com)
+{% hint style='tip' %}
+##### Hey Slacker!
+
+Remember, we're here to help.
+Join the KCWiT #codingandcocktails Slack Channel: [kcwit.slack.com](http://kcwit.slack.com)
+{% endhint %}
+

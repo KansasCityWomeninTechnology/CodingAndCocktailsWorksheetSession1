@@ -29,4 +29,4 @@
    </body>
    </html>
    ```
-1. Save your file.
+1. Save your file. You won't see any visible changes, but under the covers, your website is now more searchable.
