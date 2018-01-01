@@ -34,4 +34,10 @@
     color: #484e78;
     font-weight: bold;
   }
+
+  .navigate-top a {
+    color: #666b8f;
+    font-size:0.7em;
+    padding-left: 15px;
+  }
   

@@ -3,7 +3,7 @@
 
     ![](images/navInsert.png)
 
-    {% hint style='tip' %}Don't forget-- if you place your cursor on any HTML element, Atom will underline the matching opening or closing tag for you. {% endhint %}
+    {% hint style='tip' %}Don't forget- if you place your cursor on any HTML element, Atom will underline the matching opening or closing tag for you. {% endhint %}
 
 1. Between the opening and closing `<div>` tags you just created, add a `<nav>` element with the classes **navbar** and **navbar-default**.
 
