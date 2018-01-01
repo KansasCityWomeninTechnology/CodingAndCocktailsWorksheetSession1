@@ -4,7 +4,7 @@ CodePen does not support uploading images so we have to link directly to the fil
 
 1. For your `src` attribute, you will point to a pre-selected image. Use the following link inside the quotation marks `https://farm5.staticflickr.com/4148/4997067533_91d1c9d281_z.jpg`.
 
-   {% hint style='tip' %}Ask a mentor for help you want a different cocktail image.
+   {% hint style='tip' %}Ask a mentor for help if you want a different cocktail image.
 {% endhint %}
 
 1. Continue the worksheet starting from [Create form groups](#forms).
