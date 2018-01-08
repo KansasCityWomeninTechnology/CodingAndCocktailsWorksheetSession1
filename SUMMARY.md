@@ -6,11 +6,12 @@
     * [Part 3: Images & Forms](worksheet-3-image-forms/README.md)
     * [Part 4: Links & Navigation](worksheet-4-links-navigation/README.md)
     * [Bonus: Styling](bonus-styling.md)
-* [HTML Cheat Sheet](references/html-cheat-sheet.md)
+* [Quiz](quiz.md)
 * [Answer Key](answer-key.md)
 * [Homework](worksheet-homework/homework.md)
     * [Troubleshooting](worksheet-homework/homework-troubleshooting.md)
     * [Bonus](worksheet-homework/homework-bonus.md)
+* [HTML Cheat Sheet](references/html-cheat-sheet.md)
 * [Helpful Keyboard Shortcuts](references/README.md)
 
 
