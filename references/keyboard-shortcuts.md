@@ -8,7 +8,7 @@
 |Save|`cmd` + `s`|`ctrl` + `s`|
 |Select all|`cmd` + `a`|`ctrl` + `a`|
 |Find|`cmd` + `f`|`ctrl` + `f`|
-|Switch between open apps/programs |`cmd` + `tab`|`alt` + `tab`|
+|Switch between open apps/programs|`cmd` + `tab`|`alt` + `tab`|
 |Switch between programs on the taskbar| N/A | `windows key` + `tab`|
-|Switch between Chrome windows. |`shift` + `cmd` + `~`| N/A |
-|Open Google Chrome developer tools console. |`cmd` + `shift` + `j`| `ctrl` + `shift` + `j` |
+|Switch between Chrome windows|`shift` + `cmd` + `~`| N/A |
+|Open Google Chrome developer tools console|`cmd` + `shift` + `j`| `ctrl` + `shift` + `j`|
