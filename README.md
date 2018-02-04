@@ -1,6 +1,6 @@
 # Coding & Cocktails Session 1: HTML
 
-The `docs` directory contains worksheets for Coding & Cocktails session 1 and published on Gitbooks: [Coding & Cocktails - Session 1:HTML](https://www.gitbook.com/book/codingandcocktailskc/session-1-html/details).
+The `docs` directory contains worksheets for Coding & Cocktails session 1 published on Gitbooks: [Coding & Cocktails - Session 1:HTML](https://www.gitbook.com/book/codingandcocktailskc/session-1-html/details).
 
 ## Getting Going
 Install [Gitbook](https://www.npmjs.com/package/gitbook) CLI from npm.
@@ -13,11 +13,13 @@ To build without serving, `gitbook build`.
 
 ## Associated Repos
 Session work repo - [AnswerKeys](https://github.com/KansasCityWomeninTechnology/AnswerKeys)
+
 Homework repo - [Examples](https://github.com/KansasCityWomeninTechnology/examples)
 
 ## TODO
 - [ ] Consolidate session work and homework repos. Ideally consolidate into this repo
 - [ ] Fix styles
+- [ ] Update TOC to use new format
 - [ ] Incorporate feedback from curriculum retro in Google Drive
 
 
