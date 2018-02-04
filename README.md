@@ -1,28 +1,27 @@
-<div>
-    <img src="images/logo.png" style="float: left; margin: 0px 15px 15px 0px; height:125px;">
-    <h2 style="display:inline-block;margin-top:1em;">Coding &amp; Cocktails Session 1:</h2>
-    <h3 style="margin-top:0;margin-bottom:2em;">Introduction to HTML</h3>
-</div>
-<hr>
+# Coding & Cocktails Session 1: HTML
+
+The `docs` directory contains worksheets for Coding & Cocktails session 1 and published on Gitbooks: [Coding & Cocktails - Session 1:HTML](https://www.gitbook.com/book/codingandcocktailskc/session-1-html/details).
+
+## Getting Going
+Install [Gitbook](https://www.npmjs.com/package/gitbook) CLI from npm.
+
+```bash
+gitbook install
+gitbook serve
+```
+To build without serving, `gitbook build`.
+
+## Associated Repos
+Session work repo - [AnswerKeys](https://github.com/KansasCityWomeninTechnology/AnswerKeys)
+Homework repo - [Examples](https://github.com/KansasCityWomeninTechnology/examples)
+
+## TODO
+- [ ] Consolidate session work and homework repos. Ideally consolidate into this repo
+- [ ] Fix styles
+- [ ] Incorporate feedback from curriculum retro in Google Drive
 
 
-### Overview
+## License
+![](https://lh6.googleusercontent.com/osprAumZLusoNUcKnPtOWMijWYLZ8ydrUS0gMTvMCoyhSVBd69InqiXqQjc7fH8iQiVbZLXvyyvPZXwKjeyHuPnrd2zJT1mYLa1WoziryvxOo0q7nvMnpfeeVPBgfqW0bnp1--wa)![](https://lh5.googleusercontent.com/AZZipN4uXuU6FkxA0zLbrq9EwMhky22oNI8UtjQ2-Kgzy64Jmbij_IKUwXDcqGjnHWSMg9h3ii2Dx_SLI871nVn56NyF1VnmDbkEL2m9sJ_9YYGpNC8kdiYepai1jAZLEWWt8iTW)![](https://lh6.googleusercontent.com/GSxH81qYzBJkBR39GbviwKcwxem0RbN8XTx_6BOHgziQ6OomnG-au25ZSdiNQ4rX2p2HanRGa8_SzTPhJ3SKW-Vrs6fJ8N9s0FLq1EVSwUZXrLZuUVONachwFWwqTr6PMpn1csnu)
 
-Tonight we cover HTML basics and best practices. We’ll put those to use here creating our own web page and begin understanding HTML structure as well as becoming more comfortable using HTML.
-
-Reference the [HTML Cheat Sheet](/html-cheat-sheet.md) at the end of the worksheet for a quick reminder on HTML element options as needed.
-
-{% hint style='tip' %}
-First time at Coding & Cocktails?   [Click here to Install the Tools!](http://bit.ly/CnCTheTools)
-{% endhint %}
-
-{% hint style='tip' %}
-Don't know a term?   [Click here to check out our glossary!](http://bit.ly/CnCgloss)
-{% endhint %}
-
-{% hint style='tip' %}
-Want to be more efficient at working with your computer?
-
-[Click here to see our list of Helpful Keyboard Shortcuts!](/references/README.md)
-{% endhint %}
- 
+This work is licensed by [http://kcwomenintech.org/](http://kcwomenintech.org/) under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
