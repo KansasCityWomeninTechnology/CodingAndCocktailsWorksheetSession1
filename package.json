@@ -1,0 +1,34 @@
+{
+  "name": "session1",
+  "version": "0.0.0",
+  "description": "Instructions for Coding & Cocktails program session 1 - Front-end architecture and HTML",
+  "main": "docs/README.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:install": "gitbook install",
+    "docs:build": "gitbook build",
+    "start": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KansasCityWomeninTechnology/CodingAndCocktailsWorksheetSession1.git"
+  },
+  "author": "Kansas City Women In Technology - Coding And Cocktails",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/KansasCityWomeninTechnology/CodingAndCocktailsWorksheetSession1/issues"
+  },
+  "homepage": "https://github.com/KansasCityWomeninTechnology/CodingAndCocktailsWorksheetSession1#readme",
+  "dependencies": {
+    "gitbook-plugin-codeblock-label": "^1.0.1",
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-custom-favicon": "^0.0.4",
+    "gitbook-plugin-hints": "^1.0.2",
+    "gitbook-plugin-sectionx": "^3.1.0"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

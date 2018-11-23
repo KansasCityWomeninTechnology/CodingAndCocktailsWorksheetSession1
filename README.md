@@ -16,10 +16,14 @@ Session work repo - [AnswerKeys](https://github.com/KansasCityWomeninTechnology/
 
 Homework repo - [Examples](https://github.com/KansasCityWomeninTechnology/examples)
 
+## Associated CodePens 
+CodePen for generating charts (for easier updates) This probably should transfer over to C&C CodePen.
+https://codepen.io/alisaduncan/pen/yjYepR
+
 ## TODO
 - [ ] Consolidate session work and homework repos. Ideally consolidate into this repo
-- [ ] Fix styles
-- [ ] Update TOC to use new format
+- [x] Fix styles
+- [x] Update TOC to use new format
 - [ ] Incorporate feedback from curriculum retro in Google Drive
 
 
