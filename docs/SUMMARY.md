@@ -5,8 +5,8 @@
 
 ### Worksheet
 * [Front-end Architecture](ws1-architecture/README.md)
-* [HTML Page Structure](worksheet-1-html-structure/README.md)
-* [Part 2: HTML Body](worksheet-2-body-paragraph/README.md)
+* [HTML Page Structure](ws2-html-structure/README.md)
+* [HTML Tags](ws3-html-tags/README.md)
 * [Part 3: Images & Forms](worksheet-3-image-forms/README.md)
 * [Part 4: Links & Navigation](worksheet-4-links-navigation/README.md)
 * [Quiz](quiz.md)

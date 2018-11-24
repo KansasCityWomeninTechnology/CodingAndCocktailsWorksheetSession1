@@ -1,7 +1,7 @@
 1.  Download the assets at [http://bit.ly/2bVHBAi](http://bit.ly/2bVHBAi) and unzip the file.
 
    {% hint style='info' %}
-**Assets** are valuable files for your web site or application. Think _CSS_, _JavaScript_, _images_, _videos_, etc.
+**Assets** are valuable files for your web site or application. Think **CSS**, **JavaScript**, images, videos, etc.
    {% endhint %}
 
 1. Create a new folder named "architecture" in your "CodingAndCocktails/session1" folder. We will use this for the front-end architecture portion of the worksheet and will serve as the root directory for your application.

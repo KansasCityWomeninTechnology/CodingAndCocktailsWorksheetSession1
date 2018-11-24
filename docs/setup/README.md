@@ -9,7 +9,7 @@ You don't need all the tools for tonight's session, but we list them all so that
 
 1. [Atom IDE](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-atom/)
 
-1. [Install atom-live-server package](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-atom/#required-plugins-for-javascript-sessions)
+1. [Install atom-live-server package](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-atom/#required-packages)
 
 1. [Coding & Cocktails folder](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tips-directory-structure/)
 
