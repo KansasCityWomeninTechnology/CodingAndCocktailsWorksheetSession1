@@ -16,7 +16,7 @@ This section will help guide you through the following steps:
 {% include "./3head.md" %}
 
 ## View your web page {#view} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
-{% include "./4chrome.md" %}
+{% include "./4view.md" %}
 
 
 Most of our work tonight will be inside the `<body></body>` tags.  This is where visible page content goes.

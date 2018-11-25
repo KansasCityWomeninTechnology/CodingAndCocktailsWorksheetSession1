@@ -27,6 +27,6 @@ Another quick way to open the tools at any time is through a keyboard short cut:
 
 | Windows Key Combination|Mac Key Combination |
 |---|---|
-|`ctrl` + `shift` + `i`|`cmd` + `option` + `i`|
+|`F12`|`cmd` + `option` + `i`|
 
 {% hint style='info' %}Element inspection comes in handy when you're trying to style your page too so we'll use this a lot next month when we learn about CSS!{% endhint %}

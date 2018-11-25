@@ -1,21 +1,26 @@
-1. Create an `<h1>` tag inside the last `<div>` element by typing
-`<h1></h1>`. Write the name of your cocktail lounge between the opening and closing tags.
+1. In Atom, place your cursor on the blank line between `<body>` and `</body>`.
+   {% hint style="info" %}
+Most HTML elements have an opening and closing tag. The `<body>` tag is the opening tag. The `</body>` tag closes that element.
+   {% endhint %}
+   
+   {% hint style="tip" %}
+The worksheet will specify adding new HTML elements between the opening and closing tags of existing tags. Sometimes it's easier to match up the tags before adding a new element. You got this!
+   {% endhint %}
 
-1. Save your file and reload it in Google Chrome. **We have content!**
+1. Add a header by typing `<h1></h1>`. Write the name of your cocktail lounge between the opening and closing tags.
 
-    ![](https://media.giphy.com/media/3o6gEeg80PqeJBtsdy/giphy.gif)
+1. Save your file. The file should reload automatically in Chrome when you have atom-live-server running. Take a look at your webpage. **We have content!**
 
-1. After the closing `</h1>` tag, add an `<h2>` tag for a subtitle containing the text "Cocktails with a side of Code."
+   ![](https://media.giphy.com/media/3o6gEeg80PqeJBtsdy/giphy.gif)
 
-   It should look something like this:
+1. In Atom, after the closing `</h1>` tag, press `Enter` to start a new line and add an `<h2>` tag for a subtitle.
+
+1. Add the text "Cocktails with a side of Code". The body section should look something like this
    {% filename %}index.html{% endfilename %}
     ```html
     <body>
-       <div class="container">
-           <div class="row">
-               <h1>Coding's Cocktail Lounge</h1>
-               <h2>Cocktails with a side of Code.</h2>
-           </div>
-        </div>
+        <h1>Coding's Cocktail Lounge</h1>
+        <h2>Cocktails with a side of Code</h2>
     </body>
     ```
+    
