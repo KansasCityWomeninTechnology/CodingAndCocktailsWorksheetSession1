@@ -1,10 +1,16 @@
-# Troubleshooting
+# Homework
+
+{% hint style='tip' %}
+##### Hey Slacker!
+
+Remember, we're here to help.
+Join the KCWiT #codingandcocktails Slack Channel: [kcwit.slack.com](http://kcwit.slack.com)
+{% endhint %}
 
 ### Troubleshooting Exercises
-
 Try some troubleshooting so you can feel more confident coding on your own!
 
-1.  Open a new file in Atom and save it in your "CodingAndCocktails/html" folder as *troubleshooting.html*
+1.  Open a new file in Atom and save it in your "CodingAndCocktails/session-1/html" folder as *troubleshooting.html*
 
 2.  Paste the following code into the file
 
@@ -49,7 +55,10 @@ Try some troubleshooting so you can feel more confident coding on your own!
 1.  Save the file and open it in your Google Chrome browser.
 
 1.  The first thing to fix is that our image is not displayed underneath the first paragraph.  See if you can make the image show up by editing the HTML. 
-{% hint style='tip' %}Remember to save and refresh the page in Google Chrome to see your changes{% endhint %}
+
+   {% hint style='tip' %}
+Remember to save and refresh the page in Google Chrome to see your changes or run atom-live-server.
+   {% endhint %}
 
 1. Update the list of items to use an HTML ordered list so our webpage has the correct structure.
 

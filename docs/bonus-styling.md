@@ -1,4 +1,7 @@
-# Bonus: Styling
+# Bonus 
+
+JAD TODO - Fix this
+We'll add a link element to the header to bring in a style sheet.
 
 1. In the `head` section of your _index.html_ file add this tag right above the closing `</head>` tag:
 

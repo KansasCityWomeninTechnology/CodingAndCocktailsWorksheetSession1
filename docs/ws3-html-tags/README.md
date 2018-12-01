@@ -16,7 +16,9 @@ Next, we'll want an "About" section and a "Contact" sections and add text. We'll
 {% include "./2sections.md" %}
 
 ## Navigation list of sections {#lists} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
-Most websites have a navigation element with a list of links also called a "navbar". We'll add the links later, but for now, we can create the navbar structure.
+Most websites have a navigation element with a list of links also called a "navbar". We'll add the links later, but for now, we can create the navbar structure. We have two page sections - About and Contact - so we'll need two navigation list items.
+
+Using list elements is also helpful for accessibility since screenreaders utilize the metadata it provides.
 {% include "./3lists.md" %}
 
 ## Add a footer {#footer} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
@@ -26,6 +28,13 @@ We want recognize our work and add a footer with copyright information.
 ## Inspect HTML in Chrome {#chrome-dev-tools} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
 You'll often find yourself needing to look at how your page renders in the browser to troubleshoot issues so let's give that a try.
 {% include "./5chrome-dev-tools.md" %}
+
+## You're doing great! 
+Take a moment to celebrate what you've learned tonight!
+![](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)
+
+<!-- Trick markdown for some more space -->
+## 
 
 ## References and helpful links <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
 

@@ -23,4 +23,6 @@ The worksheet will specify adding new HTML elements between the opening and clos
         <h2>Cocktails with a side of Code</h2>
     </body>
     ```
+
+1. Exciting! You're rocking now! Show off your webpage to your neighbors. Take a screenshot and upload a picture of your webpage to Slack! 
     

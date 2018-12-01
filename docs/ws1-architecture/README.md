@@ -17,7 +17,12 @@ We'll first organize code for a web application then we'll learn HTML basics to 
 ## <!-- Trick markdown to give a little extra space -->
 # Organizing Assets
 Organizing files with similar purposes makes creating and maintaining web applications easier. In this section we will manually organize files for a website.
+
 In this session, we will become familiar with best practices for front-end architecture by organizing assets in a way that will make it easy to maintain the website.
+
+At the end of this section, you will have a webpage that looks like this
+
+![](images/finished.png)
 
 
 <!-- trick markdown to give me a little space between these two sections of text -->
@@ -44,6 +49,8 @@ Now we need to group like files so that the website assets are well organized.
 Lastly, we need to update references to the assets in _index.html_ so that our website displays properly by replacing the string `DIR` with the correct path name.
 {% include "./3references.md" %}
 
+## Nice job! Celebrate a toast with your neighbor!
+![](https://media.giphy.com/media/l3c5RJr6yRKyyIw00/giphy.gif)
 
 <!-- trick markdown to give me a little space between these two sections of text -->
 ## 

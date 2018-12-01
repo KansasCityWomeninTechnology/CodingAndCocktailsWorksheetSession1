@@ -1,4 +1,8 @@
-1.  Download the assets at [http://bit.ly/2bVHBAi](http://bit.ly/2bVHBAi) and unzip the file.
+1. Download the assets at [http://bit.ly/2bVHBAi](http://bit.ly/2bVHBAi) and unzip the file.
+
+   If it's taking a minute to download, use the time to introduce yourself to your neighbors! Your neighbors will be your buddies tonight and someone you can reach out to on Slack between sessions! 
+   
+   Ask your neighbors, "What is your most used emoji"?
 
    {% hint style='info' %}
 **Assets** are valuable files for your web site or application. Think **CSS**, **JavaScript**, images, videos, etc.

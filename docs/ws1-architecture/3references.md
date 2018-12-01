@@ -13,9 +13,11 @@ The `<!--   -->` wraps a comment in HTML. We'll learn more about it tonight.
 1. In the remaining code on that line, you’ll see `DIR` where the path of the referenced file should be. Replace `DIR` with the applicable file path. In the example below, the path is `assets/css`.
 
    Before:
+
    ![](images/code-before.png)
 
    After:
+   
    ![](images/code-after.png)
 
 1. Save your file to see your work by selecting **File** <i class="fa fa-long-arrow-right"></i> **Save** in Atom. You can also use the keyboard shortcut `ctrl + s` on Windows or `cmd + s` on Mac. Unsaved files in Atom have a little blue dot on tab.
