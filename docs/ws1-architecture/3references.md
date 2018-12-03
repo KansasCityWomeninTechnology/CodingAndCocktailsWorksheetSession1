@@ -1,9 +1,8 @@
-1. Open _index.html_ in Atom. 
-   {% hint style="tip" %}
-Open Atom by typing `atom .` Press `Enter`.
-  {% endhint %}
+1. Open Atom from your installed applications. In Atom select **File** <i class="fa fa-long-arrow-right"></i> **Add project folder**. Navigate to and select the "architecture" folder. The **Project** pane in Atom should look like the picture below.
 
-1. In Atom, search for a line starting with `<!-- REPLACE DIR PATH` and ending with `-->`.
+   ![](images/atom-project.png)
+
+1. In Atom open _index.html_. Search for a line starting with `<!-- REPLACE DIR PATH` and ending with `-->`.
    {% hint style="info" %}
 The `<!--   -->` wraps a comment in HTML. We'll learn more about it tonight.
    {% endhint %}

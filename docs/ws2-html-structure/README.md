@@ -1,6 +1,11 @@
 # HTML Structure {#top}
 
-We explored different components that make up a webpage in the last section. The rest of the worksheet will walk you through creating your own _index.html_ page from the ground up. The _index.html_ file is the main HTML for a web page. HTML provides your website with the underlying structure on which styles and JavaScript uses.
+We explored different components that make up a webpage in the last section. The rest of the worksheet will walk you through creating your own _index.html_ page from the ground up. The _index.html_ file is the main HTML for a web page. HTML is one of the building blocks of a web page. It defines the structure of the page and lays the foundation to then add styles and dynamic content. 
+
+In the HTML section of the worksheet, we will create a webpage together that looks like the picture below.
+
+![](images/goal.png)
+
 
 This section will help guide you through the following steps:
 {% include "./instruction-steps.html" %}

@@ -1,6 +1,6 @@
 1. In Atom, find the "Contact" section in your _index.html_ and add a new line after the paragraph element.
 
-1. We want to display a label so people know to put their email address in the input. Labels have their own HTML element, `<label>`. Add a `<label>` tag. Between the opening and closing `<label>` tag, add text for the label, such as "Email:".
+1. We want to display a label so people know to put their email address in the input. Labels have their own HTML element, `<label>`. Add a `<label>` tag. Between the opening and closing `<label>` tag, add text for the label, such as "Email".
 
   {% hint style="info" %}
 Using a `label` for HTML input is best practice for assistive technologies. Labels help describe the input control to provide correct semantics and also helps apply focus on the input control automatically.
@@ -16,13 +16,13 @@ Need a little help? Expand this section for guidance.
 Inside the opening <code>&lt;label&gt;</code> tag, type <code>for="email"</code>. Your code should look like this
 <pre>
 <code class="lang-html">
-&lt;label for="email"&gt;Email:&lt;/label&gt;
+&lt;label for="email"&gt;Email&lt;/label&gt;
 </code>
 </pre>
 </details>
    {% endhint %}
 
-1. Save your file and preview it in Chrome. Do you see your "Email:" label right above the footer?
+1. Save your file and preview it in Chrome. Do you see your "Email" label right above the footer?
 
 1. Let's add the email input! In Atom, add a new line after the `<label></label>` element.
 
@@ -45,7 +45,7 @@ Need a little help? Expand this section for guidance.
 All these attribute instructions can be confusing. Double check your input element. Your code should look like this
 <pre>
 <code class="lang-html">
-&lt;label for="email"&gt;Email:&lt;/label&gt;
+&lt;label for="email"&gt;Email&lt;/label&gt;
 &lt;input type="email" name="contactEmail" id="email" /&gt;
 </code>
 </pre>

@@ -8,7 +8,7 @@
 1. Clicking "About" link should move to the **"About"** section of the page. We need to specify the hyperlink reference source for the anchor (where the link takes you when you click on it). This is an attribute `href`. Inside the opening `<a>` tag, add the attribute `href` with the value "#about".
 
    {% hint style="info" %}
-The '#' in front of the "about" is a special symbol. It specifies that the link is within this web page and not to another webpage on the internet. The '#' is a special symbol that denotes the id of an element. We'll use element ids again when we write JavaScript later in the curriculum.
+The '#' in front of the "about" is a special symbol that denotes the id of an element. It specifies that the link is within this web page and not to another webpage on the internet. We'll use element ids again when we write JavaScript later in the curriculum.
    {% endhint %}
 
    {% hint style="working" %}

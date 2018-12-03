@@ -1,6 +1,6 @@
 # Coding & Cocktails Session 1: HTML
 
-The `docs` directory contains worksheets for Coding & Cocktails session 1 published on Gitbooks: [Coding & Cocktails - Session 1:HTML](https://www.gitbook.com/book/codingandcocktailskc/session-1-html/details).
+The `docs` directory contains worksheets for Coding & Cocktails session 1 published on Gitbooks: [Coding & Cocktails - The Glass- Front-end Architecture & HTML](https://www.gitbook.com/book/codingandcocktailskc/session-1-html/details).
 
 ## Getting Going
 Install [Gitbook](https://www.npmjs.com/package/gitbook) CLI from npm.

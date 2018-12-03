@@ -1,7 +1,4 @@
 # HTML Body {#top}
-## 
-# JAD TODO - Update images
-## 
 The body section of your HTML contains the visible part of your webpage. Let's start building out some content!
 
 This section will help guide you through the following steps:
@@ -32,6 +29,13 @@ You'll often find yourself needing to look at how your page renders in the brows
 ## You're doing great! 
 Take a moment to celebrate what you've learned tonight!
 ![](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)
+
+<!-- trick markdown to give me a little space between these two sections of text -->
+## 
+
+## Checkpoint <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
+Compare your _index.html_ against the answer key for your work so far. It might look a little different depending on your spacing and text.  
+{% include "./checkpoint.html" %}
 
 <!-- Trick markdown for some more space -->
 ## 

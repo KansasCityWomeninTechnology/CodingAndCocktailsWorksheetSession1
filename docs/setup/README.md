@@ -1,5 +1,7 @@
 # Setup {#top}
-Tonight we will learn front-end architecture and HTML. Follow the instructions on this page to prepare your workspace.
+Tonight we will learn front-end architecture and HTML. The combination of these two concepts provides the structure and the bones of a website. Or if you're creating a cocktail, it's the glass that holds your cocktail together. 
+
+Follow the instructions on this page to prepare your workspace.
 
 
 ## Required tools for this session

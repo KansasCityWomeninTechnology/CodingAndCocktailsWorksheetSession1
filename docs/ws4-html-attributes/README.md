@@ -33,6 +33,14 @@ You did it! You created a website!
 
 ![](https://media.giphy.com/media/3o6ZtlGkjeschymLNm/giphy.gif)
 
+
+<!-- trick markdown to give me a little space between these two sections of text -->
+## 
+
+## Checkpoint <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
+Compare your _index.html_ against the answer key for your work so far. It might look a little different depending on your spacing and text.  
+{% include "./checkpoint.html" %}
+
 <!-- Trick markdown for some more space -->
 ## 
 

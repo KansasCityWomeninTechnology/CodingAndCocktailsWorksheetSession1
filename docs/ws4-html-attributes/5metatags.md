@@ -23,7 +23,7 @@ Your code should look like this
 &lt;html lang="en"&gt;
    &lt;head&gt;
       ... other head tags here
-      &lt;meta name="author" content="Coding and Cocktails"&gt;
+      &lt;meta name="author" content="Coding &amp; Cocktails"&gt;
       &lt;meta name="description" content="Yummy cocktails served with a side of code"&gt;
       &lt;name="keywords" content="Cocktails,HTML,Code"&gt;
     &lt;/head&gt;

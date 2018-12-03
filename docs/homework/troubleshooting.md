@@ -10,7 +10,7 @@ Join the KCWiT #codingandcocktails Slack Channel: [kcwit.slack.com](http://kcwit
 ### Troubleshooting Exercises
 Try some troubleshooting so you can feel more confident coding on your own!
 
-1.  Open a new file in Atom and save it in your "CodingAndCocktails/session-1/html" folder as *troubleshooting.html*
+1.  Open a new file in Atom and save it in your "CodingAndCocktails/session1/html" folder as *troubleshooting.html*
 
 2.  Paste the following code into the file
 

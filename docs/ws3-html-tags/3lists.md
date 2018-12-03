@@ -1,6 +1,6 @@
 1. We want to add the navigation bar at the very top of the web page. Place your cursor after the opening tag for `<body>` and press `Enter`. You are now adding HTML before the `<h1>` tag.
 
-1. Navigation sections have their own HTML element called `nav`. Add a `nav` element. Your code will look something like this.
+1. Navigation sections have their own HTML element called `nav`. Add a `nav` element (don't forget the closing tag). Your code will look something like this.
    {% filename %}index.html{% endfilename %}
     ```html
     <body>
@@ -10,9 +10,6 @@
         Remaining code for subtitle and sections...
     </body>
     ```
-   {% hint style="tip" %}
-Don't forget the closing tag.
-   {% endhint %}
 
 1. Inside the `nav` element, we want to add a list of sections we created, "About" and "Contact". To create an unordered list, add a `ul` element. 
 

@@ -7,10 +7,10 @@ Remember, we're here to help.
 Join the KCWiT #codingandcocktails Slack Channel: [kcwit.slack.com](http://kcwit.slack.com)
 {% endhint %}
 
-### Fix the code
+### Troubleshooting Bonus
 This exercise only requires one addition.  Can you figure out what it is? 
 
-1.  Open a new file in Atom and save it in your `CodingAndCocktails/session-1/html` folder as *troubleshooting2.html*
+1.  Open a new file in Atom and save it in your `CodingAndCocktails/session1/html` folder as *troubleshooting2.html*
 
 2.  Paste the following code into the file
 ```html

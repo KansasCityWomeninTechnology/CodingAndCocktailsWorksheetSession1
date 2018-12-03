@@ -15,7 +15,7 @@
 
 ### Homework
 * [Troubleshooting](homework/troubleshooting.md)
-* [Fix HTML](homework/fix.md)
+* [Troubleshooting Bonus](homework/troubleshooting-bonus.md)
 
 ----
 * [Answer Key](answer-key.md)

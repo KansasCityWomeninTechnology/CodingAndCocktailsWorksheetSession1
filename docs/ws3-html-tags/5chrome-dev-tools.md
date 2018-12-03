@@ -8,7 +8,7 @@
 3. Notice as you mouse over elements in the DevTools that they highlight in the rendered view above.
 ![](images/highlight.png)
 
-4. You can also click the arrows to the left of your `<div>` elements to expand them and see the elements inside them.
+4. You can also click the arrows to the left of your `<section>` elements to expand them and see the elements inside them.
 
 In addition to viewing elements, you can make and preview changes here before making them in your code.
 1. In the **Elements** section of the DevTools, double click on the text inside your `<h2>` tag. This should make it editable. Change it to "Hello World" and then press `Enter`

@@ -1,4 +1,4 @@
-1. Images elements don't require closing tags. In Atom, add an `<img />` tag below the "**About**" header on your page to add an image.
+1. Images elements don't require closing tags. In Atom, find the "About" section. Add an `<img />` tag below the "**About**" header on your page to add an image.
    {% hint style="info" %}
 We created a **self-closing** tag. Self-closing tags have the `/>` written into the tag. HTML elements that don't require content or derive their information from attributes are self-closing.
    {% endhint %}
@@ -13,7 +13,7 @@ We created a **self-closing** tag. Self-closing tags have the `/>` written into 
 1. Now we need to replace the "FILENAME" with the real filename of the image including the file extension. 
 
    {% hint style="tip" %}
-We're setting the value of the attribute `src` to the filename. You'll see instructions directing you to set the value of an attribute. Use the same format `attribute="value"`. 
+We're setting the value of the attribute `src` to the filename. You'll see instructions directing you to set the value of an attribute throughout this section. Use the same format `attribute="value"`. 
    {% endhint %}
 
 1. You can have more than 1 attribute on a HTML element. Image tags have another attribute for alternate content, `alt`. Inside the `img` tag after the `src` attribute, type `alt="Image of cocktail"`. You can replace "Image of cocktail" to text better describing your image. Your image tag will look like this

@@ -2,7 +2,7 @@
 
    If it's taking a minute to download, use the time to introduce yourself to your neighbors! Your neighbors will be your buddies tonight and someone you can reach out to on Slack between sessions! 
    
-   Ask your neighbors, "What is your most used emoji"?
+   Here's an icebreaker question. Ask your neighbors, "What is your most used emoji and why"?
 
    {% hint style='info' %}
 **Assets** are valuable files for your web site or application. Think **CSS**, **JavaScript**, images, videos, etc.
