@@ -1,7 +1,7 @@
 {
   "name": "session1",
   "version": "0.0.0",
-  "description": "Instructions for Coding & Cocktails program session 1 - Front-end architecture and HTML",
+  "description": "Instructions for Coding & Cocktails program session 1: The Glass- Front-end architecture and HTML",
   "main": "docs/README.md",
   "directories": {
     "doc": "docs"

@@ -1,12 +1,18 @@
 # Setup {#top}
 Tonight we will learn front-end architecture and HTML. The combination of these two concepts provides the structure and the bones of a website. Or if you're creating a cocktail, it's the glass that holds your cocktail together. 
 
+<!-- trick markdown to give me a little space between these two sections of text -->
+## 
 Follow the instructions on this page to prepare your workspace.
-
 
 ## Required tools for this session
 
 You don't need all the tools for tonight's session, but we list them all so that attendees can prepare for all the sessions at once. If you haven't installed your tools already, use the following list to install the required tools for the worksheet:
+
+{% hint style='danger' %}
+If you are borrowing a laptop, your tools are pre-installed. Please ask your mentor to explain the tools we are using tonight.
+{% endhint %}
+
 1. [Chrome browser](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-browser/)
 
 1. [Atom IDE](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-atom/)

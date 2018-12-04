@@ -7,6 +7,8 @@ If you don't have the **atom-live-server** package, take a moment to [set up you
 If the tab opens in another browser, copy the URL and paste it into a new tab in Chrome. The reload will automatically happen in Chrome.
 
 If you get an access warning, click "Allow" to let **atom-live-server** serve the application.
+
+If you are borrowing a laptop and get an access warning, please contact a member of the Coding & Cockails leadership team for access.
    {% endhint %}   
 
 1. You won't see anything exciting on the page yet, but you should see your title displayed in the page tab.
