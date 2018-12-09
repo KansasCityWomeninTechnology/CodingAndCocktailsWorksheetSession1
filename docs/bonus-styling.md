@@ -37,6 +37,9 @@ Hey that `href` attribute looks familiar! This time we're using the `href` attri
 ![](https://media.giphy.com/media/12QipzuBuU90Gs/giphy.gif)
 
 1. Share your success by posting a screenshot to Slack or deploy your webpage using Now. To deploy the webpage, open Now from your installed applications. 
+   {% hint style="danger" %}
+If you haven't installed Now, take a moment to install it following the instructions in [the Tools](http://bit.ly/CnCTheTools).
+   {% endhint %}
 
 1. Click the upload button at the toolbar at the top of the Now application. The upload button looks something like <i class="fa fa-cloud-upload" aria-hidden="true"></i>.
 
