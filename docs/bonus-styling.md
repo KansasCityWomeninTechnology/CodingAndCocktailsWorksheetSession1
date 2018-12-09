@@ -23,9 +23,9 @@ A stylesheet is a **CSS** file. What folder structure did you use in the front-e
 
 1. In the `head` section of your _index.html_ file, add this tag right above the closing `</head>` tag:
 
-```html
+   ```html
 <link rel="stylesheet" href="DIR/main.css">
-```
+   ```
    
    {% hint style="info" %}
 Hey that `href` attribute looks familiar! This time we're using the `href` attribute for the source of the stylesheet, not for the source of the image, but the use of the attribute is the same. We're using a new HTML element `link` to pull in an external source. The `rel` attribute declares the external source type and tells the browser we're bringing in a style sheet.
@@ -36,5 +36,13 @@ Hey that `href` attribute looks familiar! This time we're using the `href` attri
 2. Save your file and open the _index.html_ file in Chrome.
 ![](https://media.giphy.com/media/12QipzuBuU90Gs/giphy.gif)
 
+1. Share your success by posting a screenshot to Slack or deploy your webpage using Now. To deploy the webpage, open Now from your installed applications. 
 
-### [**Click here to sign up for next month if you want to learn more about styling and how it works!**](https://www.eventbrite.com/e/coding-cocktails-introduction-to-css-tickets-39470123201?aff=es2)
+1. Click the upload button at the toolbar at the top of the Now application. The upload button looks something like <i class="fa fa-cloud-upload" aria-hidden="true"></i>.
+
+1. Navigate to and select your "CodingAndCocktails/session1/html" folder.
+
+1. Your browser tab will open to the deployed app. Copy and paste the link in Slack to share your cool new app.
+
+
+<!-- ### [**Click here to sign up for next month if you want to learn more about styling and how it works!**](https://www.eventbrite.com/e/coding-cocktails-introduction-to-css-tickets-39470123201?aff=es2) -->
