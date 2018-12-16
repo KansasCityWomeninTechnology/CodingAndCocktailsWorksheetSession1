@@ -15,7 +15,7 @@ We'll first organize code for a web application then we'll learn HTML basics to 
 
 ## <!-- Trick markdown to give a little extra space -->
 # Organizing Assets
-Front-end architecture is the organization of code and project files. Though there can be customizations specific to a team, the goal of good front-end architecture is to provide an efficient workflow that is maintainable throughout the project’s life.
+Front-end architecture is the organization of code and project files. Though there may be coding standards and practices specific to a team, the goal of good front-end architecture is to provide an efficient workflow that is maintainable throughout the project’s life.
 
 In this section of the worksheet, we will organize files with similar purposes to make it easy to maintain the website.
 
@@ -45,7 +45,7 @@ Now we need to group like files so that the website assets are well organized.
 {% include "./2organize.md" %}
 
 ## Update references in the HTML file {#references} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
-Lastly, we need to update references to the assets in _index.html_ so that our website displays properly by replacing the string `DIR` with the correct path name.
+Let's update references to the assets in _index.html_ by replacing the string `DIR` with the correct path name so that our website displays properly.
 {% include "./3references.md" %}
 
 ## Nice job! Celebrate a toast with your neighbor!

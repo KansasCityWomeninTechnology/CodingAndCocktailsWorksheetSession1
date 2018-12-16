@@ -19,12 +19,12 @@ A stylesheet is a **CSS** file. What folder structure did you use in the front-e
 
 1. In Atom, create a file named _main.css_ inside the new folder you created.
 
-1. In a new browser tab, navigate to [Coding & Cocktails provided stylesheet](https://raw.githubusercontent.com/KansasCityWomeninTechnology/AnswerKeys/master/html/main.css). Copy the contents of the file and paste it into _main.css_. Save _main.css_.
+1. In a new browser tab, navigate to [Coding & Cocktails provided stylesheet](https://raw.githubusercontent.com/KansasCityWomeninTechnology/AnswerKeys/master/html/assets/css/main.css). Copy the contents of the file and paste it into _main.css_. Save _main.css_.
 
 1. In the `head` section of your _index.html_ file, add this tag right above the closing `</head>` tag:
 
    ```html
-<link rel="stylesheet" href="DIR/main.css">
+<link rel="stylesheet" href="DIR/main.css" />
    ```
    
    {% hint style="info" %}

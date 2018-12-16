@@ -52,7 +52,9 @@ Place your cursor after <code>&lt;/section&gt;</code>, press <code>Enter</code>,
 </details>
    {% endhint %}
 
-1. The "Contact" section needs a header and a description, just like the "About" section. Use the text "Contact" for the header. For the description, use the text 
+1. The "Contact" section needs a header and a description, just like the "About" section. Let's start with the header. Add the header and use the text "Contact".
+
+1. Then add a description for the "Contact" section using the text 
    "Stay in contact with us by adding your email address to our mailing list."
    {% hint style="working" %}
 <details>
@@ -70,7 +72,6 @@ Place your cursor between the opening and closing tags for <code>&lt;section&gt;
 </pre>
 </details>
    {% endhint %}
-
 
 1. Save your file and view it in Google Chrome. Your page should look similar to this:
 ![](images/headersSectionsEnd.png)

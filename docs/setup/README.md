@@ -24,16 +24,20 @@ If you are borrowing a laptop, your tools are pre-installed. Please ask your men
 
 ## Create a folder for tonight's work
 
-Create a folder named "session1" in your "CodingAndCocktails" folder by following the steps below
+Create a folder named "session1" in your "CodingAndCocktails" folder by following the steps below.
 
 1. Open a file explorer and navigate to your home directory.
    {% hint style="tip" %}
-Your home directory is typically `/users/yourname` on a Mac or `C:/Users/yourname` on a Windows machine.
+Your home directory is typically `/users/<your user name>` on a Mac or `C:/Users/<your user name>` on a Windows machine.
 
-**Windows users**- You can navigate to your home directory by typing `%USERPROFILE%` in the file location bar and press `Enter`. 
+**Windows users**- You can navigate to your home directory by typing `%USERPROFILE%` in the file location bar and pressing `Enter`. 
    {% endhint %}
 
+1. Find and navigate into the "CodingAndCocktails" folder you created as part of your tools setup.
+
 1. Create a folder named "session1".
+
+1. Leave the file explorer open. You'll use it in the next section of the worksheet.
 
 ## Helpful tips as you work through the worksheet {#tips}
 

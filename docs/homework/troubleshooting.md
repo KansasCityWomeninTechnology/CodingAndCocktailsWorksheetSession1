@@ -30,7 +30,7 @@ Try some troubleshooting so you can feel more confident coding on your own!
             <p>Does anyone know why there is no image displayed below this paragraph?</p>
             
             <!--Fix the following HTML to get the image to display-->
-            <div<img src="http://pngimg.com/upload/snowflakes_PNG7545.png" alt="snowflake"></div>
+            <div<img src="http://pngimg.com/uploads/snowflakes/snowflakes_PNG7545.png" alt="snowflake"></div>
             
             <!-- This HTML should display an ordered list of items. -->
             <h3>Is this list formatted according to best practices?</h3>

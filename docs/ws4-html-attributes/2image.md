@@ -10,10 +10,18 @@ We created a **self-closing** tag. Self-closing tags have the `/>` written into 
 <img src="FILENAME"/>
    ```
 
-1. Now we need to replace the "FILENAME" with the real filename of the image including the file extension. 
+   {% hint style="working" %}
+We now have an image element with an invalid source location. Try saving the _index.html_ and viewing it in Chrome. We see the dreaded broken image icon! What happens if you open Chrome DevTools?
+   {% endhint %}
+
+1. Now we need to replace the "FILENAME" with the real filename of the image including the file extension.
 
    {% hint style="tip" %}
 We're setting the value of the attribute `src` to the filename. You'll see instructions directing you to set the value of an attribute throughout this section. Use the same format `attribute="value"`. 
+   {% endhint %}
+
+   {% hint style="working" %}
+If you created a directory structure to hold the image following what we learned in front-end architecture section, make sure to include the path just like you did earlier in the worksheet.
    {% endhint %}
 
 1. You can have more than 1 attribute on a HTML element. Image tags have another attribute for alternate content, `alt`. Inside the `img` tag after the `src` attribute, type `alt="Image of cocktail"`. You can replace "Image of cocktail" to text better describing your image. Your image tag will look like this

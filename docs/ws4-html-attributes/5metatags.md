@@ -1,4 +1,4 @@
-1. Inside the `<head>` section of your file, add a `<meta>` tag to help with SEO. The `meta` tag is self-closing and has 2 attributes, `name` and `content`.
+1. Inside the `<head>` section of your file, add a `<meta>` tag. The `meta` tag is self-closing and has 2 attributes, `name` and `content`.
 
 1. Inside the `meta` tag, add a`name` attribute. Set the value of `name` to "author". 
 
