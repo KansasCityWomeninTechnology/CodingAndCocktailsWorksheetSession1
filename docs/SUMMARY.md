@@ -1,17 +1,23 @@
 # Summary
 
-* [HTML](README.md)
-    * [Part 1: HTML Page Structure](worksheet-1-html-structure/README.md)
-    * [Part 2: HTML Body](worksheet-2-body-paragraph/README.md)
-    * [Part 3: Images & Forms](worksheet-3-image-forms/README.md)
-    * [Part 4: Links & Navigation](worksheet-4-links-navigation/README.md)
-    * [Bonus: Styling](bonus-styling.md)
+* [Overview](README.md)
+* [Setup Instructions](setup/README.md)
+
+### Worksheet
+* [Front-end Architecture](ws1-architecture/README.md)
+* [HTML Page Structure](ws2-html-structure/README.md)
+* [HTML Elements](ws3-html-tags/README.md)
+* [Attributes](ws4-html-attributes/README.md)
 * [Quiz](quiz.md)
+
+### Bonus
+* [Styling](bonus-styling.md)
+
+### Homework
+* [Troubleshooting](homework/troubleshooting.md)
+* [Troubleshooting Bonus](homework/troubleshooting-bonus.md)
+
+----
 * [Answer Key](answer-key.md)
-* [Homework](worksheet-homework/homework.md)
-    * [Troubleshooting](worksheet-homework/homework-troubleshooting.md)
-    * [Bonus](worksheet-homework/homework-bonus.md)
 * [HTML Cheat Sheet](references/html-cheat-sheet.md)
-* [Helpful Keyboard Shortcuts](references/README.md)
-
-
+* [References & Shortcuts](references/README.md)
