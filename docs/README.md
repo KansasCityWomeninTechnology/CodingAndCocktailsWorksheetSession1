@@ -8,8 +8,6 @@
 
 ### Overview
 
-Tonight we cover front-end architecture and HTML basics. 
-
 Front-end architecture is the organization of code and project files. Though there may be coding standards and practices specific to a team, the goal of good front-end architecture is to provide an efficient workflow that is maintainable throughout the project’s life.
 
 HTML is one of the building blocks of a web page. It defines the structure of the page and lays the foundation to then add styles and dynamic content. 

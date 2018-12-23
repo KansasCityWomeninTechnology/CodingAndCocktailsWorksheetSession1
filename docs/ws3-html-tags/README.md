@@ -40,7 +40,7 @@ Compare your _index.html_ against the answer key for your work so far. It might 
 <!-- Trick markdown for some more space -->
 ## 
 
-## References and helpful links <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
+## References and helpful links {#references} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
 
 If you want to read up on heading or HTML elements, check out the documentation from Mozilla Developer Network:
 

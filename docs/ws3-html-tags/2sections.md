@@ -2,7 +2,7 @@
    {% hint style="info" %}
 There's a lot of different HTML elements. When writing HTML, focus on the content and the meaning of what you are trying to communicate, not the website presentation. Good web development practice recommends doing so and calls this style of coding **Semantic HTML**.
 
-Sections group standalone content and typically include a header. Read more about `<section>`, `<div>`, and container HTML elements in the references. 
+Sections group standalone content and typically include a header. Read more about `<section>`, `<div>`, and container HTML elements [in the references](#references). 
    {% endhint %}
 
 1. Between the opening and closing tags for `<section>`, let's add the "About" header. Since this is the third most important heading on the page, we'll use an `<h3>` tag.
@@ -27,7 +27,7 @@ Place your cursor between the opening and closing tags for <code>&lt;section&gt;
 Don't forget to close the `<p>` tag.
    {% endhint %}
 
-1. Save your file and preview your page in Chrome. 🤩 
+1. Save your file and preview your page in Chrome. ![](../images/emojis/star-eyes.png) 
    {% hint style="tip" %}
 Feel free to save your work and preview your page as you code tonight. It's fun to see how each element progresses the creation of the webpage.
    {% endhint %}
