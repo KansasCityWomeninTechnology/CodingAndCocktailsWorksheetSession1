@@ -1,5 +1,5 @@
 # Setup {#top}
-Tonight we will learn front-end architecture and HTML. The combination of these two concepts provides the structure and the bones of a website. Or if you're creating a cocktail, it's the glass that holds your cocktail together. 
+Tonight we will learn front-end architecture and HTML.
 
 <!-- trick markdown to give me a little space between these two sections of text -->
 ## 

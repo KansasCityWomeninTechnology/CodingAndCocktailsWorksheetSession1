@@ -19,7 +19,7 @@ Front-end architecture is the organization of code and project files. Though the
 
 In this section of the worksheet, we will organize files with similar purposes to make it easy to maintain the website.
 
-At the end of this section, you will have a webpage that looks like this
+At the end of this section, you will have a webpage that looks like this:
 
 ![](images/finished.png)
 
@@ -53,5 +53,5 @@ Let's update references to the assets in _index.html_ by replacing the string `D
 
 <!-- trick markdown to give me a little space between these two sections of text -->
 ## 
-## References and helpful links <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
+## References and helpful links {#references} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
 [Good Front End Architecture](https://www.sitepoint.com/good-front-end-architecture/)

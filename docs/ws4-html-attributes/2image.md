@@ -34,7 +34,7 @@ If you created a directory structure to hold the image following what we learned
 The `alt` attribute content displays if the browser can't show (aka **render**) your image. Screen readers use the `alt` for better accessibility to help visually impaired users of the site.
    {% endhint %}
 
-1. Save your file and preview it in Chrome. Do you see your image? 🎉
+1. Save your file and preview it in Chrome. Do you see your image? ![](../images/emojis/party-popper.png)
 
    {% hint style="working" %}
 Not seeing your image? Try opening up Chrome DevTools to see if there's an error. Does your filename of the image match up to what's in the `src` attribute?

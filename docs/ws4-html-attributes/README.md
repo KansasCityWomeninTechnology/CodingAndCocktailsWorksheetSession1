@@ -44,7 +44,7 @@ Compare your _index.html_ against the answer key for your work so far. It might 
 <!-- Trick markdown for some more space -->
 ## 
 
-## References and helpful links <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
+## References and helpful links {#references} <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span>
 
 [Mozilla Developer Network Input element documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 

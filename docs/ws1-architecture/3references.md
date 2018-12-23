@@ -24,7 +24,7 @@ The `<!--   -->` wraps a comment in HTML. We'll learn more about it tonight.
 1. Save your file to see your work by selecting **File** <i class="fa fa-long-arrow-right"></i> **Save** in Atom. You can also use the keyboard shortcut `ctrl + s` on Windows or `cmd + s` on Mac. Unsaved files in Atom have a little blue dot on tab.
    ![](images/atom.png)
 
-1. In Chrome, reload _index.html_. Wow! The page looks so different with styles! 🎉
+1. In Chrome, reload _index.html_. Wow! The page looks so different with styles! ![](../images/emojis/party-popper.png)
 
 1. In Atom, go through the rest of the _index.html_ file and make the same necessary changes for the other lines beginning with  `<!-- REPLACE DIR PATH`. Feel free to save and inspect your work in Chrome as you go along. Once done, save _index.html_.
   {% hint style='tip' %}
