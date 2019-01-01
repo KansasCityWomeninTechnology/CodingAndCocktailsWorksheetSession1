@@ -1,15 +1,24 @@
 # Coding & Cocktails Session 1: HTML
 
-The `docs` directory contains worksheets for Coding & Cocktails session 1 published on Gitbooks: [Coding & Cocktails - The Glass- Front-end Architecture & HTML](https://www.gitbook.com/book/codingandcocktailskc/session-1-html/details).
+The `book` directory contains worksheets for Coding & Cocktails session 1 published on Gitbooks: [Coding & Cocktails - The Glass- Front-end Architecture & HTML](https://www.gitbook.com/book/codingandcocktailskc/session-1/details).
+
+It is also hosted as a Github page at [https://kansascitywomenintechnology.github.io/CodingAndCocktailsWorksheetSession1/](https://kansascitywomenintechnology.github.io/CodingAndCocktailsWorksheetSession1/)
 
 ## Getting Going
-Install [Gitbook](https://www.npmjs.com/package/gitbook) CLI from npm.
 
 ```bash
-gitbook install
-gitbook serve
+npm install
+npm run book:install
 ```
-To build without serving, `gitbook build`.
+
+To serve Gitbook, `npm start`.
+To build without serving, `npm run book:build`.
+
+## To build and deploy to Github pages
+Run command prior to pushing to master.
+```bash
+npm run book:deploy
+```
 
 ## Associated Repos
 Session work repo - [AnswerKeys](https://github.com/KansasCityWomeninTechnology/AnswerKeys)
