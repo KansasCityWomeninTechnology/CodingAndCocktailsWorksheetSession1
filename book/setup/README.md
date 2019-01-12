@@ -60,6 +60,13 @@ Click on the hamburger menu (<i class="fa fa-bars" aria-hidden="true"></i>) at t
 {% hint style='working' %}
 Did you know you can customize font size and color of the worksheets to make it easier for you to see?
 
-Click on the font menu (<i class="fa fa-font" aria-hidden="true"></i>) at the top of the page to open a menu where you can make your font larger or smaller or change background color.{% endhint %}
+Click on the font menu (<i class="fa fa-font" aria-hidden="true"></i>) at the top of the page to open a menu where you can make your font larger or smaller or change background color.
+{% endhint %}
+
+{% hint style='working' %}
+Did you know you can perform common tasks such as copy and paste and navigate Atom using keyboard shortcuts? 
+
+When working without a mouse, keyboard shortcuts will be faster than a trackpad. Open the [handy dandy keyboard shortcut reference in a new tab](/references/README.md) so you can refer to it easily!
+{% endhint %}
 
 

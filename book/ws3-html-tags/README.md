@@ -46,5 +46,9 @@ If you want to read up on heading or HTML elements, check out the documentation 
 
 [MDN Documentation on heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
+[MDN Documentation on section elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
+
+[MDN Documentation on div elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+
 [MDN Documentation on HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
