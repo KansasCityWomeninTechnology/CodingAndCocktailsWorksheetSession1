@@ -424,7 +424,8 @@
 <ol>
 <li><p>After the <code>&lt;h2&gt;&lt;/h2&gt;</code> subtitle, press <code>Enter</code> to start a new line. Add a &quot;About&quot; section by typing <code>&lt;section&gt;&lt;/section&gt;</code>.
 <div class="alert alert-info hints-alert"><div class="hints-icon"><i class="fa fa-info-circle fa-lg"></i></div><div class="hints-container"><p>There&apos;s a lot of different HTML elements. When writing HTML, focus on the content and the meaning of what you are trying to communicate, not the website presentation. Good web development practice recommends doing so and calls this style of coding <strong>Semantic HTML</strong>.</p>
-<p>Sections group standalone content and typically include a header. Read more about <code>&lt;section&gt;</code>, <code>&lt;div&gt;</code>, and container HTML elements <a href="#references">in the references</a>. </p>
+<p><code>section</code> groups standalone content, typically include a header, and helps organize the HTML into logical pieces. Use the element that best describes your content to align with Semantic HTML practices. </p>
+<p>You may have seen or heard of <code>&lt;div&gt;</code> as a means to group content. Following best practices, use <code>&lt;div&gt;</code> to group elements only for styling purposes, not for content organization. Read more about <code>&lt;section&gt;</code> and <code>&lt;div&gt;</code> <a href="#references">in the references</a>. </p>
 </div></div></p>
 </li>
 <li><p>Between the opening and closing tags for <code>&lt;section&gt;</code>, let&apos;s add the &quot;About&quot; header. Since this is the third most important heading on the page, we&apos;ll use an <code>&lt;h3&gt;</code> tag.
@@ -610,6 +611,8 @@ Place your cursor after <code>&lt;ul&gt;</code>, press <code>Enter</code>, and t
 <h2 id="references"><a name="references" class="plugin-anchor" href="#references"><i class="fa fa-link" aria-hidden="true"></i></a>References and helpful links  <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span></h2>
 <p>If you want to read up on heading or HTML elements, check out the documentation from Mozilla Developer Network:</p>
 <p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements" target="_blank">MDN Documentation on heading elements</a></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section" target="_blank">MDN Documentation on section elements</a></p>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div" target="_blank">MDN Documentation on div elements</a></p>
 <p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">MDN Documentation on HTML elements</a></p>
 
                                 
@@ -654,7 +657,7 @@ Place your cursor after <code>&lt;ul&gt;</code>, press <code>Enter</code>, and t
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"HTML Elements","level":"2.3","depth":1,"next":{"title":"Attributes","level":"2.4","depth":1,"path":"ws4-html-attributes/README.md","ref":"ws4-html-attributes/README.md","articles":[]},"previous":{"title":"HTML Page Structure","level":"2.2","depth":1,"path":"ws2-html-structure/README.md","ref":"ws2-html-structure/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["custom-favicon","hints","codeblock-label","anchors","livereload"],"root":"./book","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"livereload":{},"codeblock-label":{},"search":{},"hints":{"info":"fa fa-info-circle fa-lg","tip":"fa fa-lightbulb-o fa-lg","danger":"fa fa-exclamation-circle fa-lg","working":"fa fa-question-circle fa-lg"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"book/assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"gitbook":"*"},"file":{"path":"ws3-html-tags/README.md","mtime":"2019-01-01T17:02:29.856Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-01-06T22:00:04.061Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"HTML Elements","level":"2.3","depth":1,"next":{"title":"Attributes","level":"2.4","depth":1,"path":"ws4-html-attributes/README.md","ref":"ws4-html-attributes/README.md","articles":[]},"previous":{"title":"HTML Page Structure","level":"2.2","depth":1,"path":"ws2-html-structure/README.md","ref":"ws2-html-structure/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["custom-favicon","hints","codeblock-label","anchors"],"root":"./book","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"codeblock-label":{},"search":{},"hints":{"info":"fa fa-info-circle fa-lg","tip":"fa fa-lightbulb-o fa-lg","danger":"fa fa-exclamation-circle fa-lg","working":"fa fa-question-circle fa-lg"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"book/assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"gitbook":"*"},"file":{"path":"ws3-html-tags/README.md","mtime":"2019-01-12T14:53:19.661Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-01-12T16:07:08.640Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
@@ -662,10 +665,6 @@ Place your cursor after <code>&lt;ul&gt;</code>, press <code>Enter</code>, and t
         
     <script src="../gitbook/gitbook.js"></script>
     <script src="../gitbook/theme.js"></script>
-    
-        
-        <script src="../gitbook/gitbook-plugin-livereload/plugin.js"></script>
-        
     
         
         <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
