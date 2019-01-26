@@ -30,7 +30,7 @@ Try some troubleshooting so you can feel more confident coding on your own!
             <p>Does anyone know why there is no image displayed below this paragraph?</p>
             
             <!--Fix the following HTML to get the image to display-->
-            <div<img src="http://pngimg.com/uploads/snowflakes/snowflakes_PNG7545.png" alt="snowflake"></div>
+            <div<img src="https://source.unsplash.com/lwoTuByIuC4/600x400" alt="cocktail"></div>
             
             <!-- This HTML should display an ordered list of items. -->
             <h3>Is this list formatted according to best practices?</h3>
@@ -45,8 +45,8 @@ Try some troubleshooting so you can feel more confident coding on your own!
             
             <P>This is another paragraph. There is a <A href="http://codingandcocktails.kcwomenintech.org/">Coding &amp; Cocktails</A> link in this paragraph. <b>I want only this sentence to be bold. Which cocktail is your favorite tonight?  What is your favorite holiday tradition?  Who likes snow & ice?  Is 3 < 5? <i>This sentence should be in italics</i></P>
             
-            <!-- Winter Wonderland, is there something missing from this img tag? -->
-            <img src="http://info.clearcompany.com/hs-fs/hub/212972/file-2248258334-jpg/IMG-Blog-Posts/Winter-Wonderland.jpg" />
+            <!-- Woman debugging code, is there something missing from this img tag? -->
+            <img src="https://source.unsplash.com/5ZnS3wK6sUg/640x480" />
         
         </body>
     </html>
