@@ -1,6 +1,15 @@
-1. Let’s get organizing! Create the necessary folders in the "architecture" directory and move the downloaded project files to the correct folder like in the following diagram.
+1. Create the following folder structure inside your "architecture" directory. The "asset" folder contains 5 folders inside of it.
+
+   ![](images/folder-diagram.png)
+
+
+1. Let’s get organizing! Move the downloaded project files to the correct folder like in the following diagram. You will move files from your unzipped folder to the ones you created in the "architecture" directory. Notice some of the files live in the **root** folder. 
 
    ![](images/file-diagram.png)
+
+      {% hint style='info' %}
+**Assets** are valuable files for your web site or application. Think **CSS**, **JavaScript**, images, videos, etc.
+   {% endhint %}
 
    {% hint style='info' %}
 The directory name **js** is interchangeable with the directory name **scripts**. Using "scripts" or "js" as the directory name is personal preference.

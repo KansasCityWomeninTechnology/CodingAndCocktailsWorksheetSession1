@@ -1,12 +1,15 @@
 1. Download the assets at [http://bit.ly/2bVHBAi](http://bit.ly/2bVHBAi) and unzip the file.
 
+      {% hint style='tip' %}
+Not sure how to extract the contents of the zip file?
+
+**Mac users**: Double click on the downloaded file with the .zip extension<br/>
+**Windows users**: Right click on the file with the .zip extension and choose "Extract All." Select the destination you would like to extract the files to.
+   {% endhint %}   
+
    If it's taking a minute to download, use the time to introduce yourself to your neighbors! Your neighbors will be your buddies tonight and someone you can reach out to on Slack between sessions! 
    
    Here's an icebreaker question. Ask your neighbors, "What is your most used emoji and why"?
-
-   {% hint style='info' %}
-**Assets** are valuable files for your web site or application. Think **CSS**, **JavaScript**, images, videos, etc.
-   {% endhint %}
 
 1. Create a new folder named "architecture" in your "CodingAndCocktails/session1" folder. We will use this for the front-end architecture portion of the worksheet and will serve as the root directory for your application.
 
