@@ -36,16 +36,7 @@ Hey that `href` attribute looks familiar! This time we're using the `href` attri
 2. Save your file and open the _index.html_ file in Chrome.
 ![](https://media.giphy.com/media/12QipzuBuU90Gs/giphy.gif)
 
-1. Share your success by posting a screenshot to Slack or deploy your webpage using Now. To deploy the webpage, open Now from your installed applications. 
-   {% hint style="danger" %}
-If you haven't installed Now, take a moment to install it following the instructions in [the Tools](http://bit.ly/CnCTheTools).
-   {% endhint %}
-
-1. Click the upload button at the toolbar at the top of the Now application. The upload button looks something like <i class="fa fa-cloud-upload" aria-hidden="true"></i>.
-
-1. Navigate to and select your "CodingAndCocktails/session1/html" folder.
-
-1. Your browser tab will open to the deployed app. Copy and paste the link in Slack to share your cool new app.
+1. Share your success by posting a screenshot to Slack!
 
 
 <!-- ### [**Click here to sign up for next month if you want to learn more about styling and how it works!**](https://www.eventbrite.com/e/coding-cocktails-introduction-to-css-tickets-39470123201?aff=es2) -->
