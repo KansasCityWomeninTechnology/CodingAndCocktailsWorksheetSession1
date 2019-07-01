@@ -1,4 +1,4 @@
-1. Create the following folder structure inside your "architecture" directory. The "asset" folder contains 5 folders inside of it.
+1. Create the following folder structure inside your "architecture" directory. The "assets" folder contains 5 folders inside of it.
 
    ![](images/folder-diagram.png)
 
