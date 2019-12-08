@@ -9,6 +9,20 @@ Follow the instructions on this page to prepare your workspace.
 Open [Slack](http://kcwit.slack.com/) to the **#codingandcocktails** channel. It's a great way to stay in touch with your Coding & Cocktails girlfriends and to ask questions during and after the session. We'll also post updates and tips in Slack if we run in to any stumbling blocks tonight.
 {% endhint %}
 
+<!-- trick markdown to give me a little space between these two sections of text -->
+## 
+{% hint style='danger' %}
+If you are borrowing a laptop, please ask your mentor to explain the tools.
+{% endhint %}
+
+<!-- trick markdown to give me a little space between these two sections of text -->
+## 
+{% hint style='danger' %}
+If you are using a Chromebook, having trouble installing tools, or otherwise need to use a Cloud IDE option, we will use a cloud development environment called [**CodeSandbox**](https://codesandbox.io). In order to use CodeSandbox, you will need a GitHub account. 
+
+Navigate to GitHub to create a personal account or log in. Feel free to ask your mentor for help! When complete and logged in to GitHub, return here to continue the instructions. You won't install any tools listed on this page, but please read through them so you have context for tonight's worksheet.
+{% endhint %}
+
 
 ## Required tools for this session
 
