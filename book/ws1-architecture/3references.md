@@ -1,4 +1,4 @@
-1. Open Visual Studio Code (VS Code) from your installed applications. You can close all the default tabs that display. In VS Code, select **File** <i class="fa fa-long-arrow-right"></i> **Open folder**. Navigate to and select the "architecture" folder. 
+1. Open Visual Studio Code (VS Code) from your installed applications. You can close all the default tabs that display. In VS Code, select **File** ![](../images/arrow-right.svg) **Open Folder...**. Navigate to and select the "architecture" folder. 
 
 1. In VS Code, expand the "architecture" folder in the **EXPLORER** pane and double click _index.html_ to open it for editing. Your VS Code editor should look like the picture below.
 
@@ -23,14 +23,14 @@ The `<!--   -->` wraps a comment in HTML. We'll learn more about it tonight.
    
    ![](images/code-after.png)
 
-1. Save your file to see your work by selecting **File** <i class="fa fa-long-arrow-right"></i> **Save** in Atom. You can also use the keyboard shortcut `ctrl + s` on Windows or `cmd + s` on Mac. Unsaved files in Atom have a little blue dot on tab.
-   ![](images/atom.png)
+1. Save your file to see your work by selecting **File** ![](../images/arrow-right.svg) **Save** in VS Code. You can also use the keyboard shortcut `ctrl + s` on Windows or `cmd + s` on Mac. Unsaved files in VS Code have a little dot on tab of the file and in the **EXPLORER** pane.
+   ![](images/vs-code-save.png)
 
 1. In Chrome, reload _index.html_. Wow! The page looks so different with styles! ![](../images/emojis/party-popper.png)
 
-1. In Atom, go through the rest of the _index.html_ file and make the same necessary changes for the other lines beginning with  `<!-- REPLACE DIR PATH`. Feel free to save and inspect your work in Chrome as you go along. Once done, save _index.html_.
+1. In VS Code, go through the rest of the _index.html_ file and make the same necessary changes for the other lines beginning with  `<!-- REPLACE DIR PATH`. Feel free to save and inspect your work in Chrome as you go along. Once done, save _index.html_.
   {% hint style='tip' %}
-If you can't remember the folder names, you can expand the "architecture" folder in Atom's **Project** pane.
+If you can't remember the folder names, you can expand the "architecture" folder in VS Code's **EXPLORER** pane.
   {% endhint %}
 
   {% hint style='tip' %}

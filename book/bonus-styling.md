@@ -17,7 +17,7 @@ Need a hint?
 A stylesheet is a **CSS** file. What folder structure did you use in the front-end architecture section to store CSS files? 
    {% endhint %}
 
-1. In Atom, create a file named _main.css_ inside the new folder you created.
+1. In VS Code, create a file named _main.css_ inside the new folder you created.
 
 1. In a new browser tab, navigate to [Coding & Cocktails provided stylesheet](https://raw.githubusercontent.com/KansasCityWomeninTechnology/AnswerKeys/master/html/assets/css/main.css). Copy the contents of the file and paste it into _main.css_. Save _main.css_.
 
