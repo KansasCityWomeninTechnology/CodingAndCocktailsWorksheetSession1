@@ -20,9 +20,9 @@ If you are borrowing a laptop, your tools are pre-installed. Please ask your men
 
 1. [Chrome browser](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-browser/)
 
-1. [Atom IDE](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-atom/)
+1. [Visual Studio Code IDE](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-vscode/)
 
-1. [Install atom-live-server package](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-atom/#required-packages)
+1. [Install required Visual Studio Code Extensions](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tools-vscode/#configure)
 
 1. [Coding & Cocktails folder](https://codingandcocktailskc.gitbooks.io/coding-cocktails-the-tools/content/tips-directory-structure/)
 

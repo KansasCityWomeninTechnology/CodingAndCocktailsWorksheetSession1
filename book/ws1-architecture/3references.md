@@ -1,13 +1,15 @@
-1. Open Atom from your installed applications. You can close all the default tabs that display. In Atom select **File** <i class="fa fa-long-arrow-right"></i> **Add project folder**. Navigate to and select the "architecture" folder. The **Project** pane in Atom should look like the picture below.
+1. Open Visual Studio Code (VS Code) from your installed applications. You can close all the default tabs that display. In VS Code, select **File** <i class="fa fa-long-arrow-right"></i> **Open folder**. Navigate to and select the "architecture" folder. 
 
-   ![](images/atom-project.png)
+1. In VS Code, expand the "architecture" folder in the **EXPLORER** pane and double click _index.html_ to open it for editing. Your VS Code editor should look like the picture below.
 
-1. In Atom, expand the "architecture" folder in the **Project** pane to see the files you organized earlier. You will see your _index.html_ file.
+   ![](images/vs-code.png)
 
-1. Open _index.html_ by double clicking on the file. Search for a line starting with `<!-- REPLACE DIR PATH` and ending with `-->`.
+1. In the _index.html_ file, search for a line starting with `<!-- REPLACE DIR PATH` and ending with `-->`.
    {% hint style="info" %}
 The `<!--   -->` wraps a comment in HTML. We'll learn more about it tonight.
    {% endhint %}
+
+1. Let's work through the first one we see on line 12 together.
   
 1. Remove the opening comment block, `<!-- REPLACE DIR PATH`. Also remove the closing comment mark, `-->` at the end of the same lines.
 
