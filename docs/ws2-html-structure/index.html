@@ -389,19 +389,18 @@
 <ol>
 <li><p>Using the file explorer, in the &quot;CodingAndCocktails/session1&quot; folder you created during the tools setup, create a new folder named &quot;html&quot;.</p>
 </li>
-<li><p>In Atom, select <strong>File</strong> <i class="fa fa-long-arrow-right"></i> <strong>Add project folder</strong>. Navigate to and select the &quot;CodingAndCocktails/session1/html&quot; folder.
-<div class="alert alert-success hints-alert"><div class="hints-icon"><i class="fa fa-lightbulb-o fa-lg"></i></div><div class="hints-container"><p>Close all the tabs from the last section of the worksheet and close the &quot;architecture&quot; project folder. Remove the &quot;architecture&quot; folder from showing up in Atom by right clicking on the &quot;architecture&quot; folder and select <strong>Remove Project Folder</strong>.</p>
-<p>   <img src="images/atom-remove-project-folder.png" alt=""></p>
-</div></div></p>
+<li><p>In VS Code, select <strong>File</strong> <img src="../images/arrow-right.svg" alt=""> <strong>Open Folder...</strong>. Navigate to and select the &quot;CodingAndCocktails/session1/html&quot; folder.</p>
 </li>
-<li><p>In Atom&apos;s <strong>Project</strong> pane, right click on the &quot;html&quot; folder and select <strong>New file</strong>.</p>
+<li><p>Create a file called <em>index.html</em>. In VS Code&apos;s <strong>EXPLORER</strong> pane, hover over <strong>HTML</strong> to display action buttons. Click the <strong>New File</strong> button.</p>
+<p><img src="images/vs-code-new-file.png" alt=""></p>
 </li>
-<li><p>Name the file <em>index.html</em> and press <code>Enter</code> to save it in your &quot;CodingAndCocktails/session1/html&quot; folder.</p>
+<li><p>In the text box that appears, name the file <em>index.html</em> and press <code>Enter</code> to save it in your &quot;CodingAndCocktails/session1/html&quot; folder.</p>
+<p><img src="images/vs-code-name-file.png" alt=""></p>
 </li>
 </ol>
 <h2 id="structure"><a name="structure" class="plugin-anchor" href="#structure"><i class="fa fa-link" aria-hidden="true"></i></a>Create HTML structure  <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span></h2>
 <ol>
-<li><p>In the <strong>Project</strong> pane, double click on the <em>index.html</em> file to open it.</p>
+<li><p>VS Code should open the <em>index.html</em> file for you in the editor.</p>
 </li>
 <li><p>Copy the following code snippet and paste it into your <em>index.html</em> file.</p>
 <p></p><p class="code-label">index.html</p><p></p>
@@ -419,7 +418,7 @@
 <span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
 </code></pre>
 <p><div class="alert alert-warning hints-alert"><div class="hints-icon"><i class="fa fa-question-circle fa-lg"></i></div><div class="hints-container"><p>Take a look at the spacing in the file. Some tags, such as <code>head</code> and <code>body</code> indent from their parent tag, <code>html</code>. This means they are children of the <code>html</code> tag. Can you match up the start and end of the <code>head</code>, <code>body</code>, and <code>html</code> tags?</p>
-<p>The <code>meta</code> and <code>title</code> tags are also children. What tag is <code>meta</code> and <code>title</code>&apos;s parent? Feel free to grab a mentor to talk out the answers to these questions. They LOVE to help and act as soundboard!</p>
+<p>The <code>meta</code> and <code>title</code> tags are also children. What tag is <code>meta</code> and <code>title</code>&apos;s parent? Feel free to grab a mentor to talk out the answers to these questions. They LOVE to help and act as a soundboard!</p>
 </div></div></p>
 </li>
 <li><p>Save the file.</p>
@@ -429,7 +428,7 @@
 </ol>
 <h2 id="head"><a name="head" class="plugin-anchor" href="#head"><i class="fa fa-link" aria-hidden="true"></i></a>HEAD section  <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span></h2>
 <ol>
-<li><p>In Atom, change the text between the <code>&lt;title&gt;&lt;/title&gt;</code> tags. The title displays on the browser tab. Tonight we&apos;ll make a Cocktail Lounge site so change the text from &quot;Document&quot; to &quot;YourName&apos;s Cocktail Lounge&quot;.
+<li><p>In VS Code, change the text between the <code>&lt;title&gt;&lt;/title&gt;</code> tags. The title displays on the browser tab. Tonight we&apos;ll make a Cocktail Lounge site so change the text from &quot;Document&quot; to &quot;YourName&apos;s Cocktail Lounge&quot;.
 <div class="alert alert-info hints-alert"><div class="hints-icon"><i class="fa fa-info-circle fa-lg"></i></div><div class="hints-container"><p>The title is in the <code>head</code> section. The <code>head</code> section contains data telling your browser more information about your page. This is also where you link to your styles and script files.</p>
 </div></div></p>
 </li>
@@ -438,11 +437,11 @@
 </ol>
 <h2 id="view"><a name="view" class="plugin-anchor" href="#view"><i class="fa fa-link" aria-hidden="true"></i></a>View your web page  <span class="navigate-top"><a href="#top" title="Take me to the top of page"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a></span></h2>
 <ol>
-<li><p>Now we want to preview the <em>index.html</em> file in Chrome. Instead of saving and reloading the page like we did earlier, we&apos;ll use the atom plugin <strong>atom-live-server</strong>. This package opens up the web page in your default web browser and reloads the page whenever you save files. In Atom, start the live server by selecting <strong>Packages</strong> <i class="fa fa-long-arrow-right"></i> <strong>atom-live-server</strong>. Select <strong>Start server</strong>. A browser tab will open.
-<div class="alert alert-danger hints-alert"><div class="hints-icon"><i class="fa fa-exclamation-circle fa-lg"></i></div><div class="hints-container"><p>If you don&apos;t have the <strong>atom-live-server</strong> package, take a moment to <a href="../setup">set up your workspace</a>.</p>
+<li><p>Now we want to preview the <em>index.html</em> file in Chrome. Instead of saving and reloading the page like we did earlier, we&apos;ll use the VS Code plugin <strong>Live Server</strong>. This extension opens up the web page in your default web browser and reloads the page whenever you save files. In VS Code, start the live server by right clicking on <em>index.html</em> in the <strong>EXPLORER</strong> pane and selecting <strong>Open with Live Server</strong>. A browser tab will open.
+<div class="alert alert-danger hints-alert"><div class="hints-icon"><i class="fa fa-exclamation-circle fa-lg"></i></div><div class="hints-container"><p>If you don&apos;t have the <strong>Live Server</strong> option, take a moment to <a href="../setup">set up your workspace</a>.</p>
 </div></div>   </p>
 <p><div class="alert alert-danger hints-alert"><div class="hints-icon"><i class="fa fa-exclamation-circle fa-lg"></i></div><div class="hints-container"><p>If the tab opens in another browser, copy the URL and paste it into a new tab in Chrome. The reload will automatically happen in Chrome.</p>
-<p>If you get an access warning, click &quot;Allow&quot; to let <strong>atom-live-server</strong> serve the application.</p>
+<p>If you get an access warning, click &quot;Allow&quot; to let <strong>Live Server</strong> serve the application.</p>
 <p>If you are borrowing a laptop and get an access warning, please contact a member of the Coding &amp; Cockails leadership team for access.</p>
 </div></div>   </p>
 </li>
@@ -495,7 +494,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"HTML Page Structure","level":"2.2","depth":1,"next":{"title":"HTML Elements","level":"2.3","depth":1,"path":"ws3-html-tags/README.md","ref":"ws3-html-tags/README.md","articles":[]},"previous":{"title":"Front-end Architecture","level":"2.1","depth":1,"path":"ws1-architecture/README.md","ref":"ws1-architecture/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["custom-favicon","hints","codeblock-label","anchors"],"root":"./book","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"codeblock-label":{},"search":{},"hints":{"info":"fa fa-info-circle fa-lg","tip":"fa fa-lightbulb-o fa-lg","danger":"fa fa-exclamation-circle fa-lg","working":"fa fa-question-circle fa-lg"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"book/assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"gitbook":"*"},"file":{"path":"ws2-html-structure/README.md","mtime":"2019-01-01T17:02:29.848Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-02-26T01:36:40.110Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"HTML Page Structure","level":"2.2","depth":1,"next":{"title":"HTML Elements","level":"2.3","depth":1,"path":"ws3-html-tags/README.md","ref":"ws3-html-tags/README.md","articles":[]},"previous":{"title":"Front-end Architecture","level":"2.1","depth":1,"path":"ws1-architecture/README.md","ref":"ws1-architecture/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["custom-favicon","hints","codeblock-label","anchors"],"root":"./book","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"codeblock-label":{},"search":{},"hints":{"info":"fa fa-info-circle fa-lg","tip":"fa fa-lightbulb-o fa-lg","danger":"fa fa-exclamation-circle fa-lg","working":"fa fa-question-circle fa-lg"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"favicon":"book/assets/favicon.ico","custom-favicon":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"anchors":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"gitbook":"*"},"file":{"path":"ws2-html-structure/README.md","mtime":"2019-01-01T17:02:29.848Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-12-08T18:57:58.965Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
