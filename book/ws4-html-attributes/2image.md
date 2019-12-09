@@ -1,4 +1,4 @@
-1. Images elements don't require closing tags. In Atom, find the "About" section. Add an `<img />` tag below the "**About**" header on your page to add an image.
+1. Images elements don't require closing tags. In VS Code, find the "About" section. Add an `<img />` tag below the "**About**" header on your page to add an image.
    {% hint style="info" %}
 We created a **self-closing** tag. Self-closing tags have the `/>` written into the tag. HTML elements that don't require content or derive their information from attributes are self-closing.
    {% endhint %}

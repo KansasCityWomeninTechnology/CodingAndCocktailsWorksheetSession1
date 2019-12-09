@@ -1,4 +1,4 @@
-1. In the **Project** pane, double click on the _index.html_ file to open it.
+1. VS Code should open the _index.html_ file for you in the editor.
 
 1. Copy the following code snippet and paste it into your _index.html_ file.
 
@@ -20,7 +20,7 @@
    {% hint style="working" %}
 Take a look at the spacing in the file. Some tags, such as `head` and `body` indent from their parent tag, `html`. This means they are children of the `html` tag. Can you match up the start and end of the `head`, `body`, and `html` tags?
 
-The `meta` and `title` tags are also children. What tag is `meta` and `title`'s parent? Feel free to grab a mentor to talk out the answers to these questions. They LOVE to help and act as soundboard!
+The `meta` and `title` tags are also children. What tag is `meta` and `title`'s parent? Feel free to grab a mentor to talk out the answers to these questions. They LOVE to help and act as a soundboard!
    {% endhint %}
    
 1. Save the file.

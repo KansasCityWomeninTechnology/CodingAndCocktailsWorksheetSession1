@@ -10,7 +10,7 @@ Join the KCWiT #codingandcocktails Slack Channel: [kcwit.slack.com](http://kcwit
 ### Troubleshooting Bonus
 This exercise only requires one addition.  Can you figure out what it is? 
 
-1.  Open a new file in Atom and save it in your `CodingAndCocktails/session1/html` folder as *troubleshooting2.html*
+1.  Open a new file in VS Code and save it in your `CodingAndCocktails/session1/html` folder as *troubleshooting2.html*
 
 2.  Paste the following code into the file
 ```html

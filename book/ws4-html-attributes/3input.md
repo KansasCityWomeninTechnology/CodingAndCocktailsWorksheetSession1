@@ -1,4 +1,4 @@
-1. In Atom, find the "Contact" section in your _index.html_ and add a new line after the paragraph element.
+1. In VS Code, find the "Contact" section in your _index.html_ and add a new line after the paragraph element.
 
 1. We want to display a label so people know to put their email address in the input. Labels have their own HTML element, `<label>`. Add a `<label>` tag. Between the opening and closing `<label>` tag, add text for the label, such as "Email".
 
@@ -6,7 +6,7 @@
 Using a `label` for HTML input is best practice for assistive technologies. Labels help describe the input control to provide correct semantics and also helps apply focus on the input control automatically.
   {% endhint %}
 
-1. Now we use an attribute to help tie 2 HTML elements together. The `for` attribute specifies the id of the control to tie it to (which we will create soon). Inside the opening `<label>` tag, add a`for` attribute and set the value to "email", like you did for the image `src` attribute and the filename of the image. 
+1. Now we use an attribute to help tie HTML elements together. The `for` attribute specifies the id of the control to tie it to (which we will create soon). Inside the opening `<label>` tag, add a`for` attribute and set the value to "email", like you did for the image `src` attribute and the filename of the image. 
 
    {% hint style="working" %}
 <details>
@@ -24,7 +24,7 @@ Inside the opening <code>&lt;label&gt;</code> tag, type <code>for="email"</code>
 
 1. Save your file and preview it in Chrome. Do you see your "Email" label right above the footer?
 
-1. Let's add the email input! In Atom, add a new line after the `<label></label>` element.
+1. Let's add the email input! In VS Code, add a new line after the `<label></label>` element.
 
 1. Inputs have their own HTML element called `<input>` and are **self-closing**. All the information the input needs are in attributes. Type `<input />`. 
 
