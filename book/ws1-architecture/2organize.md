@@ -2,7 +2,6 @@
 
    ![](images/folder-diagram.png)
 
-
 1. Let’s get organizing! Move the downloaded project files to the correct folder like in the following diagram. You will move files from your unzipped folder to the ones you created in the "architecture" directory. Notice some of the files live in the **root** folder. 
 
    ![](images/file-diagram.png)

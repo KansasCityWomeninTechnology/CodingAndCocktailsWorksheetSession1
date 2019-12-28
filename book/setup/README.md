@@ -49,7 +49,7 @@ Create a folder named "session1" in your "CodingAndCocktails" folder by followin
    {% hint style="tip" %}
 Your home directory is typically `/users/<your user name>` on a Mac or `C:/Users/<your user name>` on a Windows machine.
 
-**Windows users**- You can navigate to your home directory by typing `%USERPROFILE%` in the file location bar and pressing `Enter`. 
+**Windows users**- You can navigate to your home directory by typing `%USERPROFILE%` in the file location bar of File Explorer and pressing `Enter`. 
    {% endhint %}
 
 1. Find and navigate into the "CodingAndCocktails" folder you created as part of your tools setup.
@@ -83,7 +83,7 @@ Click on the font menu (<i class="fa fa-font" aria-hidden="true"></i>) at the to
 {% endhint %}
 
 {% hint style='working' %}
-Did you know you can perform common tasks such as copy and paste and navigate Atom using keyboard shortcuts? 
+Did you know you can perform common tasks such as copy and paste and navigate VS Code using keyboard shortcuts? 
 
 When working without a mouse, keyboard shortcuts will be faster than a trackpad. Open the [handy dandy keyboard shortcut reference in a new tab](/references/README.md) so you can refer to it easily!
 {% endhint %}

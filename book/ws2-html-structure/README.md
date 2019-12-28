@@ -10,7 +10,7 @@ In the HTML section of the worksheet, we will create a webpage together that loo
 <!-- trick markdown to give me a little space between these two sections of text -->
 ## 
 {% hint style='danger' %}
-If you are using CodeSandbox, please skip to [CloudSandbox instructions](#cloud-ide) below.
+If you are using CodeSandbox, please skip to [CoddSandbox instructions](#cloud-ide) below.
 {% endhint %}
 
 This section will help guide you through the following steps:
