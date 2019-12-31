@@ -37,7 +37,7 @@ If you can't remember the folder names, you can expand the "architecture" folder
 Keep an eye out for `data-video="DIR"`. When you get to this code block, make sure to read all the `<!-- Banner -->` comment details for replacing `DIR` with the file path. When you set this, there is **JavaScript** that will load a video in the background of your site.
   {% endhint %}
 
-1. Reload _index.html_ in Chrome. Chrome has a powerful built-in way to look for errors and inspect your code, called **Chrome DevTools**. Let's open Chrome DevTools to see if there are any errors finding references.
+1. Reload _index.html_ in Chrome. Chrome has a powerful built-in way to look for errors and inspect your code, called **Chrome DevTools**. We can use Chrome DevTools to see if there are any errors finding references.
 
    {% hint style='info' %}
 Opening up Chrome DevTools to identify and fix errors is **debugging** code. Fancy!
